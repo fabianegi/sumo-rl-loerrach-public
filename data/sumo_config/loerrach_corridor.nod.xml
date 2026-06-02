@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Corridor network: 3 intersections along Basler Straße (B317)
+     J_N (Tumringer Str.) - C (Hauptkreuzung, RL) - J_S (Brühlstr.)
+     250m spacing between intersections
+-->
+<nodes>
+    <!-- Main axis endpoints -->
+    <node id="N_end" x="0.0"    y="450.0"  type="priority"/>  <!-- Basler Str. Nord (Stetten) -->
+    <node id="S_end" x="0.0"    y="-450.0" type="priority"/>  <!-- Basler Str. Süd (CH-Grenze) -->
+
+    <!-- Intersection J_N: Basler Str. × Tumringer Str. (fixed-time) -->
+    <node id="J_N"   x="0.0"    y="250.0"  type="traffic_light"/>
+    <node id="Wn"    x="-200.0" y="250.0"  type="priority"/>  <!-- Tumringer Str. West -->
+    <node id="En"    x="200.0"  y="250.0"  type="priority"/>  <!-- Tumringer Str. Ost -->
+
+    <!-- Intersection C: Basler Str. × Querstraße (RL-controlled) -->
+    <node id="C"     x="0.0"    y="0.0"    type="traffic_light"/>
+    <node id="W"     x="-200.0" y="0.0"    type="priority"/>  <!-- Querstraße West -->
+    <node id="E"     x="200.0"  y="0.0"    type="priority"/>  <!-- Querstraße Ost -->
+
+    <!-- Intersection J_S: Basler Str. × Brühlstr. (fixed-time) -->
+    <node id="J_S"   x="0.0"    y="-250.0" type="traffic_light"/>
+    <node id="Ws"    x="-200.0" y="-250.0" type="priority"/>  <!-- Brühlstr. West -->
+    <node id="Es"    x="200.0"  y="-250.0" type="priority"/>  <!-- Brühlstr. Ost -->
+</nodes>

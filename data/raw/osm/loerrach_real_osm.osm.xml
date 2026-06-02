@@ -1,0 +1,2050 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2026-05-19T22:06:02Z"/>
+
+  <node id="19387435" lat="47.5974909" lon="7.6562783" version="12" timestamp="2020-02-17T23:00:51Z" changeset="81139487" uid="4803523" user="xDSF-DFSx"/>
+  <node id="19387444" lat="47.5963310" lon="7.6560024" version="10" timestamp="2023-01-11T14:24:18Z" changeset="131148492" uid="10292567" user="cityd"/>
+  <node id="19387534" lat="47.5984486" lon="7.6564077" version="15" timestamp="2024-12-27T14:55:37Z" changeset="160679068" uid="3203300" user="Tentos">
+    <tag k="bicycle" v="yes"/>
+    <tag k="button_operated" v="yes"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing:island" v="yes"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="traffic_signals:sound" v="yes"/>
+    <tag k="traffic_signals:vibration" v="yes"/>
+  </node>
+  <node id="30830551" lat="47.5969395" lon="7.6513206" version="8" timestamp="2010-12-25T05:32:59Z" changeset="6758881" uid="13436" user="hkucharek"/>
+  <node id="30830552" lat="47.5968125" lon="7.6536831" version="5" timestamp="2010-12-04T10:11:25Z" changeset="6535163" uid="13436" user="hkucharek"/>
+  <node id="37072835" lat="47.5982379" lon="7.6563767" version="8" timestamp="2022-12-25T00:53:48Z" changeset="130470547" uid="17176872" user="Halbgeviertstrich"/>
+  <node id="37072847" lat="47.5979449" lon="7.6551046" version="9" timestamp="2021-08-09T23:49:39Z" changeset="109432112" uid="10627331" user="ChillyDL"/>
+  <node id="37072858" lat="47.5965615" lon="7.6560740" version="7" timestamp="2023-01-11T14:24:18Z" changeset="131148492" uid="10292567" user="cityd"/>
+  <node id="37072864" lat="47.5985319" lon="7.6570764" version="4" timestamp="2010-12-31T23:31:27Z" changeset="6824187" uid="13436" user="hkucharek"/>
+  <node id="37072870" lat="47.5986293" lon="7.6574104" version="3" timestamp="2009-06-12T20:06:36Z" changeset="1499264" uid="85761" user="klausis"/>
+  <node id="37072873" lat="47.5986323" lon="7.6577592" version="6" timestamp="2010-12-31T23:31:41Z" changeset="6824187" uid="13436" user="hkucharek"/>
+  <node id="37072877" lat="47.5986121" lon="7.6580905" version="4" timestamp="2010-12-31T23:31:26Z" changeset="6824187" uid="13436" user="hkucharek"/>
+  <node id="37072882" lat="47.5986987" lon="7.6584961" version="2" timestamp="2009-06-12T20:06:36Z" changeset="1499264" uid="85761" user="klausis"/>
+  <node id="37072885" lat="47.5989655" lon="7.6587445" version="5" timestamp="2010-12-31T23:31:39Z" changeset="6824187" uid="13436" user="hkucharek"/>
+  <node id="37072888" lat="47.5991956" lon="7.6587793" version="6" timestamp="2024-05-07T15:23:49Z" changeset="151016379" uid="17176872" user="Halbgeviertstrich">
+    <tag k="disused:highway" v="traffic_signals"/>
+  </node>
+  <node id="37072892" lat="47.5994274" lon="7.6586965" version="5" timestamp="2012-09-21T22:16:54Z" changeset="13201852" uid="818906" user="Krake User"/>
+  <node id="37072898" lat="47.5997576" lon="7.6587262" version="4" timestamp="2012-09-21T22:16:54Z" changeset="13201852" uid="818906" user="Krake User"/>
+  <node id="60483024" lat="47.5991750" lon="7.6595949" version="4" timestamp="2010-12-07T19:05:13Z" changeset="6578250" uid="13436" user="hkucharek"/>
+  <node id="60483039" lat="47.5985841" lon="7.6594264" version="4" timestamp="2010-12-31T23:31:30Z" changeset="6824187" uid="13436" user="hkucharek"/>
+  <node id="60483070" lat="47.5955911" lon="7.6584049" version="5" timestamp="2015-11-30T15:17:35Z" changeset="35667829" uid="2290263" user="soemisch"/>
+  <node id="60483073" lat="47.5957109" lon="7.6578823" version="4" timestamp="2015-11-30T15:17:35Z" changeset="35667829" uid="2290263" user="soemisch"/>
+  <node id="60483082" lat="47.5967601" lon="7.6582169" version="4" timestamp="2018-07-02T15:31:50Z" changeset="60351604" uid="818906" user="Krake User"/>
+  <node id="60483085" lat="47.5968588" lon="7.6578134" version="4" timestamp="2018-07-02T15:31:50Z" changeset="60351604" uid="818906" user="Krake User"/>
+  <node id="60483088" lat="47.5975805" lon="7.6580443" version="2" timestamp="2009-06-12T20:06:30Z" changeset="1499264" uid="85761" user="klausis"/>
+  <node id="60483091" lat="47.5980307" lon="7.6581967" version="2" timestamp="2009-06-12T20:06:30Z" changeset="1499264" uid="85761" user="klausis"/>
+  <node id="60483094" lat="47.5983904" lon="7.6583063" version="2" timestamp="2009-06-12T20:06:30Z" changeset="1499264" uid="85761" user="klausis"/>
+  <node id="60483099" lat="47.5984646" lon="7.6583815" version="3" timestamp="2010-12-07T19:05:04Z" changeset="6578250" uid="13436" user="hkucharek"/>
+  <node id="60483101" lat="47.5985367" lon="7.6585166" version="3" timestamp="2010-12-07T19:05:09Z" changeset="6578250" uid="13436" user="hkucharek"/>
+  <node id="60483105" lat="47.5986436" lon="7.6588187" version="3" timestamp="2010-12-07T19:05:04Z" changeset="6578250" uid="13436" user="hkucharek"/>
+  <node id="60483108" lat="47.5986395" lon="7.6590119" version="5" timestamp="2019-01-28T16:10:56Z" changeset="66710813" uid="179581" user="Geofreund1"/>
+  <node id="60483110" lat="47.5986293" lon="7.6591356" version="3" timestamp="2010-12-07T19:05:05Z" changeset="6578250" uid="13436" user="hkucharek"/>
+  <node id="60483118" lat="47.5992189" lon="7.6591595" version="5" timestamp="2010-12-31T23:31:33Z" changeset="6824187" uid="13436" user="hkucharek"/>
+  <node id="280331428" lat="47.5989838" lon="7.6565475" version="4" timestamp="2020-02-17T23:00:51Z" changeset="81139487" uid="4803523" user="xDSF-DFSx"/>
+  <node id="280331429" lat="47.6000239" lon="7.6577096" version="3" timestamp="2020-02-17T23:00:51Z" changeset="81139487" uid="4803523" user="xDSF-DFSx"/>
+  <node id="281094079" lat="47.5980061" lon="7.6534328" version="12" timestamp="2022-12-30T21:28:21Z" changeset="130703397" uid="17176872" user="Halbgeviertstrich"/>
+  <node id="282864617" lat="47.5958893" lon="7.6571888" version="4" timestamp="2009-11-29T18:05:01Z" changeset="3248657" uid="121329" user="peterson"/>
+  <node id="282864619" lat="47.5964304" lon="7.6561755" version="3" timestamp="2011-01-02T11:12:07Z" changeset="6837149" uid="13436" user="hkucharek"/>
+  <node id="282864620" lat="47.5965053" lon="7.6562473" version="3" timestamp="2011-01-02T11:12:06Z" changeset="6837149" uid="13436" user="hkucharek"/>
+  <node id="282864621" lat="47.5969448" lon="7.6564139" version="3" timestamp="2011-01-02T11:12:06Z" changeset="6837149" uid="13436" user="hkucharek"/>
+  <node id="282864624" lat="47.5972509" lon="7.6564855" version="3" timestamp="2011-01-02T11:12:06Z" changeset="6837149" uid="13436" user="hkucharek"/>
+  <node id="282864630" lat="47.5976422" lon="7.6565919" version="3" timestamp="2011-01-02T11:12:08Z" changeset="6837149" uid="13436" user="hkucharek"/>
+  <node id="282864632" lat="47.5979882" lon="7.6567922" version="2" timestamp="2009-02-22T21:29:56Z" changeset="618267" uid="43965" user="PhilippK"/>
+  <node id="282864633" lat="47.5983016" lon="7.6569763" version="3" timestamp="2011-01-02T11:12:07Z" changeset="6837149" uid="13436" user="hkucharek"/>
+  <node id="282864634" lat="47.5983330" lon="7.6571096" version="4" timestamp="2016-03-16T07:23:53Z" changeset="37863652" uid="99810" user="Martin Borsje"/>
+  <node id="313946696" lat="47.5951728" lon="7.6572049" version="2" timestamp="2010-12-31T23:31:44Z" changeset="6824187" uid="13436" user="hkucharek"/>
+  <node id="313946698" lat="47.5968088" lon="7.6577283" version="2" timestamp="2018-07-02T15:31:50Z" changeset="60351604" uid="818906" user="Krake User"/>
+  <node id="313946699" lat="47.5957998" lon="7.6574042" version="4" timestamp="2018-07-02T15:31:50Z" changeset="60351604" uid="818906" user="Krake User"/>
+  <node id="313946700" lat="47.5963129" lon="7.6586676" version="4" timestamp="2015-12-01T08:47:02Z" changeset="35680426" uid="2290263" user="soemisch"/>
+  <node id="313946704" lat="47.5971644" lon="7.6589780" version="6" timestamp="2018-07-02T15:31:50Z" changeset="60351604" uid="818906" user="Krake User"/>
+  <node id="313946707" lat="47.5969653" lon="7.6603598" version="5" timestamp="2018-07-02T14:33:16Z" changeset="60349999" uid="818906" user="Krake User"/>
+  <node id="313946709" lat="47.5967598" lon="7.6602901" version="5" timestamp="2018-07-02T14:33:16Z" changeset="60349999" uid="818906" user="Krake User"/>
+  <node id="313946712" lat="47.5969888" lon="7.6589137" version="5" timestamp="2018-07-02T14:33:16Z" changeset="60349999" uid="818906" user="Krake User"/>
+  <node id="313946716" lat="47.5979044" lon="7.6592160" version="6" timestamp="2015-12-01T08:47:02Z" changeset="35680426" uid="2290263" user="soemisch"/>
+  <node id="351898833" lat="47.5965505" lon="7.6550654" version="10" timestamp="2010-12-25T05:32:58Z" changeset="6758881" uid="13436" user="hkucharek"/>
+  <node id="352850300" lat="47.5968944" lon="7.6522426" version="5" timestamp="2010-12-25T05:32:58Z" changeset="6758881" uid="13436" user="hkucharek"/>
+  <node id="352850316" lat="47.5967345" lon="7.6542919" version="3" timestamp="2010-12-25T05:32:59Z" changeset="6758881" uid="13436" user="hkucharek"/>
+  <node id="352850320" lat="47.5972185" lon="7.6544453" version="7" timestamp="2015-11-30T14:41:41Z" changeset="35667059" uid="2290263" user="soemisch"/>
+  <node id="352850327" lat="47.5959126" lon="7.6549484" version="11" timestamp="2010-12-25T05:32:58Z" changeset="6758881" uid="13436" user="hkucharek"/>
+  <node id="361451228" lat="47.5979546" lon="7.6544130" version="8" timestamp="2015-11-30T14:41:41Z" changeset="35667059" uid="2290263" user="soemisch"/>
+  <node id="362567154" lat="47.5959228" lon="7.6536556" version="5" timestamp="2010-12-25T05:33:00Z" changeset="6758881" uid="13436" user="hkucharek"/>
+  <node id="364421667" lat="47.6005282" lon="7.6542488" version="3" timestamp="2015-12-01T06:43:15Z" changeset="35679223" uid="2290263" user="soemisch"/>
+  <node id="364421671" lat="47.6010426" lon="7.6544055" version="1" timestamp="2009-03-21T17:04:42Z" changeset="840692" uid="43965" user="PhilippK"/>
+  <node id="364423785" lat="47.5991855" lon="7.6537868" version="3" timestamp="2015-12-01T06:43:15Z" changeset="35679223" uid="2290263" user="soemisch"/>
+  <node id="364830706" lat="47.5960462" lon="7.6549559" version="5" timestamp="2010-12-25T05:32:57Z" changeset="6758881" uid="13436" user="hkucharek"/>
+  <node id="364830715" lat="47.5956897" lon="7.6548624" version="3" timestamp="2010-12-25T05:54:43Z" changeset="6758928" uid="13436" user="hkucharek"/>
+  <node id="365397859" lat="47.5981007" lon="7.6556798" version="4" timestamp="2015-11-30T14:41:41Z" changeset="35667059" uid="2290263" user="soemisch"/>
+  <node id="365397864" lat="47.5985978" lon="7.6556991" version="2" timestamp="2010-12-08T22:50:44Z" changeset="6590561" uid="13436" user="hkucharek"/>
+  <node id="365397867" lat="47.5988024" lon="7.6557427" version="3" timestamp="2013-11-03T17:34:14Z" changeset="18698446" uid="41362" user="Eriks Zelenka"/>
+  <node id="365397872" lat="47.5992048" lon="7.6559328" version="3" timestamp="2023-04-10T13:33:32Z" changeset="134730826" uid="17176872" user="Halbgeviertstrich"/>
+  <node id="365397876" lat="47.5993090" lon="7.6560687" version="3" timestamp="2010-12-08T22:50:35Z" changeset="6590561" uid="13436" user="hkucharek">
+    <tag k="highway" v="turning_circle"/>
+  </node>
+  <node id="365397919" lat="47.6007066" lon="7.6583864" version="4" timestamp="2015-11-30T16:16:07Z" changeset="35668953" uid="2290263" user="soemisch"/>
+  <node id="369031765" lat="47.5976711" lon="7.6516425" version="3" timestamp="2017-12-30T21:11:51Z" changeset="55045064" uid="210440" user="johsin18"/>
+  <node id="370645533" lat="47.5966003" lon="7.6548672" version="2" timestamp="2010-12-25T06:01:50Z" changeset="6758945" uid="13436" user="hkucharek"/>
+  <node id="370645539" lat="47.5973953" lon="7.6549863" version="2" timestamp="2010-12-25T06:01:51Z" changeset="6758945" uid="13436" user="hkucharek"/>
+  <node id="412208986" lat="47.6001718" lon="7.6579062" version="4" timestamp="2024-03-07T08:54:23Z" changeset="148329835" uid="2102114" user="***juggernaut***"/>
+  <node id="412208987" lat="47.6000681" lon="7.6579751" version="3" timestamp="2024-03-07T08:54:23Z" changeset="148329835" uid="2102114" user="***juggernaut***"/>
+  <node id="412208988" lat="47.5999661" lon="7.6579570" version="3" timestamp="2024-03-07T08:54:23Z" changeset="148329835" uid="2102114" user="***juggernaut***"/>
+  <node id="412208990" lat="47.5991873" lon="7.6574680" version="1" timestamp="2009-05-28T17:32:05Z" changeset="1344245" uid="16322" user="Bernd Rosstauscher"/>
+  <node id="412208991" lat="47.5989531" lon="7.6573311" version="4" timestamp="2012-02-20T20:44:49Z" changeset="10744768" uid="11374" user="q_un_go">
+    <tag k="highway" v="turning_circle"/>
+  </node>
+  <node id="428886301" lat="47.5967488" lon="7.6561294" version="9" timestamp="2023-01-11T14:24:18Z" changeset="131148492" uid="10292567" user="cityd">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Stetten Grenze"/>
+    <tag k="network" v="Regio Verkehrsverbund Lörrach"/>
+    <tag k="network:short" v="RVL"/>
+    <tag k="operator" v="Südwestdeutsche Landesverkehrs-AG"/>
+    <tag k="operator:short" v="SWEG"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="533627620" lat="47.5979481" lon="7.6545846" version="5" timestamp="2015-11-30T14:41:41Z" changeset="35667059" uid="2290263" user="soemisch"/>
+  <node id="567185789" lat="47.5981950" lon="7.6560036" version="2" timestamp="2015-11-30T14:41:41Z" changeset="35667059" uid="2290263" user="soemisch"/>
+  <node id="969115118" lat="47.5966977" lon="7.6544376" version="2" timestamp="2010-12-25T05:32:58Z" changeset="6758881" uid="13436" user="hkucharek"/>
+  <node id="1016654241" lat="47.5963538" lon="7.6539647" version="1" timestamp="2010-12-02T21:29:48Z" changeset="6519894" uid="13436" user="hkucharek"/>
+  <node id="1019571882" lat="47.5977584" lon="7.6546524" version="2" timestamp="2015-11-30T14:41:40Z" changeset="35667059" uid="2290263" user="soemisch"/>
+  <node id="1019571900" lat="47.5978204" lon="7.6549528" version="2" timestamp="2015-11-30T14:41:40Z" changeset="35667059" uid="2290263" user="soemisch"/>
+  <node id="1019571907" lat="47.5972931" lon="7.6511440" version="5" timestamp="2013-10-22T21:53:16Z" changeset="18493995" uid="818906" user="Krake User"/>
+  <node id="1019571915" lat="47.5977010" lon="7.6550207" version="3" timestamp="2019-03-21T12:29:56Z" changeset="68371560" uid="5755216" user="sovereign_ch"/>
+  <node id="1019571925" lat="47.5978514" lon="7.6553049" version="2" timestamp="2015-11-30T14:41:40Z" changeset="35667059" uid="2290263" user="soemisch"/>
+  <node id="1019571940" lat="47.5977171" lon="7.6548486" version="2" timestamp="2019-03-21T12:29:56Z" changeset="68371560" uid="5755216" user="sovereign_ch"/>
+  <node id="1019571952" lat="47.5969866" lon="7.6544204" version="2" timestamp="2010-12-25T05:32:59Z" changeset="6758881" uid="13436" user="hkucharek"/>
+  <node id="1019571958" lat="47.5976955" lon="7.6549507" version="3" timestamp="2024-09-19T10:25:13Z" changeset="156812603" uid="10308843" user="dbsus"/>
+  <node id="1019571966" lat="47.5978891" lon="7.6549371" version="3" timestamp="2021-11-06T18:04:42Z" changeset="113456879" uid="7649834" user="L___I"/>
+  <node id="1019572018" lat="47.5978036" lon="7.6548370" version="2" timestamp="2015-11-30T14:41:40Z" changeset="35667059" uid="2290263" user="soemisch"/>
+  <node id="1019572060" lat="47.5978315" lon="7.6553156" version="1" timestamp="2010-12-04T10:11:06Z" changeset="6535163" uid="13436" user="hkucharek"/>
+  <node id="1019572067" lat="47.5972049" lon="7.6539877" version="2" timestamp="2013-09-07T22:20:24Z" changeset="17724821" uid="818906" user="Krake User"/>
+  <node id="1019572082" lat="47.5976606" lon="7.6546673" version="3" timestamp="2019-03-21T12:29:56Z" changeset="68371560" uid="5755216" user="sovereign_ch"/>
+  <node id="1019572103" lat="47.5976863" lon="7.6549632" version="4" timestamp="2024-09-19T10:25:13Z" changeset="156812603" uid="10308843" user="dbsus"/>
+  <node id="1019572108" lat="47.5977762" lon="7.6546428" version="2" timestamp="2015-11-30T14:41:40Z" changeset="35667059" uid="2290263" user="soemisch"/>
+  <node id="1019572117" lat="47.5978395" lon="7.6551379" version="1" timestamp="2010-12-04T10:11:07Z" changeset="6535163" uid="13436" user="hkucharek"/>
+  <node id="1019572128" lat="47.5977492" lon="7.6549930" version="2" timestamp="2015-11-30T14:41:40Z" changeset="35667059" uid="2290263" user="soemisch"/>
+  <node id="1019572136" lat="47.5972149" lon="7.6523563" version="2" timestamp="2013-09-07T22:20:24Z" changeset="17724821" uid="818906" user="Krake User"/>
+  <node id="1019572170" lat="47.5976389" lon="7.6546773" version="3" timestamp="2019-03-21T12:29:56Z" changeset="68371560" uid="5755216" user="sovereign_ch"/>
+  <node id="1027005431" lat="47.5996139" lon="7.6586908" version="2" timestamp="2012-09-21T22:16:55Z" changeset="13201852" uid="818906" user="Krake User"/>
+  <node id="1027005433" lat="47.5967949" lon="7.6581869" version="1" timestamp="2010-12-07T19:04:58Z" changeset="6578250" uid="13436" user="hkucharek"/>
+  <node id="1027005442" lat="47.5968519" lon="7.6578201" version="2" timestamp="2018-07-02T15:31:50Z" changeset="60351604" uid="818906" user="Krake User"/>
+  <node id="1028819970" lat="47.5979611" lon="7.6551959" version="1" timestamp="2010-12-08T22:50:04Z" changeset="6590561" uid="13436" user="hkucharek"/>
+  <node id="1028820071" lat="47.5979377" lon="7.6549074" version="3" timestamp="2015-11-30T14:41:40Z" changeset="35667059" uid="2290263" user="soemisch"/>
+  <node id="1028820172" lat="47.5979390" lon="7.6548218" version="2" timestamp="2015-11-30T14:41:40Z" changeset="35667059" uid="2290263" user="soemisch"/>
+  <node id="1063416764" lat="47.5964534" lon="7.6550280" version="1" timestamp="2010-12-25T05:32:56Z" changeset="6758881" uid="13436" user="hkucharek"/>
+  <node id="1063416767" lat="47.5967736" lon="7.6541124" version="1" timestamp="2010-12-25T05:32:56Z" changeset="6758881" uid="13436" user="hkucharek"/>
+  <node id="1063416772" lat="47.5963839" lon="7.6550004" version="1" timestamp="2010-12-25T05:32:56Z" changeset="6758881" uid="13436" user="hkucharek"/>
+  <node id="1063416777" lat="47.5967943" lon="7.6543429" version="1" timestamp="2010-12-25T05:32:56Z" changeset="6758881" uid="13436" user="hkucharek"/>
+  <node id="1063416779" lat="47.5967592" lon="7.6543174" version="1" timestamp="2010-12-25T05:32:56Z" changeset="6758881" uid="13436" user="hkucharek"/>
+  <node id="1063416792" lat="47.5968008" lon="7.6538968" version="1" timestamp="2010-12-25T05:32:57Z" changeset="6758881" uid="13436" user="hkucharek"/>
+  <node id="1063416806" lat="47.5967253" lon="7.6543325" version="1" timestamp="2010-12-25T05:32:57Z" changeset="6758881" uid="13436" user="hkucharek"/>
+  <node id="1063416813" lat="47.5968932" lon="7.6543896" version="1" timestamp="2010-12-25T05:32:57Z" changeset="6758881" uid="13436" user="hkucharek"/>
+  <node id="1063416820" lat="47.5957975" lon="7.6549246" version="2" timestamp="2010-12-25T05:50:17Z" changeset="6758919" uid="13436" user="hkucharek"/>
+  <node id="1063416826" lat="47.5970601" lon="7.6544396" version="1" timestamp="2010-12-25T05:32:57Z" changeset="6758881" uid="13436" user="hkucharek"/>
+  <node id="1063452412" lat="47.5957048" lon="7.6548933" version="1" timestamp="2010-12-25T05:54:43Z" changeset="6758928" uid="13436" user="hkucharek"/>
+  <node id="1063454275" lat="47.5967114" lon="7.6549046" version="1" timestamp="2010-12-25T06:01:49Z" changeset="6758945" uid="13436" user="hkucharek"/>
+  <node id="1063454276" lat="47.5976910" lon="7.6543907" version="2" timestamp="2015-11-30T14:41:41Z" changeset="35667059" uid="2290263" user="soemisch"/>
+  <node id="1063454277" lat="47.5976502" lon="7.6542036" version="1" timestamp="2010-12-25T06:01:49Z" changeset="6758945" uid="13436" user="hkucharek"/>
+  <node id="1063454282" lat="47.5975701" lon="7.6534206" version="2" timestamp="2017-12-30T21:11:51Z" changeset="55045064" uid="210440" user="johsin18"/>
+  <node id="1063454284" lat="47.5975968" lon="7.6537746" version="1" timestamp="2010-12-25T06:01:49Z" changeset="6758945" uid="13436" user="hkucharek"/>
+  <node id="1063454285" lat="47.5975541" lon="7.6529351" version="2" timestamp="2017-12-30T21:11:50Z" changeset="55045064" uid="210440" user="johsin18"/>
+  <node id="1076236217" lat="47.5992100" lon="7.6593414" version="1" timestamp="2010-12-31T23:31:23Z" changeset="6824187" uid="13436" user="hkucharek"/>
+  <node id="1076236220" lat="47.5986380" lon="7.6582901" version="1" timestamp="2010-12-31T23:31:24Z" changeset="6824187" uid="13436" user="hkucharek"/>
+  <node id="1076236226" lat="47.5988085" lon="7.6586515" version="1" timestamp="2010-12-31T23:31:24Z" changeset="6824187" uid="13436" user="hkucharek"/>
+  <node id="1076236235" lat="47.5986470" lon="7.6575989" version="1" timestamp="2010-12-31T23:31:24Z" changeset="6824187" uid="13436" user="hkucharek"/>
+  <node id="1076236248" lat="47.5990793" lon="7.6587744" version="1" timestamp="2010-12-31T23:31:25Z" changeset="6824187" uid="13436" user="hkucharek"/>
+  <node id="1078588063" lat="47.5988892" lon="7.6565030" version="2" timestamp="2020-02-17T23:00:51Z" changeset="81139487" uid="4803523" user="xDSF-DFSx"/>
+  <node id="1078588071" lat="47.5964667" lon="7.6562211" version="1" timestamp="2011-01-02T11:11:12Z" changeset="6837149" uid="13436" user="hkucharek"/>
+  <node id="1078588289" lat="47.5991588" lon="7.6566600" version="3" timestamp="2023-01-11T14:24:18Z" changeset="131148492" uid="10292567" user="cityd"/>
+  <node id="1078588305" lat="47.5974944" lon="7.6565318" version="1" timestamp="2011-01-02T11:11:29Z" changeset="6837149" uid="13436" user="hkucharek"/>
+  <node id="1078588642" lat="47.5972221" lon="7.6562398" version="4" timestamp="2023-01-11T14:24:18Z" changeset="131148492" uid="10292567" user="cityd"/>
+  <node id="1078588682" lat="47.5983303" lon="7.6570251" version="2" timestamp="2016-03-16T07:23:53Z" changeset="37863652" uid="99810" user="Martin Borsje"/>
+  <node id="1126672120" lat="47.6007420" lon="7.6557603" version="2" timestamp="2022-03-07T11:39:16Z" changeset="118193995" uid="210440" user="johsin18"/>
+  <node id="1126672133" lat="47.5995293" lon="7.6555134" version="2" timestamp="2022-03-07T11:39:16Z" changeset="118193995" uid="210440" user="johsin18"/>
+  <node id="1403313521" lat="47.5967870" lon="7.6583692" version="3" timestamp="2020-10-26T18:54:06Z" changeset="93076385" uid="7549553" user="joe2812"/>
+  <node id="1403313523" lat="47.5986196" lon="7.6566661" version="1" timestamp="2011-08-18T13:36:55Z" changeset="9057048" uid="495312" user="Heinz 321"/>
+  <node id="1403313524" lat="47.5988163" lon="7.6573021" version="1" timestamp="2011-08-18T13:36:55Z" changeset="9057048" uid="495312" user="Heinz 321"/>
+  <node id="1403313526" lat="47.5987150" lon="7.6572511" version="1" timestamp="2011-08-18T13:36:55Z" changeset="9057048" uid="495312" user="Heinz 321"/>
+  <node id="1403313527" lat="47.5986449" lon="7.6571918" version="1" timestamp="2011-08-18T13:36:55Z" changeset="9057048" uid="495312" user="Heinz 321"/>
+  <node id="1403313531" lat="47.5984415" lon="7.6570617" version="2" timestamp="2012-02-11T11:11:55Z" changeset="10651479" uid="67540" user="Cobra"/>
+  <node id="1403313532" lat="47.5985529" lon="7.6574589" version="2" timestamp="2012-02-11T11:11:56Z" changeset="10651479" uid="67540" user="Cobra"/>
+  <node id="1403313535" lat="47.5985780" lon="7.6569692" version="1" timestamp="2011-08-18T13:36:55Z" changeset="9057048" uid="495312" user="Heinz 321"/>
+  <node id="1403313536" lat="47.5987408" lon="7.6572616" version="1" timestamp="2011-08-18T13:36:55Z" changeset="9057048" uid="495312" user="Heinz 321"/>
+  <node id="1403313541" lat="47.5987850" lon="7.6564658" version="4" timestamp="2020-02-17T23:00:51Z" changeset="81139487" uid="4803523" user="xDSF-DFSx"/>
+  <node id="1403313545" lat="47.5984658" lon="7.6583226" version="1" timestamp="2011-08-18T13:36:55Z" changeset="9057048" uid="495312" user="Heinz 321"/>
+  <node id="1403313548" lat="47.5985450" lon="7.6583642" version="1" timestamp="2011-08-18T13:36:55Z" changeset="9057048" uid="495312" user="Heinz 321"/>
+  <node id="1403313551" lat="47.5985330" lon="7.6579999" version="2" timestamp="2012-02-11T11:11:56Z" changeset="10651479" uid="67540" user="Cobra"/>
+  <node id="1403313556" lat="47.5984296" lon="7.6567522" version="3" timestamp="2012-09-21T10:01:48Z" changeset="13193051" uid="818906" user="Krake User"/>
+  <node id="1403313558" lat="47.5971312" lon="7.6564575" version="2" timestamp="2011-08-19T21:55:54Z" changeset="9069811" uid="149097" user="AlexanderF"/>
+  <node id="1403313559" lat="47.5967822" lon="7.6582102" version="2" timestamp="2011-08-19T21:55:54Z" changeset="9069811" uid="149097" user="AlexanderF"/>
+  <node id="1403313560" lat="47.5984889" lon="7.6572153" version="2" timestamp="2012-02-11T11:11:56Z" changeset="10651479" uid="67540" user="Cobra"/>
+  <node id="1403313561" lat="47.5985219" lon="7.6583799" version="1" timestamp="2011-08-18T13:36:56Z" changeset="9057048" uid="495312" user="Heinz 321"/>
+  <node id="1403313563" lat="47.5985394" lon="7.6582638" version="3" timestamp="2012-09-21T22:16:55Z" changeset="13201852" uid="818906" user="Krake User"/>
+  <node id="1403313586" lat="47.5987799" lon="7.6587621" version="2" timestamp="2012-09-21T22:16:55Z" changeset="13201852" uid="818906" user="Krake User"/>
+  <node id="1403313589" lat="47.5971481" lon="7.6584747" version="3" timestamp="2018-07-02T15:31:50Z" changeset="60351604" uid="818906" user="Krake User"/>
+  <node id="1403313597" lat="47.5985595" lon="7.6578087" version="2" timestamp="2012-02-11T11:11:56Z" changeset="10651479" uid="67540" user="Cobra"/>
+  <node id="1403313599" lat="47.5986312" lon="7.6585426" version="2" timestamp="2012-09-21T22:16:55Z" changeset="13201852" uid="818906" user="Krake User"/>
+  <node id="1403313602" lat="47.5985992" lon="7.6570848" version="1" timestamp="2011-08-18T13:36:56Z" changeset="9057048" uid="495312" user="Heinz 321"/>
+  <node id="1403313614" lat="47.5985902" lon="7.6567924" version="1" timestamp="2011-08-18T13:36:56Z" changeset="9057048" uid="495312" user="Heinz 321"/>
+  <node id="1403313619" lat="47.5989203" lon="7.6588624" version="2" timestamp="2012-09-21T22:16:55Z" changeset="13201852" uid="818906" user="Krake User"/>
+  <node id="1403313621" lat="47.5985771" lon="7.6576191" version="2" timestamp="2012-02-11T11:11:56Z" changeset="10651479" uid="67540" user="Cobra"/>
+  <node id="1404960369" lat="47.5984373" lon="7.6583538" version="1" timestamp="2011-08-19T21:55:47Z" changeset="9069811" uid="149097" user="AlexanderF"/>
+  <node id="1405258460" lat="47.5988983" lon="7.6572971" version="2" timestamp="2012-02-20T20:44:48Z" changeset="10744768" uid="11374" user="q_un_go"/>
+  <node id="1410928671" lat="47.5991068" lon="7.6589372" version="2" timestamp="2012-09-21T22:16:55Z" changeset="13201852" uid="818906" user="Krake User"/>
+  <node id="1410928679" lat="47.5970941" lon="7.6594881" version="5" timestamp="2018-07-02T15:31:50Z" changeset="60351604" uid="818906" user="Krake User"/>
+  <node id="1410928736" lat="47.5969055" lon="7.6594227" version="6" timestamp="2018-07-02T15:31:50Z" changeset="60351604" uid="818906" user="Krake User"/>
+  <node id="1410928826" lat="47.5991088" lon="7.6595760" version="2" timestamp="2023-03-25T12:05:10Z" changeset="134101400" uid="17176872" user="Halbgeviertstrich"/>
+  <node id="1410928829" lat="47.5991568" lon="7.6591712" version="1" timestamp="2011-08-24T08:27:31Z" changeset="9109903" uid="495312" user="Heinz 321"/>
+  <node id="1628110051" lat="47.5982361" lon="7.6564691" version="2" timestamp="2012-09-21T10:01:48Z" changeset="13193051" uid="818906" user="Krake User"/>
+  <node id="1628110053" lat="47.5983115" lon="7.6565256" version="1" timestamp="2012-02-11T11:10:37Z" changeset="10651479" uid="67540" user="Cobra"/>
+  <node id="1628110055" lat="47.5983713" lon="7.6565320" version="2" timestamp="2012-09-21T10:01:49Z" changeset="13193051" uid="818906" user="Krake User"/>
+  <node id="1628110056" lat="47.5984119" lon="7.6565628" version="2" timestamp="2012-09-21T10:01:49Z" changeset="13193051" uid="818906" user="Krake User"/>
+  <node id="1628110058" lat="47.5984298" lon="7.6566074" version="2" timestamp="2012-09-21T10:01:49Z" changeset="13193051" uid="818906" user="Krake User"/>
+  <node id="1628110067" lat="47.5984240" lon="7.6568588" version="2" timestamp="2012-09-21T10:01:49Z" changeset="13193051" uid="818906" user="Krake User"/>
+  <node id="1628110069" lat="47.5985143" lon="7.6568247" version="1" timestamp="2012-02-11T11:10:38Z" changeset="10651479" uid="67540" user="Cobra"/>
+  <node id="1628110071" lat="47.5985480" lon="7.6564253" version="2" timestamp="2020-02-17T23:00:51Z" changeset="81139487" uid="4803523" user="xDSF-DFSx"/>
+  <node id="1640977298" lat="47.5987844" lon="7.6572230" version="2" timestamp="2022-12-25T17:08:17Z" changeset="130488655" uid="17176872" user="Halbgeviertstrich">
+    <tag k="noexit" v="yes"/>
+  </node>
+  <node id="1640977305" lat="47.5993413" lon="7.6568350" version="2" timestamp="2023-01-11T14:24:18Z" changeset="131148492" uid="10292567" user="cityd"/>
+  <node id="1640977321" lat="47.5995715" lon="7.6571229" version="1" timestamp="2012-02-20T20:44:10Z" changeset="10744768" uid="11374" user="q_un_go"/>
+  <node id="1925072665" lat="47.5984395" lon="7.6565098" version="2" timestamp="2013-01-11T14:11:00Z" changeset="14610252" uid="818906" user="Krake User"/>
+  <node id="1926088527" lat="47.5993258" lon="7.6588390" version="1" timestamp="2012-09-21T22:16:54Z" changeset="13201852" uid="818906" user="Krake User"/>
+  <node id="1926088529" lat="47.5994018" lon="7.6587984" version="1" timestamp="2012-09-21T22:16:54Z" changeset="13201852" uid="818906" user="Krake User"/>
+  <node id="1926088532" lat="47.5992690" lon="7.6589030" version="1" timestamp="2012-09-21T22:16:54Z" changeset="13201852" uid="818906" user="Krake User"/>
+  <node id="2301577492" lat="47.5992040" lon="7.6589167" version="6" timestamp="2025-11-29T11:47:27Z" changeset="175272103" uid="17360977" user="CaptainCarte">
+    <tag k="crossing" v="unmarked"/>
+    <tag k="crossing:island" v="yes"/>
+    <tag k="crossing:markings" v="no"/>
+    <tag k="crossing:signals" v="yes"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="2449956596" lat="47.5971898" lon="7.6532362" version="1" timestamp="2013-09-07T22:20:23Z" changeset="17724821" uid="818906" user="Krake User"/>
+  <node id="2449956597" lat="47.5972366" lon="7.6543876" version="1" timestamp="2013-09-07T22:20:23Z" changeset="17724821" uid="818906" user="Krake User"/>
+  <node id="2449956599" lat="47.5972399" lon="7.6543185" version="1" timestamp="2013-09-07T22:20:23Z" changeset="17724821" uid="818906" user="Krake User"/>
+  <node id="2449956601" lat="47.5971950" lon="7.6536200" version="1" timestamp="2013-09-07T22:20:23Z" changeset="17724821" uid="818906" user="Krake User"/>
+  <node id="2449956603" lat="47.5972530" lon="7.6517538" version="2" timestamp="2013-10-22T21:53:17Z" changeset="18493995" uid="818906" user="Krake User"/>
+  <node id="2518929668" lat="47.5979380" lon="7.6550246" version="2" timestamp="2015-11-30T14:41:41Z" changeset="35667059" uid="2290263" user="soemisch"/>
+  <node id="2518929669" lat="47.5980463" lon="7.6550243" version="2" timestamp="2015-11-30T14:41:41Z" changeset="35667059" uid="2290263" user="soemisch"/>
+  <node id="2518929672" lat="47.5983391" lon="7.6550505" version="2" timestamp="2015-11-30T14:41:41Z" changeset="35667059" uid="2290263" user="soemisch"/>
+  <node id="2518929673" lat="47.5983377" lon="7.6556810" version="2" timestamp="2015-12-01T08:47:01Z" changeset="35680426" uid="2290263" user="soemisch"/>
+  <node id="2518929674" lat="47.5983410" lon="7.6552921" version="1" timestamp="2013-11-03T17:34:01Z" changeset="18698446" uid="41362" user="Eriks Zelenka"/>
+  <node id="2518929676" lat="47.5983854" lon="7.6550617" version="1" timestamp="2013-11-03T17:34:01Z" changeset="18698446" uid="41362" user="Eriks Zelenka"/>
+  <node id="2518929677" lat="47.5984337" lon="7.6550017" version="1" timestamp="2013-11-03T17:34:01Z" changeset="18698446" uid="41362" user="Eriks Zelenka"/>
+  <node id="2518929687" lat="47.5988529" lon="7.6555339" version="1" timestamp="2013-11-03T17:34:02Z" changeset="18698446" uid="41362" user="Eriks Zelenka"/>
+  <node id="2518929689" lat="47.5988894" lon="7.6553831" version="1" timestamp="2013-11-03T17:34:02Z" changeset="18698446" uid="41362" user="Eriks Zelenka"/>
+  <node id="2518929694" lat="47.5989873" lon="7.6553018" version="1" timestamp="2013-11-03T17:34:02Z" changeset="18698446" uid="41362" user="Eriks Zelenka"/>
+  <node id="2518929695" lat="47.5990434" lon="7.6550830" version="1" timestamp="2013-11-03T17:34:02Z" changeset="18698446" uid="41362" user="Eriks Zelenka"/>
+  <node id="2518929696" lat="47.5991741" lon="7.6556974" version="1" timestamp="2013-11-03T17:34:02Z" changeset="18698446" uid="41362" user="Eriks Zelenka"/>
+  <node id="2518929699" lat="47.5992845" lon="7.6560261" version="1" timestamp="2013-11-03T17:34:02Z" changeset="18698446" uid="41362" user="Eriks Zelenka"/>
+  <node id="2518929700" lat="47.5993181" lon="7.6558042" version="1" timestamp="2013-11-03T17:34:02Z" changeset="18698446" uid="41362" user="Eriks Zelenka"/>
+  <node id="2518929702" lat="47.5994049" lon="7.6558398" version="2" timestamp="2024-06-22T16:21:48Z" changeset="153036661" uid="17176872" user="Halbgeviertstrich">
+    <tag k="noexit" v="yes"/>
+  </node>
+  <node id="2518929703" lat="47.5994662" lon="7.6567760" version="1" timestamp="2013-11-03T17:34:02Z" changeset="18698446" uid="41362" user="Eriks Zelenka"/>
+  <node id="2518929706" lat="47.5997301" lon="7.6573341" version="1" timestamp="2013-11-03T17:34:02Z" changeset="18698446" uid="41362" user="Eriks Zelenka"/>
+  <node id="2518929708" lat="47.5997443" lon="7.6571323" version="1" timestamp="2013-11-03T17:34:02Z" changeset="18698446" uid="41362" user="Eriks Zelenka"/>
+  <node id="2620799823" lat="47.5998623" lon="7.6540602" version="4" timestamp="2024-12-30T10:34:44Z" changeset="160783953" uid="3203300" user="Tentos">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:island" v="no"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="3256008745" lat="47.5972946" lon="7.6507180" version="4" timestamp="2021-11-06T18:41:29Z" changeset="113457833" uid="7649834" user="L___I">
+    <tag k="highway" v="turning_circle"/>
+  </node>
+  <node id="3869219804" lat="47.5979740" lon="7.6552548" version="6" timestamp="2022-03-02T18:39:59Z" changeset="118029931" uid="152744" user="skyper">
+    <tag k="bus" v="yes"/>
+    <tag k="ele" v="278"/>
+    <tag k="gtfs:feed" v="DE-BW-SWEG"/>
+    <tag k="gtfs:name" v="Stetten Friedrich-Ebert-Straße"/>
+    <tag k="gtfs:release_date" v="2022-01-05"/>
+    <tag k="local_ref" v="1"/>
+    <tag k="name" v="Friedrich-Ebert-Straße"/>
+    <tag k="network" v="Regio Verkehrsverbund Lörrach"/>
+    <tag k="network:short" v="RVL"/>
+    <tag k="old_name" v="Dammstraße"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="ref:IFOPT" v="de:08336:27120:0:1"/>
+  </node>
+  <node id="3869219805" lat="47.5980294" lon="7.6554453" version="6" timestamp="2022-03-02T18:39:59Z" changeset="118029931" uid="152744" user="skyper">
+    <tag k="bus" v="yes"/>
+    <tag k="ele" v="278"/>
+    <tag k="gtfs:feed" v="DE-BW-SWEG"/>
+    <tag k="gtfs:name" v="Stetten Friedrich-Ebert-Straße"/>
+    <tag k="gtfs:release_date" v="2022-01-05"/>
+    <tag k="local_ref" v="2"/>
+    <tag k="name" v="Friedrich-Ebert-Straße"/>
+    <tag k="network" v="Regio Verkehrsverbund Lörrach"/>
+    <tag k="network:short" v="RVL"/>
+    <tag k="old_name" v="Dammstraße"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="ref:IFOPT" v="de:08336:27120:0:2"/>
+  </node>
+  <node id="3869219846" lat="47.5978971" lon="7.6551139" version="2" timestamp="2021-11-06T18:04:42Z" changeset="113456879" uid="7649834" user="L___I"/>
+  <node id="3869219849" lat="47.5979621" lon="7.6553152" version="1" timestamp="2015-11-30T14:41:35Z" changeset="35667059" uid="2290263" user="soemisch"/>
+  <node id="3869219852" lat="47.5979857" lon="7.6552989" version="1" timestamp="2015-11-30T14:41:35Z" changeset="35667059" uid="2290263" user="soemisch"/>
+  <node id="3869219853" lat="47.5979973" lon="7.6552396" version="8" timestamp="2025-08-04T13:44:50Z" changeset="169957281" uid="23150430" user="Knix-gemacht">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="gtfs:feed" v="DE-BW-SWEG"/>
+    <tag k="gtfs:name" v="Stetten Friedrich-Ebert-Straße"/>
+    <tag k="gtfs:release_date" v="2022-01-05"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="local_ref" v="1"/>
+    <tag k="name" v="Friedrich-Ebert-Straße"/>
+    <tag k="network" v="Regio Verkehrsverbund Lörrach"/>
+    <tag k="network:short" v="RVL"/>
+    <tag k="network:wikidata" v="Q2138145"/>
+    <tag k="old_name" v="Dammstraße"/>
+    <tag k="operator" v="Südwestdeutsche Landesverkehrs-AG"/>
+    <tag k="operator:short" v="SWEG"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:IFOPT" v="de:08336:27120:0:1"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="3869219854" lat="47.5980054" lon="7.6554612" version="8" timestamp="2025-08-04T13:46:23Z" changeset="169957281" uid="23150430" user="Knix-gemacht">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="gtfs:feed" v="DE-BW-SWEG"/>
+    <tag k="gtfs:name" v="Stetten Friedrich-Ebert-Straße"/>
+    <tag k="gtfs:release_date" v="2022-01-05"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="local_ref" v="2"/>
+    <tag k="name" v="Friedrich-Ebert-Straße"/>
+    <tag k="network" v="Regio Verkehrsverbund Lörrach"/>
+    <tag k="network:short" v="RVL"/>
+    <tag k="network:wikidata" v="Q2138145"/>
+    <tag k="old_name" v="Dammstraße"/>
+    <tag k="operator" v="Südwestdeutsche Landesverkehrs-AG"/>
+    <tag k="operator:short" v="SWEG"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:IFOPT" v="de:08336:27120:0:2"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="3869219855" lat="47.5980163" lon="7.6550241" version="1" timestamp="2015-11-30T14:41:35Z" changeset="35667059" uid="2290263" user="soemisch"/>
+  <node id="3869219856" lat="47.5980165" lon="7.6554020" version="1" timestamp="2015-11-30T14:41:35Z" changeset="35667059" uid="2290263" user="soemisch"/>
+  <node id="3869220657" lat="47.5980401" lon="7.6553859" version="1" timestamp="2015-11-30T14:41:35Z" changeset="35667059" uid="2290263" user="soemisch"/>
+  <node id="3870431182" lat="47.5996975" lon="7.6539979" version="3" timestamp="2022-03-02T18:39:59Z" changeset="118029931" uid="152744" user="skyper">
+    <tag k="bus" v="yes"/>
+    <tag k="gtfs:feed" v="DE-BW-SWEG"/>
+    <tag k="gtfs:name" v="Stetten Neumatt"/>
+    <tag k="gtfs:release_date" v="2022-01-05"/>
+    <tag k="local_ref" v="2"/>
+    <tag k="name" v="Neumatt"/>
+    <tag k="network" v="Regio Verkehrsverbund Lörrach"/>
+    <tag k="network:short" v="RVL"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="ref:IFOPT" v="de:08336:11104:0:2"/>
+  </node>
+  <node id="3870431183" lat="47.5994950" lon="7.6539159" version="4" timestamp="2025-01-03T12:57:56Z" changeset="160947882" uid="3203300" user="Tentos">
+    <tag k="bus" v="yes"/>
+    <tag k="gtfs:feed" v="DE-BW-SWEG"/>
+    <tag k="gtfs:name" v="Stetten Neumatt"/>
+    <tag k="gtfs:release_date" v="2022-01-05"/>
+    <tag k="local_ref" v="1"/>
+    <tag k="name" v="Neumatt"/>
+    <tag k="network" v="Regio Verkehrsverbund Lörrach"/>
+    <tag k="network:short" v="RVL"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="ref:IFOPT" v="de:08336:11104:0:1"/>
+  </node>
+  <node id="3870431184" lat="47.5995861" lon="7.6540008" version="1" timestamp="2015-12-01T06:43:14Z" changeset="35679223" uid="2290263" user="soemisch"/>
+  <node id="3870431185" lat="47.5995940" lon="7.6539571" version="1" timestamp="2015-12-01T06:43:14Z" changeset="35679223" uid="2290263" user="soemisch"/>
+  <node id="3870431186" lat="47.5996917" lon="7.6540418" version="7" timestamp="2024-12-30T10:34:28Z" changeset="160784584" uid="3203300" user="Tentos">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="gtfs:feed" v="DE-BW-SWEG"/>
+    <tag k="gtfs:name" v="Stetten Neumatt"/>
+    <tag k="gtfs:release_date" v="2022-01-05"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="local_ref" v="2"/>
+    <tag k="name" v="Neumatt"/>
+    <tag k="network" v="Regio Verkehrsverbund Lörrach"/>
+    <tag k="network:short" v="RVL"/>
+    <tag k="operator" v="Südwestdeutsche Landesverkehrs-AG"/>
+    <tag k="operator:short" v="SWEG"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:IFOPT" v="de:08336:11104:0:2"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="3870431187" lat="47.5998598" lon="7.6541078" version="1" timestamp="2015-12-01T06:43:14Z" changeset="35679223" uid="2290263" user="soemisch"/>
+  <node id="3870431188" lat="47.5998651" lon="7.6540123" version="1" timestamp="2015-12-01T06:43:14Z" changeset="35679223" uid="2290263" user="soemisch"/>
+  <node id="3870431190" lat="47.6000353" lon="7.6541096" version="1" timestamp="2015-12-01T06:43:14Z" changeset="35679223" uid="2290263" user="soemisch"/>
+  <node id="3870431191" lat="47.5995734" lon="7.6539022" version="2" timestamp="2025-01-03T12:57:56Z" changeset="160947882" uid="3203300" user="Tentos">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="gtfs:feed" v="DE-BW-SWEG"/>
+    <tag k="gtfs:name" v="Stetten Neumatt"/>
+    <tag k="gtfs:release_date" v="2022-01-05"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="lit:perceived" v="poor"/>
+    <tag k="local_ref" v="1"/>
+    <tag k="name" v="Neumatt"/>
+    <tag k="network" v="Regio Verkehrsverbund Lörrach"/>
+    <tag k="network:short" v="RVL"/>
+    <tag k="network:wikidata" v="Q2138145"/>
+    <tag k="operator" v="Südwestdeutsche Landesverkehrs-AG"/>
+    <tag k="operator:short" v="SWEG"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref:IFOPT" v="de:08336:11104:0:1"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="3870530223" lat="47.5966772" lon="7.6588003" version="5" timestamp="2022-03-02T18:39:59Z" changeset="118029931" uid="152744" user="skyper">
+    <tag k="bus" v="yes"/>
+    <tag k="gtfs:feed" v="DE-BW-SWEG"/>
+    <tag k="gtfs:name" v="Stetten Struve-Platz"/>
+    <tag k="gtfs:release_date" v="2022-01-05"/>
+    <tag k="local_ref" v="1"/>
+    <tag k="name" v="Struve-Platz"/>
+    <tag k="network" v="Regio Verkehrsverbund Lörrach"/>
+    <tag k="network:short" v="RVL"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="ref:IFOPT" v="de:08336:27117:0:1"/>
+  </node>
+  <node id="3870530232" lat="47.5970081" lon="7.6588845" version="2" timestamp="2018-07-02T15:31:50Z" changeset="60351604" uid="818906" user="Krake User"/>
+  <node id="3884448365" lat="47.5966276" lon="7.6561953" version="1" timestamp="2015-12-09T09:38:59Z" changeset="35842052" uid="2385134" user="mentzdv_NR"/>
+  <node id="3884448366" lat="47.5967351" lon="7.6562324" version="1" timestamp="2015-12-09T09:38:59Z" changeset="35842052" uid="2385134" user="mentzdv_NR"/>
+  <node id="3884448367" lat="47.5967539" lon="7.6562388" version="1" timestamp="2015-12-09T09:38:59Z" changeset="35842052" uid="2385134" user="mentzdv_NR"/>
+  <node id="4062918917" lat="47.5983348" lon="7.6571968" version="1" timestamp="2016-03-16T07:23:52Z" changeset="37863652" uid="99810" user="Martin Borsje"/>
+  <node id="4062918918" lat="47.5983457" lon="7.6572665" version="1" timestamp="2016-03-16T07:23:52Z" changeset="37863652" uid="99810" user="Martin Borsje"/>
+  <node id="4062918919" lat="47.5983592" lon="7.6573376" version="1" timestamp="2016-03-16T07:23:52Z" changeset="37863652" uid="99810" user="Martin Borsje"/>
+  <node id="4062918920" lat="47.5983764" lon="7.6573818" version="1" timestamp="2016-03-16T07:23:52Z" changeset="37863652" uid="99810" user="Martin Borsje"/>
+  <node id="4062918921" lat="47.5984117" lon="7.6574435" version="2" timestamp="2017-02-07T03:19:21Z" changeset="45873006" uid="4803523" user="xDSF-DFSx">
+    <tag k="noexit" v="yes"/>
+  </node>
+  <node id="4404070099" lat="47.5992104" lon="7.6593341" version="3" timestamp="2022-03-02T18:39:59Z" changeset="118029931" uid="152744" user="skyper">
+    <tag k="bus" v="yes"/>
+    <tag k="gtfs:feed" v="DE-BW-SWEG"/>
+    <tag k="gtfs:name" v="Stetten Pestalozzistraße"/>
+    <tag k="gtfs:release_date" v="2022-01-05"/>
+    <tag k="local_ref" v="1"/>
+    <tag k="name" v="Pestalozzistraße"/>
+    <tag k="network" v="Regio Verkehrsverbund Lörrach"/>
+    <tag k="network:short" v="RVL"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="ref:IFOPT" v="de:08336:11217:0:1"/>
+  </node>
+  <node id="4551333314" lat="47.5974972" lon="7.6556470" version="1" timestamp="2016-12-12T19:52:35Z" changeset="44355824" uid="4803523" user="xDSF-DFSx"/>
+  <node id="4551333924" lat="47.5974857" lon="7.6560273" version="1" timestamp="2016-12-12T19:53:16Z" changeset="44355851" uid="4803523" user="xDSF-DFSx"/>
+  <node id="4551333925" lat="47.5972418" lon="7.6560044" version="1" timestamp="2016-12-12T19:53:16Z" changeset="44355851" uid="4803523" user="xDSF-DFSx"/>
+  <node id="4551335177" lat="47.5973069" lon="7.6560105" version="1" timestamp="2016-12-12T19:54:17Z" changeset="44355899" uid="4803523" user="xDSF-DFSx"/>
+  <node id="4551335178" lat="47.5973241" lon="7.6556611" version="1" timestamp="2016-12-12T19:54:17Z" changeset="44355899" uid="4803523" user="xDSF-DFSx"/>
+  <node id="4551335313" lat="47.5973083" lon="7.6559811" version="1" timestamp="2016-12-12T19:54:52Z" changeset="44355926" uid="4803523" user="xDSF-DFSx"/>
+  <node id="4551335407" lat="47.5973212" lon="7.6557193" version="1" timestamp="2016-12-12T19:56:11Z" changeset="44355974" uid="4803523" user="xDSF-DFSx"/>
+  <node id="4551335408" lat="47.5972449" lon="7.6557114" version="1" timestamp="2016-12-12T19:56:11Z" changeset="44355974" uid="4803523" user="xDSF-DFSx"/>
+  <node id="4551335409" lat="47.5972265" lon="7.6557129" version="2" timestamp="2020-10-25T22:43:07Z" changeset="93031320" uid="7549553" user="joe2812">
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="4551686613" lat="47.5964182" lon="7.6561231" version="1" timestamp="2016-12-13T04:07:38Z" changeset="44362874" uid="4803523" user="xDSF-DFSx"/>
+  <node id="4551714033" lat="47.5959896" lon="7.6579707" version="1" timestamp="2016-12-13T04:52:14Z" changeset="44363163" uid="4803523" user="xDSF-DFSx"/>
+  <node id="5305131413" lat="47.6000429" lon="7.6556538" version="3" timestamp="2020-10-26T18:54:06Z" changeset="93076385" uid="7549553" user="joe2812"/>
+  <node id="5305131414" lat="47.5999062" lon="7.6555508" version="3" timestamp="2020-10-26T18:54:06Z" changeset="93076385" uid="7549553" user="joe2812"/>
+  <node id="5312581769" lat="47.5975961" lon="7.6523144" version="1" timestamp="2017-12-30T21:11:50Z" changeset="55045064" uid="210440" user="johsin18"/>
+  <node id="5312581771" lat="47.5975748" lon="7.6526288" version="1" timestamp="2017-12-30T21:11:50Z" changeset="55045064" uid="210440" user="johsin18"/>
+  <node id="5734322292" lat="47.5968392" lon="7.6577537" version="1" timestamp="2018-07-02T15:31:49Z" changeset="60351604" uid="818906" user="Krake User"/>
+  <node id="5734322293" lat="47.5968800" lon="7.6578126" version="1" timestamp="2018-07-02T15:31:49Z" changeset="60351604" uid="818906" user="Krake User"/>
+  <node id="5734322294" lat="47.5968679" lon="7.6578104" version="1" timestamp="2018-07-02T15:31:49Z" changeset="60351604" uid="818906" user="Krake User"/>
+  <node id="5734322295" lat="47.5968525" lon="7.6577774" version="1" timestamp="2018-07-02T15:31:50Z" changeset="60351604" uid="818906" user="Krake User"/>
+  <node id="5734322296" lat="47.5968456" lon="7.6578350" version="1" timestamp="2018-07-02T15:31:50Z" changeset="60351604" uid="818906" user="Krake User"/>
+  <node id="5734322297" lat="47.5967695" lon="7.6583043" version="1" timestamp="2018-07-02T15:31:50Z" changeset="60351604" uid="818906" user="Krake User"/>
+  <node id="5734322298" lat="47.5967701" lon="7.6583410" version="1" timestamp="2018-07-02T15:31:50Z" changeset="60351604" uid="818906" user="Krake User"/>
+  <node id="5734322299" lat="47.5970768" lon="7.6588692" version="1" timestamp="2018-07-02T15:31:50Z" changeset="60351604" uid="818906" user="Krake User"/>
+  <node id="5734322300" lat="47.5970906" lon="7.6588604" version="1" timestamp="2018-07-02T15:31:50Z" changeset="60351604" uid="818906" user="Krake User"/>
+  <node id="5734322301" lat="47.5970150" lon="7.6588475" version="1" timestamp="2018-07-02T15:31:50Z" changeset="60351604" uid="818906" user="Krake User"/>
+  <node id="6139100818" lat="47.5982609" lon="7.6509190" version="1" timestamp="2018-12-15T15:07:58Z" changeset="65502128" uid="4803523" user="xDSF-DFSx"/>
+  <node id="6352145641" lat="47.5975170" lon="7.6544297" version="1" timestamp="2019-03-21T12:29:51Z" changeset="68371560" uid="5755216" user="sovereign_ch"/>
+  <node id="6381352847" lat="47.5997680" lon="7.6554769" version="2" timestamp="2020-10-26T18:54:06Z" changeset="93076385" uid="7549553" user="joe2812"/>
+  <node id="6381352848" lat="47.5997534" lon="7.6555198" version="2" timestamp="2020-10-26T18:54:06Z" changeset="93076385" uid="7549553" user="joe2812"/>
+  <node id="6381352849" lat="47.5996056" lon="7.6553604" version="2" timestamp="2020-10-26T18:54:06Z" changeset="93076385" uid="7549553" user="joe2812"/>
+  <node id="6381352850" lat="47.5997136" lon="7.6554410" version="2" timestamp="2020-10-26T18:54:06Z" changeset="93076385" uid="7549553" user="joe2812"/>
+  <node id="6381352851" lat="47.5995971" lon="7.6553855" version="2" timestamp="2020-10-26T18:54:06Z" changeset="93076385" uid="7549553" user="joe2812"/>
+  <node id="6381352852" lat="47.5997003" lon="7.6554801" version="2" timestamp="2020-10-26T18:54:06Z" changeset="93076385" uid="7549553" user="joe2812"/>
+  <node id="6381352853" lat="47.5998837" lon="7.6555633" version="2" timestamp="2020-10-26T18:54:06Z" changeset="93076385" uid="7549553" user="joe2812"/>
+  <node id="6381352854" lat="47.5994920" lon="7.6553071" version="2" timestamp="2020-10-26T18:54:06Z" changeset="93076385" uid="7549553" user="joe2812"/>
+  <node id="6923434020" lat="47.5978829" lon="7.6587394" version="1" timestamp="2019-10-27T21:59:18Z" changeset="76277425" uid="6583527" user="hieronymusescobar"/>
+  <node id="6923434021" lat="47.5978172" lon="7.6591879" version="1" timestamp="2019-10-27T21:59:18Z" changeset="76277425" uid="6583527" user="hieronymusescobar"/>
+  <node id="7221350593" lat="47.5985162" lon="7.6569536" version="1" timestamp="2020-02-17T23:00:51Z" changeset="81139487" uid="4803523" user="xDSF-DFSx"/>
+  <node id="7221350594" lat="47.5982312" lon="7.6561871" version="3" timestamp="2024-04-11T19:44:14Z" changeset="149880149" uid="17176872" user="Halbgeviertstrich">
+    <tag k="cycleway" v="asl"/>
+    <tag k="direction" v="forward"/>
+  </node>
+  <node id="7221350595" lat="47.5969743" lon="7.6561915" version="2" timestamp="2023-01-11T14:24:18Z" changeset="131148492" uid="10292567" user="cityd"/>
+  <node id="7221350608" lat="47.5992537" lon="7.6567445" version="2" timestamp="2023-01-11T14:24:18Z" changeset="131148492" uid="10292567" user="cityd"/>
+  <node id="7221350609" lat="47.5990733" lon="7.6565978" version="2" timestamp="2023-01-11T14:24:18Z" changeset="131148492" uid="10292567" user="cityd"/>
+  <node id="7221350610" lat="47.5986393" lon="7.6566123" version="1" timestamp="2020-02-17T23:00:51Z" changeset="81139487" uid="4803523" user="xDSF-DFSx"/>
+  <node id="7221350611" lat="47.6004573" lon="7.6582099" version="1" timestamp="2020-02-17T23:00:51Z" changeset="81139487" uid="4803523" user="xDSF-DFSx"/>
+  <node id="7221350612" lat="47.6003476" lon="7.6581088" version="1" timestamp="2020-02-17T23:00:51Z" changeset="81139487" uid="4803523" user="xDSF-DFSx"/>
+  <node id="7781614415" lat="47.5992550" lon="7.6538158" version="1" timestamp="2020-08-03T17:15:59Z" changeset="88888009" uid="10252548" user="singhiyv"/>
+  <node id="7781614416" lat="47.5991879" lon="7.6542411" version="1" timestamp="2020-08-03T17:15:59Z" changeset="88888009" uid="10252548" user="singhiyv"/>
+  <node id="8442793391" lat="47.5988479" lon="7.6565601" version="1" timestamp="2021-02-21T14:33:38Z" changeset="99682856" uid="5755216" user="sovereign_ch"/>
+  <node id="8442793392" lat="47.5989204" lon="7.6565835" version="1" timestamp="2021-02-21T14:33:38Z" changeset="99682856" uid="5755216" user="sovereign_ch"/>
+  <node id="8442793393" lat="47.5989662" lon="7.6566058" version="1" timestamp="2021-02-21T14:33:38Z" changeset="99682856" uid="5755216" user="sovereign_ch"/>
+  <node id="8442793394" lat="47.5989600" lon="7.6565363" version="1" timestamp="2021-02-21T14:33:38Z" changeset="99682856" uid="5755216" user="sovereign_ch">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Lörrach-Stetten Dammstraße"/>
+    <tag k="network" v="Regio Verkehrsverbund Lörrach"/>
+    <tag k="operator" v="Südwestdeutsche Landesverkehrs-AG"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="8442793404" lat="47.5988298" lon="7.6563626" version="1" timestamp="2021-02-21T14:33:38Z" changeset="99682856" uid="5755216" user="sovereign_ch"/>
+  <node id="8442793405" lat="47.5987651" lon="7.6563480" version="1" timestamp="2021-02-21T14:33:38Z" changeset="99682856" uid="5755216" user="sovereign_ch"/>
+  <node id="8442793406" lat="47.5989319" lon="7.6564075" version="1" timestamp="2021-02-21T14:33:38Z" changeset="99682856" uid="5755216" user="sovereign_ch"/>
+  <node id="8442793407" lat="47.5987606" lon="7.6564616" version="1" timestamp="2021-02-21T14:33:38Z" changeset="99682856" uid="5755216" user="sovereign_ch">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Lörrach-Stetten Dammstraße"/>
+    <tag k="network" v="Regio Verkehrsverbund Lörrach"/>
+    <tag k="operator" v="Südwestdeutsche Landesverkehrs-AG"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="9230796770" lat="47.5979598" lon="7.6563401" version="2" timestamp="2022-12-25T00:53:48Z" changeset="130470547" uid="17176872" user="Halbgeviertstrich"/>
+  <node id="9230796771" lat="47.5979104" lon="7.6564564" version="1" timestamp="2021-11-06T17:58:06Z" changeset="113456706" uid="7649834" user="L___I"/>
+  <node id="9230796772" lat="47.5978949" lon="7.6564690" version="1" timestamp="2021-11-06T17:58:06Z" changeset="113456706" uid="7649834" user="L___I"/>
+  <node id="9230796773" lat="47.5978757" lon="7.6564766" version="1" timestamp="2021-11-06T17:58:06Z" changeset="113456706" uid="7649834" user="L___I"/>
+  <node id="9230796774" lat="47.5978104" lon="7.6564783" version="1" timestamp="2021-11-06T17:58:06Z" changeset="113456706" uid="7649834" user="L___I"/>
+  <node id="9230796775" lat="47.5975558" lon="7.6565078" version="1" timestamp="2021-11-06T17:58:06Z" changeset="113456706" uid="7649834" user="L___I"/>
+  <node id="9230796776" lat="47.5975326" lon="7.6565160" version="1" timestamp="2021-11-06T17:58:06Z" changeset="113456706" uid="7649834" user="L___I"/>
+  <node id="9230796777" lat="47.5975092" lon="7.6565378" version="1" timestamp="2021-11-06T17:58:06Z" changeset="113456706" uid="7649834" user="L___I"/>
+  <node id="9230869800" lat="47.5973081" lon="7.6508600" version="1" timestamp="2021-11-06T18:41:29Z" changeset="113457833" uid="7649834" user="L___I"/>
+  <node id="9230876550" lat="47.5978888" lon="7.6549086" version="1" timestamp="2021-11-06T18:04:42Z" changeset="113456879" uid="7649834" user="L___I"/>
+  <node id="9230876551" lat="47.5978599" lon="7.6548898" version="1" timestamp="2021-11-06T18:04:42Z" changeset="113456879" uid="7649834" user="L___I"/>
+  <node id="9230876552" lat="47.5978425" lon="7.6548182" version="1" timestamp="2021-11-06T18:04:42Z" changeset="113456879" uid="7649834" user="L___I"/>
+  <node id="9230876553" lat="47.5979017" lon="7.6546586" version="1" timestamp="2021-11-06T18:04:42Z" changeset="113456879" uid="7649834" user="L___I"/>
+  <node id="9230876554" lat="47.5979103" lon="7.6546432" version="1" timestamp="2021-11-06T18:04:42Z" changeset="113456879" uid="7649834" user="L___I"/>
+  <node id="9230876555" lat="47.5979463" lon="7.6546315" version="1" timestamp="2021-11-06T18:04:42Z" changeset="113456879" uid="7649834" user="L___I"/>
+  <node id="9230876556" lat="47.5979099" lon="7.6552777" version="1" timestamp="2021-11-06T18:04:42Z" changeset="113456879" uid="7649834" user="L___I"/>
+  <node id="9230876557" lat="47.5979095" lon="7.6553079" version="1" timestamp="2021-11-06T18:04:42Z" changeset="113456879" uid="7649834" user="L___I"/>
+  <node id="9230876558" lat="47.5979052" lon="7.6553323" version="1" timestamp="2021-11-06T18:04:42Z" changeset="113456879" uid="7649834" user="L___I"/>
+  <node id="9230876559" lat="47.5979034" lon="7.6553453" version="1" timestamp="2021-11-06T18:04:42Z" changeset="113456879" uid="7649834" user="L___I"/>
+  <node id="9230876560" lat="47.5979057" lon="7.6553622" version="1" timestamp="2021-11-06T18:04:42Z" changeset="113456879" uid="7649834" user="L___I"/>
+  <node id="9230876561" lat="47.5979111" lon="7.6553808" version="1" timestamp="2021-11-06T18:04:42Z" changeset="113456879" uid="7649834" user="L___I"/>
+  <node id="9230876562" lat="47.5980336" lon="7.6558074" version="1" timestamp="2021-11-06T18:04:42Z" changeset="113456879" uid="7649834" user="L___I"/>
+  <node id="9230876563" lat="47.5980698" lon="7.6559236" version="1" timestamp="2021-11-06T18:04:42Z" changeset="113456879" uid="7649834" user="L___I"/>
+  <node id="9230876564" lat="47.5981186" lon="7.6560683" version="1" timestamp="2021-11-06T18:04:42Z" changeset="113456879" uid="7649834" user="L___I"/>
+  <node id="9230876565" lat="47.5981556" lon="7.6561787" version="1" timestamp="2021-11-06T18:04:42Z" changeset="113456879" uid="7649834" user="L___I"/>
+  <node id="9230876566" lat="47.5982331" lon="7.6562405" version="7" timestamp="2024-12-27T14:56:31Z" changeset="160679068" uid="3203300" user="Tentos">
+    <tag k="button_operated" v="yes"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing:island" v="yes"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="traffic_signals:sound" v="yes"/>
+    <tag k="traffic_signals:vibration" v="yes"/>
+  </node>
+  <node id="9230876567" lat="47.5981617" lon="7.6562207" version="1" timestamp="2021-11-06T18:04:42Z" changeset="113456879" uid="7649834" user="L___I"/>
+  <node id="9230876568" lat="47.5982455" lon="7.6510427" version="1" timestamp="2021-11-06T18:04:42Z" changeset="113456879" uid="7649834" user="L___I"/>
+  <node id="9230876569" lat="47.5982369" lon="7.6511364" version="1" timestamp="2021-11-06T18:04:42Z" changeset="113456879" uid="7649834" user="L___I"/>
+  <node id="9230876570" lat="47.5981896" lon="7.6514661" version="1" timestamp="2021-11-06T18:04:42Z" changeset="113456879" uid="7649834" user="L___I"/>
+  <node id="9230876571" lat="47.5981388" lon="7.6518416" version="1" timestamp="2021-11-06T18:04:42Z" changeset="113456879" uid="7649834" user="L___I"/>
+  <node id="9230876572" lat="47.5981093" lon="7.6521247" version="1" timestamp="2021-11-06T18:04:42Z" changeset="113456879" uid="7649834" user="L___I"/>
+  <node id="9230876573" lat="47.5980903" lon="7.6525044" version="1" timestamp="2021-11-06T18:04:42Z" changeset="113456879" uid="7649834" user="L___I"/>
+  <node id="9230876574" lat="47.5980715" lon="7.6529764" version="1" timestamp="2021-11-06T18:04:42Z" changeset="113456879" uid="7649834" user="L___I"/>
+  <node id="9230876575" lat="47.5980574" lon="7.6533045" version="1" timestamp="2021-11-06T18:04:42Z" changeset="113456879" uid="7649834" user="L___I"/>
+  <node id="9230876576" lat="47.5980530" lon="7.6534373" version="6" timestamp="2024-12-30T10:30:48Z" changeset="160783953" uid="3203300" user="Tentos">
+    <tag k="crossing:island" v="no"/>
+    <tag k="crossing:markings" v="no"/>
+    <tag k="crossing:signals" v="no"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="9230876577" lat="47.5980428" lon="7.6536425" version="1" timestamp="2021-11-06T18:04:42Z" changeset="113456879" uid="7649834" user="L___I"/>
+  <node id="9230876578" lat="47.5980223" lon="7.6540996" version="1" timestamp="2021-11-06T18:04:42Z" changeset="113456879" uid="7649834" user="L___I"/>
+  <node id="9230876579" lat="47.5980074" lon="7.6544113" version="1" timestamp="2021-11-06T18:04:42Z" changeset="113456879" uid="7649834" user="L___I"/>
+  <node id="9230876580" lat="47.5979954" lon="7.6536372" version="7" timestamp="2024-12-30T10:29:46Z" changeset="160784011" uid="3203300" user="Tentos">
+    <tag k="button_operated" v="yes"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing:island" v="no"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="traffic_signals:sound" v="yes"/>
+    <tag k="traffic_signals:vibration" v="yes"/>
+  </node>
+  <node id="9230876581" lat="47.5981142" lon="7.6520772" version="1" timestamp="2021-11-06T18:04:42Z" changeset="113456879" uid="7649834" user="L___I"/>
+  <node id="9230876582" lat="47.5981207" lon="7.6520132" version="1" timestamp="2021-11-06T18:04:42Z" changeset="113456879" uid="7649834" user="L___I"/>
+  <node id="9560278642" lat="47.6007381" lon="7.6558015" version="1" timestamp="2022-03-07T11:39:16Z" changeset="118193995" uid="210440" user="johsin18"/>
+  <node id="9560278644" lat="47.6001068" lon="7.6568525" version="1" timestamp="2022-03-07T11:39:16Z" changeset="118193995" uid="210440" user="johsin18"/>
+  <node id="9560278645" lat="47.5998350" lon="7.6567619" version="1" timestamp="2022-03-07T11:39:16Z" changeset="118193995" uid="210440" user="johsin18"/>
+  <node id="9560278646" lat="47.5997265" lon="7.6567177" version="1" timestamp="2022-03-07T11:39:16Z" changeset="118193995" uid="210440" user="johsin18"/>
+  <node id="9560278647" lat="47.5996619" lon="7.6566761" version="1" timestamp="2022-03-07T11:39:16Z" changeset="118193995" uid="210440" user="johsin18"/>
+  <node id="9560278648" lat="47.5996108" lon="7.6566198" version="1" timestamp="2022-03-07T11:39:16Z" changeset="118193995" uid="210440" user="johsin18"/>
+  <node id="9560278649" lat="47.5995628" lon="7.6565486" version="1" timestamp="2022-03-07T11:39:16Z" changeset="118193995" uid="210440" user="johsin18"/>
+  <node id="9560278651" lat="47.6007129" lon="7.6559540" version="1" timestamp="2022-03-07T11:39:16Z" changeset="118193995" uid="210440" user="johsin18"/>
+  <node id="9560278652" lat="47.6007208" lon="7.6558687" version="1" timestamp="2022-03-07T11:39:16Z" changeset="118193995" uid="210440" user="johsin18"/>
+  <node id="9560278653" lat="47.6006566" lon="7.6565641" version="1" timestamp="2022-03-07T11:39:16Z" changeset="118193995" uid="210440" user="johsin18"/>
+  <node id="9560278654" lat="47.6004269" lon="7.6567244" version="1" timestamp="2022-03-07T11:39:16Z" changeset="118193995" uid="210440" user="johsin18"/>
+  <node id="9560278655" lat="47.5995271" lon="7.6565413" version="1" timestamp="2022-03-07T11:39:16Z" changeset="118193995" uid="210440" user="johsin18"/>
+  <node id="9560278656" lat="47.5994733" lon="7.6564635" version="1" timestamp="2022-03-07T11:39:16Z" changeset="118193995" uid="210440" user="johsin18"/>
+  <node id="9560278657" lat="47.5995412" lon="7.6556246" version="1" timestamp="2022-03-07T11:39:16Z" changeset="118193995" uid="210440" user="johsin18"/>
+  <node id="9560278658" lat="47.5995197" lon="7.6556206" version="1" timestamp="2022-03-07T11:39:16Z" changeset="118193995" uid="210440" user="johsin18"/>
+  <node id="9560278659" lat="47.6007318" lon="7.6558702" version="1" timestamp="2022-03-07T11:39:16Z" changeset="118193995" uid="210440" user="johsin18"/>
+  <node id="9560278660" lat="47.6000585" lon="7.6556083" version="1" timestamp="2022-03-07T11:39:16Z" changeset="118193995" uid="210440" user="johsin18"/>
+  <node id="9560278661" lat="47.5995052" lon="7.6552681" version="1" timestamp="2022-03-07T11:39:16Z" changeset="118193995" uid="210440" user="johsin18"/>
+  <node id="9560278662" lat="47.5994640" lon="7.6552396" version="1" timestamp="2022-03-07T11:39:16Z" changeset="118193995" uid="210440" user="johsin18"/>
+  <node id="9560278670" lat="47.5995642" lon="7.6556288" version="1" timestamp="2022-03-07T11:39:16Z" changeset="118193995" uid="210440" user="johsin18"/>
+  <node id="9560278672" lat="47.6007097" lon="7.6558671" version="1" timestamp="2022-03-07T11:39:16Z" changeset="118193995" uid="210440" user="johsin18"/>
+  <node id="9560278673" lat="47.6003433" lon="7.6557152" version="1" timestamp="2022-03-07T11:39:16Z" changeset="118193995" uid="210440" user="johsin18"/>
+  <node id="9560278675" lat="47.5994259" lon="7.6553509" version="1" timestamp="2022-03-07T11:39:16Z" changeset="118193995" uid="210440" user="johsin18"/>
+  <node id="9708794504" lat="47.5959839" lon="7.6574633" version="1" timestamp="2022-05-02T09:25:35Z" changeset="120452012" uid="12302311" user="dave8ba"/>
+  <node id="9708794508" lat="47.5987642" lon="7.6587389" version="1" timestamp="2022-05-02T09:25:35Z" changeset="120452012" uid="12302311" user="dave8ba"/>
+  <node id="10112453456" lat="47.5964274" lon="7.6560318" version="2" timestamp="2023-01-11T14:24:18Z" changeset="131148492" uid="10292567" user="cityd"/>
+  <node id="10112453468" lat="47.5966653" lon="7.6574411" version="1" timestamp="2022-10-18T23:38:48Z" changeset="127751522" uid="11211647" user="wermak"/>
+  <node id="10112453469" lat="47.5959460" lon="7.6572084" version="1" timestamp="2022-10-18T23:38:48Z" changeset="127751522" uid="11211647" user="wermak"/>
+  <node id="10112917786" lat="47.5974453" lon="7.6576982" version="1" timestamp="2022-10-19T05:12:10Z" changeset="127757776" uid="11211647" user="wermak"/>
+  <node id="10112917787" lat="47.5970560" lon="7.6575800" version="1" timestamp="2022-10-19T05:12:10Z" changeset="127757776" uid="11211647" user="wermak"/>
+  <node id="10112917788" lat="47.5969615" lon="7.6575423" version="1" timestamp="2022-10-19T05:12:10Z" changeset="127757776" uid="11211647" user="wermak"/>
+  <node id="10112917789" lat="47.5969336" lon="7.6575234" version="1" timestamp="2022-10-19T05:12:10Z" changeset="127757776" uid="11211647" user="wermak"/>
+  <node id="10112917790" lat="47.5969737" lon="7.6573118" version="1" timestamp="2022-10-19T05:12:10Z" changeset="127757776" uid="11211647" user="wermak"/>
+  <node id="10112917791" lat="47.5968828" lon="7.6575133" version="1" timestamp="2022-10-19T05:12:10Z" changeset="127757776" uid="11211647" user="wermak"/>
+  <node id="10112917792" lat="47.5967005" lon="7.6574432" version="1" timestamp="2022-10-19T05:12:10Z" changeset="127757776" uid="11211647" user="wermak"/>
+  <node id="10285291240" lat="47.5986324" lon="7.6566311" version="1" timestamp="2022-12-25T00:53:48Z" changeset="130470547" uid="17176872" user="Halbgeviertstrich"/>
+  <node id="10285291241" lat="47.5985316" lon="7.6566193" version="5" timestamp="2024-12-27T14:55:14Z" changeset="160679068" uid="3203300" user="Tentos">
+    <tag k="bicycle" v="yes"/>
+    <tag k="button_operated" v="yes"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing:island" v="yes"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="traffic_signals:sound" v="yes"/>
+    <tag k="traffic_signals:vibration" v="yes"/>
+  </node>
+  <node id="10285291242" lat="47.5994216" lon="7.6569347" version="2" timestamp="2023-01-11T14:24:18Z" changeset="131148492" uid="10292567" user="cityd"/>
+  <node id="10285291243" lat="47.5992696" lon="7.6592797" version="1" timestamp="2022-12-25T00:53:48Z" changeset="130470547" uid="17176872" user="Halbgeviertstrich"/>
+  <node id="10285291245" lat="47.6000384" lon="7.6588239" version="1" timestamp="2022-12-25T00:53:48Z" changeset="130470547" uid="17176872" user="Halbgeviertstrich"/>
+  <node id="10285291246" lat="47.5982161" lon="7.6561108" version="1" timestamp="2022-12-25T00:53:48Z" changeset="130470547" uid="17176872" user="Halbgeviertstrich">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+    <tag k="traffic_signals:direction" v="forward"/>
+  </node>
+  <node id="10285291247" lat="47.5986396" lon="7.6564409" version="1" timestamp="2022-12-25T00:53:48Z" changeset="130470547" uid="17176872" user="Halbgeviertstrich">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+    <tag k="traffic_signals:direction" v="backward"/>
+  </node>
+  <node id="10285291248" lat="47.5985284" lon="7.6566573" version="2" timestamp="2024-04-11T19:44:14Z" changeset="149880149" uid="17176872" user="Halbgeviertstrich">
+    <tag k="cycleway" v="asl"/>
+    <tag k="direction" v="backward"/>
+  </node>
+  <node id="10285291249" lat="47.5985259" lon="7.6566878" version="1" timestamp="2022-12-25T00:53:48Z" changeset="130470547" uid="17176872" user="Halbgeviertstrich">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+    <tag k="traffic_signals:direction" v="backward"/>
+  </node>
+  <node id="10285291250" lat="47.5981193" lon="7.6563611" version="1" timestamp="2022-12-25T00:53:48Z" changeset="130470547" uid="17176872" user="Halbgeviertstrich">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+    <tag k="traffic_signals:direction" v="forward"/>
+  </node>
+  <node id="10285291251" lat="47.5983992" lon="7.6564004" version="1" timestamp="2022-12-25T00:53:48Z" changeset="130470547" uid="17176872" user="Halbgeviertstrich">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+    <tag k="traffic_signals:direction" v="forward"/>
+  </node>
+  <node id="10286149391" lat="47.5980123" lon="7.6568063" version="1" timestamp="2022-12-25T17:08:17Z" changeset="130488655" uid="17176872" user="Halbgeviertstrich"/>
+  <node id="10286149392" lat="47.5980282" lon="7.6566465" version="1" timestamp="2022-12-25T17:08:17Z" changeset="130488655" uid="17176872" user="Halbgeviertstrich"/>
+  <node id="10286149393" lat="47.5980283" lon="7.6565351" version="1" timestamp="2022-12-25T17:08:17Z" changeset="130488655" uid="17176872" user="Halbgeviertstrich"/>
+  <node id="10286149394" lat="47.5979686" lon="7.6565288" version="1" timestamp="2022-12-25T17:08:17Z" changeset="130488655" uid="17176872" user="Halbgeviertstrich"/>
+  <node id="10286149395" lat="47.5979768" lon="7.6563423" version="1" timestamp="2022-12-25T17:08:17Z" changeset="130488655" uid="17176872" user="Halbgeviertstrich"/>
+  <node id="10727936334" lat="47.5992238" lon="7.6596114" version="2" timestamp="2025-11-29T11:47:27Z" changeset="175272103" uid="17360977" user="CaptainCarte"/>
+  <node id="10799358554" lat="47.5988167" lon="7.6557484" version="1" timestamp="2023-04-10T13:33:32Z" changeset="134730826" uid="17176872" user="Halbgeviertstrich"/>
+  <node id="10799358555" lat="47.5987722" lon="7.6559703" version="1" timestamp="2023-04-10T13:33:32Z" changeset="134730826" uid="17176872" user="Halbgeviertstrich"/>
+  <node id="10799358556" lat="47.5984735" lon="7.6559331" version="1" timestamp="2023-04-10T13:33:32Z" changeset="134730826" uid="17176872" user="Halbgeviertstrich">
+    <tag k="noexit" v="yes"/>
+  </node>
+  <node id="10799358557" lat="47.5992635" lon="7.6560016" version="1" timestamp="2023-04-10T13:33:32Z" changeset="134730826" uid="17176872" user="Halbgeviertstrich"/>
+  <node id="10799358558" lat="47.5990814" lon="7.6560815" version="1" timestamp="2023-04-10T13:33:32Z" changeset="134730826" uid="17176872" user="Halbgeviertstrich"/>
+  <node id="10799358559" lat="47.5990135" lon="7.6560763" version="1" timestamp="2023-04-10T13:33:32Z" changeset="134730826" uid="17176872" user="Halbgeviertstrich"/>
+  <node id="10799358560" lat="47.5988163" lon="7.6560003" version="1" timestamp="2023-04-10T13:33:32Z" changeset="134730826" uid="17176872" user="Halbgeviertstrich">
+    <tag k="noexit" v="yes"/>
+  </node>
+  <node id="11700079435" lat="47.6000247" lon="7.6579789" version="1" timestamp="2024-03-07T08:54:23Z" changeset="148329835" uid="2102114" user="***juggernaut***"/>
+  <node id="12471253147" lat="47.5999292" lon="7.6540778" version="1" timestamp="2025-01-03T12:57:56Z" changeset="160947882" uid="3203300" user="Tentos"/>
+  <node id="12471253148" lat="47.5994556" lon="7.6538994" version="1" timestamp="2025-01-03T12:57:56Z" changeset="160947882" uid="3203300" user="Tentos"/>
+  <node id="12471253149" lat="47.5995653" lon="7.6539451" version="1" timestamp="2025-01-03T12:57:56Z" changeset="160947882" uid="3203300" user="Tentos"/>
+  <way id="25728173" version="16" timestamp="2025-04-05T12:48:41Z" changeset="164549343" uid="1023194" user="Entbert">
+    <nd ref="60483073"/>
+    <nd ref="4551714033"/>
+    <nd ref="60483082"/>
+    <nd ref="1403313559"/>
+    <nd ref="1027005433"/>
+    <nd ref="5734322296"/>
+    <nd ref="1027005442"/>
+    <nd ref="60483085"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Riehenstraße"/>
+    <tag k="oneway" v="no"/>
+    <tag k="source:maxspeed" v="DE:zone30"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="width" v="3"/>
+  </way>
+  <way id="25931296" version="15" timestamp="2022-12-25T17:08:17Z" changeset="130488655" uid="17176872" user="Halbgeviertstrich">
+    <nd ref="10112453456"/>
+    <nd ref="4551686613"/>
+    <nd ref="282864619"/>
+    <nd ref="1078588071"/>
+    <nd ref="282864620"/>
+    <nd ref="282864621"/>
+    <nd ref="1403313558"/>
+    <nd ref="282864624"/>
+    <nd ref="1078588305"/>
+    <nd ref="9230796777"/>
+    <nd ref="282864630"/>
+    <nd ref="282864632"/>
+    <nd ref="10286149391"/>
+    <nd ref="282864633"/>
+    <nd ref="1078588682"/>
+    <nd ref="282864634"/>
+    <nd ref="4062918917"/>
+    <nd ref="4062918918"/>
+    <nd ref="4062918919"/>
+    <nd ref="4062918920"/>
+    <nd ref="4062918921"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Alte Basler Straße"/>
+    <tag k="source:maxspeed" v="DE:zone30"/>
+    <tag k="vehicle" v="destination"/>
+  </way>
+  <way id="28582735" version="9" timestamp="2023-03-25T12:05:10Z" changeset="134101400" uid="17176872" user="Halbgeviertstrich">
+    <nd ref="313946704"/>
+    <nd ref="1410928679"/>
+    <nd ref="313946707"/>
+    <nd ref="313946709"/>
+    <nd ref="1410928736"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Am Bächle"/>
+    <tag k="source:maxspeed" v="DE:zone30"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="width" v="3"/>
+  </way>
+  <way id="31530088" version="13" timestamp="2023-04-10T14:40:20Z" changeset="134734217" uid="17176872" user="Halbgeviertstrich">
+    <nd ref="352850320"/>
+    <nd ref="2449956597"/>
+    <nd ref="2449956599"/>
+    <nd ref="1019572067"/>
+    <nd ref="2449956601"/>
+    <nd ref="2449956596"/>
+    <nd ref="1019572136"/>
+    <nd ref="2449956603"/>
+    <nd ref="1019571907"/>
+    <nd ref="9230869800"/>
+    <nd ref="3256008745"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="motor_vehicle" v="destination"/>
+    <tag k="name" v="Leibnizweg"/>
+    <tag k="source:maxspeed" v="DE:zone30"/>
+  </way>
+  <way id="31530089" version="9" timestamp="2025-12-05T08:41:26Z" changeset="175537052" uid="15671" user="habi">
+    <nd ref="19387444"/>
+    <nd ref="351898833"/>
+    <tag k="access" v="destination"/>
+    <tag k="cycleway:left" v="lane"/>
+    <tag k="cycleway:left:lane" v="exclusive"/>
+    <tag k="cycleway:right" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="mapillary" v="147650817334892"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Hammerstraße"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="source:maxspeed" v="DE:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="31585976" version="23" timestamp="2024-01-15T07:36:21Z" changeset="146269455" uid="7504544" user="mottiger">
+    <nd ref="19387444"/>
+    <nd ref="10112453456"/>
+    <nd ref="37072858"/>
+    <nd ref="428886301"/>
+    <tag k="cycleway:left" v="no"/>
+    <tag k="cycleway:right" v="share_busway"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="lanes:backward" v="2"/>
+    <tag k="lanes:forward" v="2"/>
+    <tag k="lanes:psv:forward" v="1"/>
+    <tag k="maxlength" v="12"/>
+    <tag k="maxlength:conditional" v="none @ destination"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Basler Straße"/>
+    <tag k="name:etymology:wikidata" v="Q78"/>
+    <tag k="psv:lanes:forward" v="yes|designated"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="source:maxspeed" v="DE:urban"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="turn:lanes:backward" v="through|right"/>
+  </way>
+  <way id="32231288" version="17" timestamp="2024-12-27T23:26:59Z" changeset="160696505" uid="3203300" user="Tentos">
+    <nd ref="352850320"/>
+    <nd ref="6352145641"/>
+    <nd ref="1063454276"/>
+    <tag k="highway" v="service"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxheight:signed" v="no"/>
+    <tag k="motor_vehicle" v="no"/>
+    <tag k="service" v="alley"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="32263627" version="6" timestamp="2023-04-02T16:17:53Z" changeset="134421186" uid="17176872" user="Halbgeviertstrich">
+    <nd ref="352850316"/>
+    <nd ref="1016654241"/>
+    <nd ref="362567154"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="designated"/>
+    <tag k="highway" v="path"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="32500577" version="8" timestamp="2025-08-01T19:41:30Z" changeset="169835297" uid="23150430" user="Knix-gemacht">
+    <nd ref="365397859"/>
+    <nd ref="2518929673"/>
+    <nd ref="365397864"/>
+    <nd ref="365397867"/>
+    <nd ref="10799358554"/>
+    <nd ref="365397872"/>
+    <nd ref="10799358557"/>
+    <nd ref="2518929699"/>
+    <nd ref="365397876"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lane_markings" v="no"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Friedrich-Ebert-Straße"/>
+    <tag k="source:maxspeed" v="DE:urban"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="32911606" version="2" timestamp="2010-12-25T06:01:50Z" changeset="6758945" uid="13436" user="hkucharek">
+    <nd ref="370645533"/>
+    <nd ref="1063454275"/>
+    <nd ref="370645539"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="35142095" version="10" timestamp="2024-03-07T08:54:23Z" changeset="148329835" uid="2102114" user="***juggernaut***">
+    <nd ref="412208986"/>
+    <nd ref="412208987"/>
+    <nd ref="11700079435"/>
+    <nd ref="412208988"/>
+    <nd ref="412208990"/>
+    <nd ref="412208991"/>
+    <nd ref="1405258460"/>
+    <nd ref="1640977298"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Alte Basler Straße Nord"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="source:maxspeed" v="DE:urban"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="vehicle" v="destination"/>
+  </way>
+  <way id="36985290" version="21" timestamp="2024-01-15T07:36:21Z" changeset="146269455" uid="7504544" user="mottiger">
+    <nd ref="37072835"/>
+    <nd ref="10285291251"/>
+    <nd ref="19387534"/>
+    <nd ref="1628110071"/>
+    <tag k="bicycle:forward" v="use_sidepath"/>
+    <tag k="cycleway:left" v="share_busway"/>
+    <tag k="cycleway:right" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="lanes:backward" v="2"/>
+    <tag k="lanes:forward" v="2"/>
+    <tag k="lanes:psv:backward" v="1"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Basler Straße"/>
+    <tag k="name:etymology:wikidata" v="Q78"/>
+    <tag k="psv:lanes:backward" v="yes|designated"/>
+    <tag k="sidewalk:left" v="yes"/>
+    <tag k="sidewalk:right" v="separate"/>
+    <tag k="source:maxspeed" v="DE:urban"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="turn:lanes:backward" v="through;right|"/>
+    <tag k="turn:lanes:forward" v="through|right"/>
+  </way>
+  <way id="42673585" version="16" timestamp="2024-04-27T15:14:50Z" changeset="150584924" uid="17176872" user="Halbgeviertstrich">
+    <nd ref="361451228"/>
+    <nd ref="533627620"/>
+    <nd ref="9230876555"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="cycleway" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lane_markings" v="no"/>
+    <tag k="lanes" v="2"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="maxweight:signed" v="no"/>
+    <tag k="name" v="Dammstraße"/>
+    <tag k="noref" v="yes"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="42673587" version="21" timestamp="2024-04-27T15:14:50Z" changeset="150584924" uid="17176872" user="Halbgeviertstrich">
+    <nd ref="9230876555"/>
+    <nd ref="1028820172"/>
+    <nd ref="1028820071"/>
+    <nd ref="2518929668"/>
+    <nd ref="37072847"/>
+    <nd ref="1028819970"/>
+    <nd ref="3869219804"/>
+    <nd ref="3869219852"/>
+    <nd ref="3869219856"/>
+    <nd ref="3869219805"/>
+    <nd ref="365397859"/>
+    <nd ref="567185789"/>
+    <nd ref="10285291246"/>
+    <nd ref="7221350594"/>
+    <nd ref="9230876566"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Dammstraße"/>
+    <tag k="noref" v="yes"/>
+    <tag k="sidewalk:left" v="yes"/>
+    <tag k="sidewalk:right" v="separate"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="59571718" version="6" timestamp="2024-12-30T20:37:57Z" changeset="160809567" uid="3203300" user="Tentos">
+    <nd ref="351898833"/>
+    <nd ref="1063416764"/>
+    <nd ref="1063416772"/>
+    <nd ref="364830706"/>
+    <nd ref="352850327"/>
+    <nd ref="1063416820"/>
+    <nd ref="1063452412"/>
+    <nd ref="364830715"/>
+    <tag k="highway" v="living_street"/>
+    <tag k="name" v="Hammerstraße"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="70569054" version="13" timestamp="2024-12-28T10:37:56Z" changeset="160707648" uid="3203300" user="Tentos">
+    <nd ref="313946696"/>
+    <nd ref="313946699"/>
+    <nd ref="9708794504"/>
+    <nd ref="313946698"/>
+    <nd ref="5734322292"/>
+    <nd ref="5734322295"/>
+    <nd ref="60483085"/>
+    <tag k="bicycle" v="designated"/>
+    <tag k="foot" v="designated"/>
+    <tag k="highway" v="path"/>
+    <tag k="segregated" v="no"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="width" v="2"/>
+  </way>
+  <way id="83288880" version="4" timestamp="2025-01-03T09:52:14Z" changeset="160940497" uid="3203300" user="Tentos">
+    <nd ref="969115118"/>
+    <nd ref="370645533"/>
+    <nd ref="351898833"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Hammerstraße"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="source:maxspeed" v="DE:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="87669038" version="10" timestamp="2025-06-07T07:44:21Z" changeset="167296846" uid="22845353" user="NVBW_Edit_mcliquid">
+    <nd ref="9230876550"/>
+    <nd ref="9230876551"/>
+    <nd ref="9230876552"/>
+    <nd ref="1019572108"/>
+    <nd ref="1019571882"/>
+    <nd ref="1019572018"/>
+    <nd ref="1019571900"/>
+    <nd ref="1019572117"/>
+    <nd ref="1019571925"/>
+    <nd ref="1019572060"/>
+    <nd ref="1019572128"/>
+    <nd ref="1019571940"/>
+    <nd ref="1019572082"/>
+    <nd ref="1019572170"/>
+    <nd ref="1019571958"/>
+    <nd ref="1019572103"/>
+    <tag k="handrail" v="both"/>
+    <tag k="handrail:left" v="yes"/>
+    <tag k="handrail:right" v="yes"/>
+    <tag k="highway" v="path"/>
+    <tag k="incline" v="6.2%"/>
+    <tag k="incline:across" v="3.4%"/>
+    <tag k="lit" v="yes"/>
+    <tag k="ramp:wheelchair" v="yes"/>
+    <tag k="surface" v="paving_stones"/>
+    <tag k="width" v="1.75"/>
+  </way>
+  <way id="87669042" version="9" timestamp="2025-08-04T13:45:48Z" changeset="169957332" uid="23150430" user="Knix-gemacht">
+    <nd ref="1019571966"/>
+    <nd ref="1019571900"/>
+    <nd ref="1019572128"/>
+    <nd ref="1019571915"/>
+    <tag k="handrail" v="yes"/>
+    <tag k="handrail:center" v="no"/>
+    <tag k="handrail:left" v="yes"/>
+    <tag k="handrail:right" v="yes"/>
+    <tag k="highway" v="steps"/>
+    <tag k="incline" v="up"/>
+    <tag k="lit" v="yes"/>
+    <tag k="platform_lift" v="no"/>
+    <tag k="ramp" v="no"/>
+    <tag k="ramp:bicycle" v="no"/>
+    <tag k="ramp:luggage" v="no"/>
+    <tag k="ramp:stroller" v="no"/>
+    <tag k="ramp:wheelchair" v="no"/>
+    <tag k="step:height" v="0.16"/>
+    <tag k="step_count" v="47"/>
+    <tag k="surface" v="concrete"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="tactile_writing" v="no"/>
+  </way>
+  <way id="91539039" version="7" timestamp="2023-04-02T16:17:53Z" changeset="134421186" uid="17176872" user="Halbgeviertstrich">
+    <nd ref="1063416806"/>
+    <nd ref="969115118"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="layer" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="maxweight:signed" v="no"/>
+    <tag k="name" v="Hammerstraße"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="source:maxspeed" v="DE:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="91544254" version="9" timestamp="2023-04-02T16:17:53Z" changeset="134421186" uid="17176872" user="Halbgeviertstrich">
+    <nd ref="369031765"/>
+    <nd ref="5312581769"/>
+    <nd ref="5312581771"/>
+    <nd ref="1063454285"/>
+    <nd ref="1063454282"/>
+    <nd ref="1063454284"/>
+    <nd ref="1063454277"/>
+    <nd ref="1063454276"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Am Bahndamm"/>
+    <tag k="service" v="alley"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="126630184" version="3" timestamp="2022-12-25T17:08:17Z" changeset="130488655" uid="17176872" user="Halbgeviertstrich">
+    <nd ref="1403313558"/>
+    <nd ref="10112917790"/>
+    <nd ref="10112917789"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Bettinger Weg"/>
+    <tag k="source:maxspeed" v="DE:zone30"/>
+    <tag k="vehicle" v="destination"/>
+  </way>
+  <way id="126630185" version="3" timestamp="2018-07-02T15:31:52Z" changeset="60351604" uid="818906" user="Krake User">
+    <nd ref="1403313589"/>
+    <nd ref="5734322300"/>
+    <nd ref="5734322299"/>
+    <nd ref="5734322301"/>
+    <nd ref="3870530232"/>
+    <nd ref="313946712"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="126630188" version="8" timestamp="2021-04-25T12:31:45Z" changeset="103572366" uid="13171887" user="val42">
+    <nd ref="1403313536"/>
+    <nd ref="1403313524"/>
+    <tag k="handrail" v="yes"/>
+    <tag k="highway" v="steps"/>
+    <tag k="incline" v="up"/>
+    <tag k="lit" v="yes"/>
+    <tag k="ramp" v="yes"/>
+    <tag k="ramp:stroller" v="yes"/>
+    <tag k="step_count" v="16"/>
+    <tag k="surface" v="concrete"/>
+  </way>
+  <way id="126630189" version="6" timestamp="2019-10-27T21:59:18Z" changeset="76277425" uid="6583527" user="hieronymusescobar">
+    <nd ref="60483108"/>
+    <nd ref="6923434020"/>
+    <nd ref="1403313589"/>
+    <nd ref="1403313521"/>
+    <nd ref="5734322298"/>
+    <nd ref="5734322297"/>
+    <nd ref="1403313559"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="126630191" version="8" timestamp="2021-04-25T13:19:40Z" changeset="103572366" uid="13171887" user="val42">
+    <nd ref="1404960369"/>
+    <nd ref="1403313545"/>
+    <nd ref="1403313561"/>
+    <nd ref="1403313548"/>
+    <nd ref="1403313563"/>
+    <tag k="handrail" v="yes"/>
+    <tag k="highway" v="steps"/>
+    <tag k="incline" v="down"/>
+    <tag k="lit" v="yes"/>
+    <tag k="ramp" v="yes"/>
+    <tag k="ramp:stroller" v="yes"/>
+    <tag k="step_count" v="23"/>
+    <tag k="surface" v="concrete"/>
+  </way>
+  <way id="126630192" version="8" timestamp="2023-03-25T12:05:10Z" changeset="134101400" uid="17176872" user="Halbgeviertstrich">
+    <nd ref="1403313563"/>
+    <nd ref="1403313599"/>
+    <nd ref="9708794508"/>
+    <nd ref="1403313586"/>
+    <nd ref="1403313619"/>
+    <nd ref="1410928671"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="designated"/>
+    <tag k="highway" v="path"/>
+    <tag k="segregated" v="no"/>
+  </way>
+  <way id="126630194" version="6" timestamp="2023-04-10T13:33:32Z" changeset="134730826" uid="17176872" user="Halbgeviertstrich">
+    <nd ref="10285291240"/>
+    <nd ref="1403313523"/>
+    <nd ref="1403313614"/>
+    <nd ref="1403313535"/>
+    <nd ref="1403313602"/>
+    <nd ref="1403313527"/>
+    <nd ref="1403313526"/>
+    <nd ref="1403313536"/>
+    <tag k="highway" v="path"/>
+    <tag k="lit" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="126869199" version="4" timestamp="2023-04-10T13:33:32Z" changeset="134730826" uid="17176872" user="Halbgeviertstrich">
+    <nd ref="1403313524"/>
+    <nd ref="1405258460"/>
+    <tag k="highway" v="path"/>
+    <tag k="lit" v="no"/>
+    <tag k="surface" v="concrete"/>
+  </way>
+  <way id="137464958" version="6" timestamp="2023-03-25T12:05:10Z" changeset="134101400" uid="17176872" user="Halbgeviertstrich">
+    <nd ref="60483024"/>
+    <nd ref="1076236217"/>
+    <nd ref="4404070099"/>
+    <nd ref="60483118"/>
+    <nd ref="2301577492"/>
+    <nd ref="37072888"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Konrad-Adenauer-Straße"/>
+    <tag k="sidewalk:both" v="separate"/>
+    <tag k="source:maxspeed" v="DE:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="137474089" version="13" timestamp="2024-04-27T15:14:50Z" changeset="150584924" uid="17176872" user="Halbgeviertstrich">
+    <nd ref="281094079"/>
+    <nd ref="9230876580"/>
+    <nd ref="361451228"/>
+    <tag k="cycleway" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lane_markings" v="no"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Dammstraße"/>
+    <tag k="noref" v="yes"/>
+    <tag k="sidewalk:left" v="separate"/>
+    <tag k="sidewalk:right" v="yes"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="137474090" version="9" timestamp="2025-01-03T12:57:56Z" changeset="160947882" uid="3203300" user="Tentos">
+    <nd ref="364421671"/>
+    <nd ref="364421667"/>
+    <nd ref="3870431190"/>
+    <nd ref="12471253147"/>
+    <nd ref="2620799823"/>
+    <nd ref="3870431182"/>
+    <nd ref="3870431185"/>
+    <nd ref="12471253149"/>
+    <nd ref="3870431183"/>
+    <nd ref="12471253148"/>
+    <nd ref="7781614415"/>
+    <nd ref="364423785"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Käppelestraße"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="source:maxspeed" v="DE:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="149866195" version="12" timestamp="2024-06-09T18:11:24Z" changeset="152466344" uid="3232636" user="Karthoo">
+    <nd ref="10285291241"/>
+    <nd ref="10285291248"/>
+    <nd ref="10285291249"/>
+    <nd ref="1628110069"/>
+    <nd ref="7221350593"/>
+    <nd ref="37072864"/>
+    <nd ref="37072870"/>
+    <nd ref="1076236235"/>
+    <nd ref="37072873"/>
+    <nd ref="37072877"/>
+    <nd ref="1076236220"/>
+    <nd ref="37072882"/>
+    <nd ref="1076236226"/>
+    <nd ref="37072885"/>
+    <nd ref="1076236248"/>
+    <nd ref="37072888"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxheight" v="default"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Obere Riehenstraße"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="DE:urban"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="182160113" version="4" timestamp="2022-12-25T00:53:48Z" changeset="130470547" uid="17176872" user="Halbgeviertstrich">
+    <nd ref="37072835"/>
+    <nd ref="1628110051"/>
+    <nd ref="1628110053"/>
+    <nd ref="1628110055"/>
+    <nd ref="1628110056"/>
+    <nd ref="1628110058"/>
+    <tag k="bicycle" v="designated"/>
+    <tag k="foot" v="designated"/>
+    <tag k="highway" v="path"/>
+    <tag k="lit" v="no"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="segregated" v="no"/>
+    <tag k="surface" v="concrete"/>
+  </way>
+  <way id="182160115" version="3" timestamp="2022-12-25T00:53:48Z" changeset="130470547" uid="17176872" user="Halbgeviertstrich">
+    <nd ref="1628110058"/>
+    <nd ref="1403313556"/>
+    <nd ref="1628110067"/>
+    <nd ref="1403313531"/>
+    <nd ref="1403313560"/>
+    <nd ref="1403313532"/>
+    <nd ref="1403313621"/>
+    <nd ref="1403313597"/>
+    <nd ref="1403313551"/>
+    <nd ref="1403313563"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="designated"/>
+    <tag k="highway" v="path"/>
+    <tag k="segregated" v="no"/>
+  </way>
+  <way id="182267436" version="4" timestamp="2023-03-25T12:05:10Z" changeset="134101400" uid="17176872" user="Halbgeviertstrich">
+    <nd ref="1410928671"/>
+    <nd ref="1410928829"/>
+    <nd ref="1410928826"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="designated"/>
+    <tag k="highway" v="path"/>
+    <tag k="path" v="sidewalk"/>
+    <tag k="segregated" v="no"/>
+  </way>
+  <way id="183169791" version="9" timestamp="2025-04-05T12:49:10Z" changeset="164549386" uid="1023194" user="Entbert">
+    <nd ref="60483085"/>
+    <nd ref="5734322294"/>
+    <nd ref="5734322293"/>
+    <nd ref="60483088"/>
+    <nd ref="60483091"/>
+    <nd ref="60483094"/>
+    <nd ref="1404960369"/>
+    <nd ref="60483099"/>
+    <nd ref="60483101"/>
+    <nd ref="60483105"/>
+    <nd ref="60483108"/>
+    <nd ref="60483110"/>
+    <nd ref="60483039"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Riehenstraße"/>
+    <tag k="oneway" v="no"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="source:maxspeed" v="DE:zone30"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="width" v="3"/>
+  </way>
+  <way id="183169793" version="8" timestamp="2023-03-25T12:05:10Z" changeset="134101400" uid="17176872" user="Halbgeviertstrich">
+    <nd ref="60483039"/>
+    <nd ref="313946716"/>
+    <nd ref="6923434021"/>
+    <nd ref="313946704"/>
+    <nd ref="313946712"/>
+    <nd ref="3870530223"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Pestalozzistraße"/>
+    <tag k="oneway" v="no"/>
+    <tag k="source:maxspeed" v="DE:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="200606082" version="12" timestamp="2023-01-11T14:24:18Z" changeset="131148492" uid="10292567" user="cityd">
+    <nd ref="1403313541"/>
+    <nd ref="1078588063"/>
+    <nd ref="8442793394"/>
+    <nd ref="280331428"/>
+    <nd ref="7221350609"/>
+    <nd ref="1078588289"/>
+    <nd ref="7221350608"/>
+    <tag k="cycleway:left" v="share_busway"/>
+    <tag k="cycleway:right" v="track"/>
+    <tag k="cycleway:right:bicycle" v="designated"/>
+    <tag k="cycleway:right:segregated" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="lanes:backward" v="3"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lanes:psv:backward" v="1"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Basler Straße"/>
+    <tag k="psv:lanes:backward" v="yes|yes|designated"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="source:maxspeed" v="DE:urban"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="turn:lanes:backward" v="left|through|"/>
+  </way>
+  <way id="244593019" version="3" timestamp="2023-04-10T13:33:32Z" changeset="134730826" uid="17176872" user="Halbgeviertstrich">
+    <nd ref="2518929673"/>
+    <nd ref="2518929674"/>
+    <nd ref="2518929672"/>
+    <nd ref="2518929676"/>
+    <nd ref="2518929677"/>
+    <nd ref="2518929695"/>
+    <nd ref="2518929694"/>
+    <nd ref="2518929689"/>
+    <nd ref="2518929687"/>
+    <nd ref="365397867"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="service" v="driveway"/>
+    <tag k="surface" v="paving_stones"/>
+    <tag k="vehicle" v="destination"/>
+  </way>
+  <way id="244593038" version="5" timestamp="2023-04-10T13:33:32Z" changeset="134730826" uid="17176872" user="Halbgeviertstrich">
+    <nd ref="2518929668"/>
+    <nd ref="3869219855"/>
+    <tag k="highway" v="path"/>
+    <tag k="lit" v="no"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="244593039" version="3" timestamp="2023-04-10T13:33:32Z" changeset="134730826" uid="17176872" user="Halbgeviertstrich">
+    <nd ref="2518929700"/>
+    <nd ref="2518929699"/>
+    <tag k="highway" v="path"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="244593040" version="3" timestamp="2023-04-10T13:33:32Z" changeset="134730826" uid="17176872" user="Halbgeviertstrich">
+    <nd ref="2518929674"/>
+    <nd ref="2518929689"/>
+    <tag k="highway" v="path"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="244593043" version="3" timestamp="2023-04-10T13:33:32Z" changeset="134730826" uid="17176872" user="Halbgeviertstrich">
+    <nd ref="2518929687"/>
+    <nd ref="2518929696"/>
+    <nd ref="2518929700"/>
+    <nd ref="2518929702"/>
+    <tag k="highway" v="path"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="244593044" version="3" timestamp="2023-04-10T13:33:32Z" changeset="134730826" uid="17176872" user="Halbgeviertstrich">
+    <nd ref="2518929669"/>
+    <nd ref="2518929672"/>
+    <tag k="highway" v="path"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="244593045" version="2" timestamp="2024-12-27T14:51:07Z" changeset="160679727" uid="3203300" user="Tentos">
+    <nd ref="2518929706"/>
+    <nd ref="2518929708"/>
+    <nd ref="2518929703"/>
+    <nd ref="1640977305"/>
+    <tag k="highway" v="service"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="service" v="parking_aisle"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="383620962" version="10" timestamp="2025-08-04T13:45:06Z" changeset="169957281" uid="23150430" user="Knix-gemacht">
+    <nd ref="3869220657"/>
+    <nd ref="3869219853"/>
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="platform"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Friedrich-Ebert-Straße"/>
+    <tag k="old_name" v="Dammstraße"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </way>
+  <way id="383620963" version="10" timestamp="2025-08-04T13:45:12Z" changeset="169957281" uid="23150430" user="Knix-gemacht">
+    <nd ref="3869219849"/>
+    <nd ref="3869219854"/>
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="platform"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Friedrich-Ebert-Straße"/>
+    <tag k="old_name" v="Dammstraße"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </way>
+  <way id="383620967" version="3" timestamp="2021-04-25T12:54:25Z" changeset="103572095" uid="13171887" user="val42">
+    <nd ref="3869219849"/>
+    <nd ref="3869219852"/>
+    <tag k="highway" v="footway"/>
+    <tag k="lit" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="383620968" version="4" timestamp="2023-04-10T13:33:32Z" changeset="134730826" uid="17176872" user="Halbgeviertstrich">
+    <nd ref="3869219846"/>
+    <nd ref="1019571966"/>
+    <nd ref="9230876550"/>
+    <tag k="highway" v="path"/>
+    <tag k="lit" v="yes"/>
+    <tag k="path" v="sidewalk"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="383620971" version="3" timestamp="2021-04-25T12:54:22Z" changeset="103572095" uid="13171887" user="val42">
+    <nd ref="3869220657"/>
+    <nd ref="3869219856"/>
+    <tag k="highway" v="footway"/>
+    <tag k="lit" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="383620973" version="7" timestamp="2025-08-04T13:46:09Z" changeset="169957332" uid="23150430" user="Knix-gemacht">
+    <nd ref="3869219855"/>
+    <nd ref="2518929669"/>
+    <tag k="amount" v="5"/>
+    <tag k="handrail" v="yes"/>
+    <tag k="highway" v="steps"/>
+    <tag k="incline" v="up"/>
+    <tag k="lit" v="no"/>
+    <tag k="ramp" v="yes"/>
+    <tag k="ramp:bicycle" v="yes"/>
+    <tag k="step_count" v="4"/>
+    <tag k="surface" v="paving_stones"/>
+    <tag k="tactile_paving" v="no"/>
+  </way>
+  <way id="383620974" version="4" timestamp="2023-04-10T13:33:32Z" changeset="134730826" uid="17176872" user="Halbgeviertstrich">
+    <nd ref="37072847"/>
+    <nd ref="3869219846"/>
+    <tag k="highway" v="path"/>
+    <tag k="lit" v="yes"/>
+    <tag k="path" v="crossing"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="383730365" version="7" timestamp="2024-12-30T10:34:30Z" changeset="160784584" uid="3203300" user="Tentos">
+    <nd ref="3870431184"/>
+    <nd ref="3870431186"/>
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="platform"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Neumatt"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="no"/>
+  </way>
+  <way id="383730367" version="2" timestamp="2024-12-30T10:33:31Z" changeset="160784086" uid="3203300" user="Tentos">
+    <nd ref="3870431185"/>
+    <nd ref="3870431184"/>
+    <tag k="highway" v="footway"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="383730369" version="3" timestamp="2025-01-03T12:57:56Z" changeset="160947882" uid="3203300" user="Tentos">
+    <nd ref="3870431191"/>
+    <nd ref="3870431188"/>
+    <nd ref="2620799823"/>
+    <nd ref="3870431187"/>
+    <nd ref="3870431186"/>
+    <tag k="highway" v="footway"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="385086774" version="8" timestamp="2024-12-27T14:23:46Z" changeset="160678661" uid="3203300" user="Tentos">
+    <nd ref="3884448365"/>
+    <nd ref="3884448366"/>
+    <nd ref="3884448367"/>
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="platform"/>
+    <tag k="lit" v="no"/>
+    <tag k="name" v="Stetten Grenze"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="no"/>
+  </way>
+  <way id="385086776" version="1" timestamp="2015-12-09T09:38:59Z" changeset="35842052" uid="2385134" user="mentzdv_NR">
+    <nd ref="428886301"/>
+    <nd ref="3884448366"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="459229122" version="3" timestamp="2024-12-27T15:08:06Z" changeset="160679727" uid="3203300" user="Tentos">
+    <nd ref="19387435"/>
+    <nd ref="4551333924"/>
+    <nd ref="4551333314"/>
+    <tag k="highway" v="service"/>
+    <tag k="service" v="parking_aisle"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="459229134" version="3" timestamp="2024-12-27T15:08:11Z" changeset="160679727" uid="3203300" user="Tentos">
+    <nd ref="4551333924"/>
+    <nd ref="4551335177"/>
+    <nd ref="4551333925"/>
+    <tag k="highway" v="service"/>
+    <tag k="service" v="parking_aisle"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="459229344" version="4" timestamp="2024-12-27T15:09:29Z" changeset="160679727" uid="3203300" user="Tentos">
+    <nd ref="4551335177"/>
+    <nd ref="4551335313"/>
+    <nd ref="4551335407"/>
+    <nd ref="4551335178"/>
+    <tag k="highway" v="service"/>
+    <tag k="service" v="parking_aisle"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="459229524" version="2" timestamp="2024-12-27T15:11:02Z" changeset="160679864" uid="3203300" user="Tentos">
+    <nd ref="4551335407"/>
+    <nd ref="4551335408"/>
+    <nd ref="4551335409"/>
+    <tag k="highway" v="footway"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="739437237" version="1" timestamp="2019-10-27T21:59:18Z" changeset="76277425" uid="6583527" user="hieronymusescobar">
+    <nd ref="6923434020"/>
+    <nd ref="6923434021"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="773647502" version="9" timestamp="2024-01-15T07:36:21Z" changeset="146269455" uid="7504544" user="mottiger">
+    <nd ref="428886301"/>
+    <nd ref="7221350595"/>
+    <nd ref="1078588642"/>
+    <nd ref="19387435"/>
+    <nd ref="9230796770"/>
+    <tag k="cycleway:left" v="share_busway"/>
+    <tag k="cycleway:right" v="lane"/>
+    <tag k="cycleway:right:lane" v="advisory"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="lanes:backward" v="2"/>
+    <tag k="lanes:forward" v="2"/>
+    <tag k="lanes:psv:backward" v="1"/>
+    <tag k="maxlength" v="12"/>
+    <tag k="maxlength:conditional" v="none @ destination"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Basler Straße"/>
+    <tag k="name:etymology:wikidata" v="Q78"/>
+    <tag k="psv:lanes:backward" v="yes|designated"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="source:maxspeed" v="DE:urban"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="turn:lanes:forward" v="left|through"/>
+  </way>
+  <way id="773647503" version="9" timestamp="2024-04-27T15:14:50Z" changeset="150584924" uid="17176872" user="Halbgeviertstrich">
+    <nd ref="10285291242"/>
+    <nd ref="1640977321"/>
+    <nd ref="2518929706"/>
+    <nd ref="280331429"/>
+    <nd ref="412208986"/>
+    <nd ref="7221350612"/>
+    <nd ref="7221350611"/>
+    <nd ref="365397919"/>
+    <tag k="cycleway:left" v="share_busway"/>
+    <tag k="cycleway:right" v="lane"/>
+    <tag k="cycleway:right:lane" v="advisory"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lanes:backward" v="2"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lanes:psv:backward" v="1"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Basler Straße"/>
+    <tag k="psv:lanes:backward" v="yes|designated"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="833594570" version="2" timestamp="2024-12-30T10:32:51Z" changeset="160784189" uid="3203300" user="Tentos">
+    <nd ref="7781614415"/>
+    <nd ref="7781614416"/>
+    <tag k="highway" v="service"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="840714840" version="4" timestamp="2021-04-22T17:40:23Z" changeset="103428750" uid="3270936" user="TobyL86">
+    <nd ref="30830551"/>
+    <nd ref="352850300"/>
+    <nd ref="30830552"/>
+    <nd ref="1063416792"/>
+    <nd ref="1063416767"/>
+    <nd ref="352850316"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Hammerstraße"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="source:maxspeed" v="DE:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="878342715" version="3" timestamp="2022-09-18T17:36:52Z" changeset="126340034" uid="8179317" user="InfiniteLuke">
+    <nd ref="352850316"/>
+    <nd ref="1063416806"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Hammerstraße"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="source:maxspeed" v="DE:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="878342716" version="3" timestamp="2023-04-02T16:17:53Z" changeset="134421186" uid="17176872" user="Halbgeviertstrich">
+    <nd ref="352850316"/>
+    <nd ref="1063416779"/>
+    <nd ref="1063416777"/>
+    <nd ref="1063416813"/>
+    <nd ref="1019571952"/>
+    <nd ref="1063416826"/>
+    <nd ref="352850320"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="motor_vehicle" v="destination"/>
+    <tag k="name" v="Leibnizweg"/>
+    <tag k="source:maxspeed" v="DE:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="878342717" version="2" timestamp="2023-04-02T16:17:53Z" changeset="134421186" uid="17176872" user="Halbgeviertstrich">
+    <nd ref="1063454276"/>
+    <nd ref="361451228"/>
+    <tag k="highway" v="service"/>
+    <tag k="name" v="Am Bahndamm"/>
+    <tag k="service" v="alley"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="909304370" version="6" timestamp="2024-12-27T14:28:03Z" changeset="160678661" uid="3203300" user="Tentos">
+    <nd ref="8442793391"/>
+    <nd ref="8442793392"/>
+    <nd ref="8442793393"/>
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="platform"/>
+    <tag k="lit" v="no"/>
+    <tag k="name" v="Lörrach-Stetten Dammstraße"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="no"/>
+  </way>
+  <way id="909304372" version="6" timestamp="2024-12-28T20:26:02Z" changeset="160728964" uid="8542221" user="Piagno">
+    <nd ref="8442793406"/>
+    <nd ref="8442793404"/>
+    <nd ref="8442793405"/>
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="no"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="platform"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Lörrach-Stetten Dammstraße"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </way>
+  <way id="1000012008" version="1" timestamp="2021-11-06T17:58:06Z" changeset="113456706" uid="7649834" user="L___I">
+    <nd ref="9230796770"/>
+    <nd ref="9230796771"/>
+    <nd ref="9230796772"/>
+    <nd ref="9230796773"/>
+    <nd ref="9230796774"/>
+    <nd ref="9230796775"/>
+    <nd ref="9230796776"/>
+    <nd ref="9230796777"/>
+    <tag k="highway" v="path"/>
+  </way>
+  <way id="1000013878" version="3" timestamp="2023-04-10T13:33:32Z" changeset="134730826" uid="17176872" user="Halbgeviertstrich">
+    <nd ref="9230876550"/>
+    <nd ref="9230876553"/>
+    <nd ref="9230876554"/>
+    <nd ref="9230876555"/>
+    <tag k="highway" v="path"/>
+    <tag k="path" v="sidewalk"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="1000013879" version="3" timestamp="2024-12-27T15:02:57Z" changeset="160679864" uid="3203300" user="Tentos">
+    <nd ref="3869219846"/>
+    <nd ref="9230876556"/>
+    <nd ref="9230876557"/>
+    <nd ref="9230876558"/>
+    <nd ref="9230876559"/>
+    <nd ref="9230876560"/>
+    <nd ref="9230876561"/>
+    <nd ref="9230876562"/>
+    <nd ref="9230876563"/>
+    <nd ref="9230876564"/>
+    <nd ref="9230876565"/>
+    <nd ref="9230876567"/>
+    <nd ref="9230876566"/>
+    <tag k="highway" v="path"/>
+    <tag k="path" v="sidewalk"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1000013880" version="2" timestamp="2023-04-10T13:33:32Z" changeset="134730826" uid="17176872" user="Halbgeviertstrich">
+    <nd ref="6139100818"/>
+    <nd ref="9230876568"/>
+    <nd ref="9230876569"/>
+    <nd ref="9230876570"/>
+    <nd ref="9230876571"/>
+    <nd ref="9230876582"/>
+    <nd ref="9230876581"/>
+    <nd ref="9230876572"/>
+    <nd ref="9230876573"/>
+    <nd ref="9230876574"/>
+    <nd ref="9230876575"/>
+    <nd ref="9230876576"/>
+    <nd ref="9230876577"/>
+    <nd ref="9230876578"/>
+    <nd ref="9230876579"/>
+    <nd ref="361451228"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1032031479" version="4" timestamp="2023-03-25T12:05:10Z" changeset="134101400" uid="17176872" user="Halbgeviertstrich">
+    <nd ref="3870530223"/>
+    <nd ref="313946700"/>
+    <nd ref="60483070"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Pestalozzistraße"/>
+    <tag k="source:maxspeed" v="DE:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1037957466" version="1" timestamp="2022-03-07T11:39:16Z" changeset="118193995" uid="210440" user="johsin18">
+    <nd ref="9560278649"/>
+    <nd ref="9560278648"/>
+    <nd ref="9560278647"/>
+    <nd ref="9560278646"/>
+    <nd ref="9560278645"/>
+    <nd ref="9560278644"/>
+    <nd ref="9560278654"/>
+    <tag k="highway" v="path"/>
+    <tag k="surface" v="grass"/>
+  </way>
+  <way id="1037957468" version="1" timestamp="2022-03-07T11:39:16Z" changeset="118193995" uid="210440" user="johsin18">
+    <nd ref="9560278657"/>
+    <nd ref="9560278656"/>
+    <nd ref="9560278655"/>
+    <nd ref="9560278649"/>
+    <nd ref="9560278654"/>
+    <nd ref="9560278653"/>
+    <nd ref="9560278651"/>
+    <nd ref="9560278652"/>
+    <tag k="highway" v="path"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1037957469" version="2" timestamp="2024-06-22T16:21:48Z" changeset="153036661" uid="17176872" user="Halbgeviertstrich">
+    <nd ref="9560278662"/>
+    <nd ref="9560278661"/>
+    <nd ref="6381352854"/>
+    <nd ref="6381352851"/>
+    <nd ref="6381352849"/>
+    <nd ref="6381352850"/>
+    <nd ref="6381352852"/>
+    <nd ref="6381352848"/>
+    <nd ref="6381352847"/>
+    <nd ref="6381352853"/>
+    <nd ref="5305131414"/>
+    <nd ref="5305131413"/>
+    <nd ref="9560278660"/>
+    <nd ref="9560278673"/>
+    <nd ref="1126672120"/>
+    <nd ref="9560278642"/>
+    <nd ref="9560278659"/>
+    <nd ref="9560278652"/>
+    <nd ref="9560278672"/>
+    <nd ref="9560278670"/>
+    <nd ref="9560278657"/>
+    <nd ref="9560278658"/>
+    <nd ref="1126672133"/>
+    <nd ref="9560278675"/>
+    <nd ref="9560278662"/>
+    <tag k="area" v="yes"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="1105080304" version="3" timestamp="2025-04-05T12:48:08Z" changeset="164549314" uid="1023194" user="Entbert">
+    <nd ref="10112453468"/>
+    <nd ref="10112453469"/>
+    <nd ref="282864617"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Zollweg"/>
+    <tag k="source:maxspeed" v="DE:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1105117807" version="1" timestamp="2022-10-19T05:12:10Z" changeset="127757776" uid="11211647" user="wermak">
+    <nd ref="10112917786"/>
+    <nd ref="10112917787"/>
+    <nd ref="10112917788"/>
+    <nd ref="10112917789"/>
+    <tag k="highway" v="service"/>
+  </way>
+  <way id="1105117808" version="1" timestamp="2022-10-19T05:12:10Z" changeset="127757776" uid="11211647" user="wermak">
+    <nd ref="10112917789"/>
+    <nd ref="10112917791"/>
+    <nd ref="10112917792"/>
+    <nd ref="10112453468"/>
+    <tag k="highway" v="path"/>
+  </way>
+  <way id="1124727529" version="7" timestamp="2024-12-27T14:56:57Z" changeset="160679919" uid="3203300" user="Tentos">
+    <nd ref="9230796770"/>
+    <nd ref="10286149395"/>
+    <nd ref="10285291250"/>
+    <nd ref="37072835"/>
+    <tag k="cycleway:left" v="share_busway"/>
+    <tag k="cycleway:right" v="track"/>
+    <tag k="cycleway:right:bicycle" v="designated"/>
+    <tag k="cycleway:right:segregated" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="lanes:backward" v="2"/>
+    <tag k="lanes:forward" v="2"/>
+    <tag k="lanes:psv:backward" v="1"/>
+    <tag k="maxheight:signed" v="no"/>
+    <tag k="maxlength" v="12"/>
+    <tag k="maxlength:conditional" v="none @ destination"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Basler Straße"/>
+    <tag k="name:etymology:wikidata" v="Q78"/>
+    <tag k="psv:lanes:backward" v="yes|designated"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="source:maxspeed" v="DE:urban"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="turn:lanes:forward" v="left|through"/>
+  </way>
+  <way id="1124727530" version="2" timestamp="2024-12-27T14:55:46Z" changeset="160679864" uid="3203300" user="Tentos">
+    <nd ref="19387534"/>
+    <nd ref="1925072665"/>
+    <nd ref="1628110058"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="designated"/>
+    <tag k="highway" v="path"/>
+    <tag k="segregated" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1124727531" version="2" timestamp="2024-12-27T14:55:22Z" changeset="160679864" uid="3203300" user="Tentos">
+    <nd ref="1628110058"/>
+    <nd ref="10285291241"/>
+    <nd ref="10285291240"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="designated"/>
+    <tag k="highway" v="path"/>
+    <tag k="segregated" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1124727532" version="1" timestamp="2022-12-25T00:53:48Z" changeset="130470547" uid="17176872" user="Halbgeviertstrich">
+    <nd ref="10285291240"/>
+    <nd ref="7221350610"/>
+    <nd ref="1403313541"/>
+    <tag k="bicycle" v="designated"/>
+    <tag k="foot" v="designated"/>
+    <tag k="highway" v="path"/>
+    <tag k="lit" v="yes"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="segregated" v="no"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1124727533" version="5" timestamp="2024-01-15T07:36:21Z" changeset="146269455" uid="7504544" user="mottiger">
+    <nd ref="1628110071"/>
+    <nd ref="10285291247"/>
+    <nd ref="8442793407"/>
+    <nd ref="1403313541"/>
+    <tag k="bicycle:forward" v="use_sidepath"/>
+    <tag k="cycleway:left" v="share_busway"/>
+    <tag k="cycleway:right" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="lanes:backward" v="3"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lanes:psv:backward" v="1"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Basler Straße"/>
+    <tag k="name:etymology:wikidata" v="Q78"/>
+    <tag k="psv:lanes:backward" v="yes|yes|designated"/>
+    <tag k="sidewalk:left" v="yes"/>
+    <tag k="sidewalk:right" v="separate"/>
+    <tag k="source:maxspeed" v="DE:urban"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="turn:lanes:backward" v="left|through|"/>
+  </way>
+  <way id="1124727534" version="4" timestamp="2023-01-11T14:24:18Z" changeset="131148492" uid="10292567" user="cityd">
+    <nd ref="7221350608"/>
+    <nd ref="1640977305"/>
+    <nd ref="10285291242"/>
+    <tag k="cycleway:left" v="share_busway"/>
+    <tag k="cycleway:right" v="track"/>
+    <tag k="cycleway:right:bicycle" v="designated"/>
+    <tag k="cycleway:right:segregated" v="no"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lanes:backward" v="2"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lanes:psv:backward" v="1"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Basler Straße"/>
+    <tag k="psv:lanes:backward" v="yes|designated"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="source:maxspeed" v="DE:urban"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1124727535" version="3" timestamp="2023-03-25T12:05:10Z" changeset="134101400" uid="17176872" user="Halbgeviertstrich">
+    <nd ref="1926088532"/>
+    <nd ref="10285291243"/>
+    <nd ref="10727936334"/>
+    <tag k="highway" v="path"/>
+    <tag k="path" v="sidewalk"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="1124727536" version="3" timestamp="2025-04-05T12:52:15Z" changeset="164549671" uid="1023194" user="Entbert">
+    <nd ref="1926088532"/>
+    <nd ref="1926088527"/>
+    <nd ref="1926088529"/>
+    <nd ref="1027005431"/>
+    <tag k="bicycle" v="designated"/>
+    <tag k="foot" v="designated"/>
+    <tag k="highway" v="path"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="path" v="sidewalk"/>
+    <tag k="segregated" v="no"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="1124727537" version="4" timestamp="2025-04-05T12:52:02Z" changeset="164549314" uid="1023194" user="Entbert">
+    <nd ref="37072888"/>
+    <nd ref="37072892"/>
+    <nd ref="1027005431"/>
+    <tag k="bicycle:forward" v="use_sidepath"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lanes:backward" v="2"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Obere Riehenstraße"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="DE:urban"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="turn:lanes:backward" v="left|through"/>
+  </way>
+  <way id="1124727538" version="6" timestamp="2025-04-05T12:52:29Z" changeset="164549318" uid="1023194" user="Entbert">
+    <nd ref="1027005431"/>
+    <nd ref="37072898"/>
+    <nd ref="10285291245"/>
+    <tag k="cycleway:right" v="lane"/>
+    <tag k="cycleway:right:lane" v="advisory"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lane_markings" v="no"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Obere Riehenstraße"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="sidewalk:right:surface" v="paving_stones"/>
+    <tag k="source:maxspeed" v="DE:urban"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1124823562" version="1" timestamp="2022-12-25T17:08:17Z" changeset="130488655" uid="17176872" user="Halbgeviertstrich">
+    <nd ref="10286149392"/>
+    <nd ref="10286149393"/>
+    <nd ref="10286149394"/>
+    <nd ref="10286149395"/>
+    <tag k="handrail" v="yes"/>
+    <tag k="highway" v="steps"/>
+    <tag k="incline" v="down"/>
+  </way>
+  <way id="1124823563" version="1" timestamp="2022-12-25T17:08:17Z" changeset="130488655" uid="17176872" user="Halbgeviertstrich">
+    <nd ref="10286149391"/>
+    <nd ref="10286149392"/>
+    <tag k="highway" v="path"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="1153453441" version="2" timestamp="2023-03-25T12:05:10Z" changeset="134101400" uid="17176872" user="Halbgeviertstrich">
+    <nd ref="1410928736"/>
+    <nd ref="313946712"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Am Bächle"/>
+    <tag k="source:maxspeed" v="DE:zone30"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="width" v="3"/>
+  </way>
+  <way id="1157165340" version="1" timestamp="2023-03-25T12:05:10Z" changeset="134101400" uid="17176872" user="Halbgeviertstrich">
+    <nd ref="1410928671"/>
+    <nd ref="2301577492"/>
+    <nd ref="1926088532"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="designated"/>
+    <tag k="highway" v="path"/>
+    <tag k="path" v="crossing"/>
+    <tag k="segregated" v="no"/>
+  </way>
+  <way id="1161091431" version="1" timestamp="2023-04-10T13:33:32Z" changeset="134730826" uid="17176872" user="Halbgeviertstrich">
+    <nd ref="10799358554"/>
+    <nd ref="10799358555"/>
+    <nd ref="10799358556"/>
+    <tag k="highway" v="service"/>
+    <tag k="service" v="driveway"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="1161091432" version="1" timestamp="2023-04-10T13:33:32Z" changeset="134730826" uid="17176872" user="Halbgeviertstrich">
+    <nd ref="10799358557"/>
+    <nd ref="10799358558"/>
+    <nd ref="10799358559"/>
+    <nd ref="10799358560"/>
+    <tag k="highway" v="service"/>
+    <tag k="service" v="driveway"/>
+  </way>
+  <way id="1161106478" version="1" timestamp="2023-04-10T14:36:01Z" changeset="134733986" uid="17176872" user="Halbgeviertstrich">
+    <nd ref="9230876566"/>
+    <nd ref="37072835"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Dammstraße"/>
+    <tag k="noref" v="yes"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="source:maxspeed" v="DE:urban"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1290725373" version="1" timestamp="2024-06-09T18:11:24Z" changeset="152466344" uid="3232636" user="Karthoo">
+    <nd ref="1628110071"/>
+    <nd ref="10285291241"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxheight" v="default"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Obere Riehenstraße"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="DE:urban"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+
+</osm>

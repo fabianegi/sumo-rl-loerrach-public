@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- SUMO configuration for Basler Str. / Lörrach Mitte -->
+<configuration>
+    <input>
+        <net-file value="loerrach.net.xml"/>
+        <route-files value="loerrach.rou.xml"/>
+        <additional-files value="loerrach.add.xml"/>
+    </input>
+
+    <time>
+        <begin value="0"/>
+        <end value="3600"/>
+    </time>
+
+    <processing>
+        <time-to-teleport value="-1"/>  <!-- Disable teleporting (vehicles wait) -->
+    </processing>
+
+    <report>
+        <no-step-log value="true"/>
+        <no-warnings value="true"/>
+    </report>
+</configuration>

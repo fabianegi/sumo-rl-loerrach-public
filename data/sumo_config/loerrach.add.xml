@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Additional file: output definitions for evaluation metrics -->
+<additional>
+    <!-- Queue length output per lane (every 100s) -->
+    <edgeData id="edge_data" file="edge_output.xml" freq="100"/>
+
+    <!-- Lane-level queue counters -->
+    <laneData id="lane_data" file="lane_output.xml" freq="100"/>
+</additional>

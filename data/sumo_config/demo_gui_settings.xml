@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- View settings for the presentation demo (Part 5).
+     Centres the camera on the signalised junction (OSM TLS 1628110071,
+     net coord 431.4 / 331.2) and colours vehicles by speed so that
+     standing queues (red) vs. free flow (green) are visible at a glance.
+     Used by scripts/render_demo.py via --gui-settings-file. -->
+<viewsettings>
+    <viewport zoom="1400" x="431.4" y="331.2" angle="0.00"/>
+    <delay value="0"/>
+    <scheme name="by speed demo">
+        <opengl dither="0" fps="0" drawBoundaries="0" forceDrawForRectangleSelection="0"/>
+        <background backgroundColor="255,255,255" showGrid="0"
+                    gridXSize="100.00" gridYSize="100.00"/>
+        <edges laneEdgeMode="0" scaleMode="0" laneShowBorders="1" showBikeMarkings="1"
+               showLinkDecals="1" realisticLinkRules="0" showLinkRules="1" showRails="1"
+               hideConnectors="0" widthExaggeration="1.00" minSize="0.50"
+               showDirection="0" showSublanes="1" spreadSuperposed="0"
+               edgeParam="" laneParam="" vehicleParam="PARAM_NUMERICAL"
+               vehicleTextParam="PARAM_TEXT" edgeData="" edgeDataID="" edgeValueHideCheck="0"
+               edgeValueHideThreshold="0.00">
+            <colorScheme name="uniform">
+                <entry color="0,0,0" name="road"/>
+            </colorScheme>
+        </edges>
+        <vehicles vehicleMode="0" vehicleQuality="2" showBlinker="1"
+                  drawMinGap="0" showBTRange="0" showRouteIndex="0" scaleLength="1"
+                  drawReversed="0" showParkingInfo="0" vehicleSize.minSize="2.00"
+                  vehicleSize.exaggeration="3.00" vehicleName.show="0"
+                  vehicleName.size="50.00" vehicleName.color="0,0,128">
+            <colorScheme name="by speed">
+                <entry color="1.0,0.0,0.0" threshold="0.0"/>
+                <entry color="1.0,0.5,0.0" threshold="2.5"/>
+                <entry color="1.0,1.0,0.0" threshold="6.0"/>
+                <entry color="0.5,1.0,0.0" threshold="10.0"/>
+                <entry color="0.0,0.8,0.0" threshold="13.89"/>
+            </colorScheme>
+        </vehicles>
+        <junctions junctionMode="0" drawShape="1" drawCrossingsAndWalkingareas="1"
+                   junctionSize.minSize="1.00" junctionSize.exaggeration="1.00"/>
+    </scheme>
+</viewsettings>

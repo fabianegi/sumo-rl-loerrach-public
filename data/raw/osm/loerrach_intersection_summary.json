@@ -1,0 +1,169 @@
+{
+  "source": "OpenStreetMap via Overpass API",
+  "query_timestamp": "2026-05-13T12:38:00Z",
+  "bbox": {
+    "south": 47.59,
+    "west": 7.65,
+    "north": 47.605,
+    "east": 7.67
+  },
+  "intersection_center_estimate": {
+    "lat": 47.5983,
+    "lon": 7.6564,
+    "name": "Basler Str. × Obere Riehenstraße, Lörrach-Stetten"
+  },
+  "intersection_signals": [
+    {
+      "id": 10285291246,
+      "lat": 47.5982161,
+      "lon": 7.6561108,
+      "distance_m": 33.4,
+      "direction": "forward"
+    },
+    {
+      "id": 10285291247,
+      "lat": 47.5986396,
+      "lon": 7.6564409,
+      "distance_m": 38.0,
+      "direction": "backward"
+    },
+    {
+      "id": 10285291249,
+      "lat": 47.5985259,
+      "lon": 7.6566878,
+      "distance_m": 40.6,
+      "direction": "backward"
+    },
+    {
+      "id": 10285291250,
+      "lat": 47.5981193,
+      "lon": 7.6563611,
+      "distance_m": 20.5,
+      "direction": "forward"
+    },
+    {
+      "id": 10285291251,
+      "lat": 47.5983992,
+      "lon": 7.6564004,
+      "distance_m": 11.0,
+      "direction": "forward"
+    }
+  ],
+  "intersection_signal_count": 5,
+  "basler_segments_total": 26,
+  "obere_riehenstr_segments": 5,
+  "key_findings": {
+    "intersection_is_signalized": true,
+    "signal_node_cluster_within_50m": 5,
+    "basler_strasse_lanes_at_intersection_50kmh_zone": "4 lanes (2 per direction)",
+    "obere_riehenstrasse_lanes_at_intersection": "3 lanes (1 forward + 2 backward with left/through turn split)",
+    "turn_lane_data_available": true,
+    "lit": true,
+    "surface": "asphalt",
+    "speed_limit_basler_50kmh_at_intersection": true,
+    "speed_limit_basler_30kmh_in_30zones": true
+  },
+  "important_basler_segments_at_intersection": [
+    {
+      "way": 31585976,
+      "lanes": "4",
+      "fwd": "2",
+      "bwd": "2",
+      "maxspeed": "50",
+      "turn_fwd": null,
+      "turn_bwd": "through|right"
+    },
+    {
+      "way": 36985290,
+      "lanes": "4",
+      "fwd": "2",
+      "bwd": "2",
+      "maxspeed": "50",
+      "turn_fwd": "through|right",
+      "turn_bwd": "through;right|"
+    },
+    {
+      "way": 200606082,
+      "lanes": "4",
+      "fwd": "1",
+      "bwd": "3",
+      "maxspeed": "50",
+      "turn_fwd": null,
+      "turn_bwd": "left|through|"
+    },
+    {
+      "way": 773647502,
+      "lanes": "4",
+      "fwd": "2",
+      "bwd": "2",
+      "maxspeed": "50",
+      "turn_fwd": "left|through",
+      "turn_bwd": null
+    },
+    {
+      "way": 1124727529,
+      "lanes": "4",
+      "fwd": "2",
+      "bwd": "2",
+      "maxspeed": "50",
+      "turn_fwd": "left|through",
+      "turn_bwd": null
+    },
+    {
+      "way": 1124727533,
+      "lanes": "4",
+      "fwd": "1",
+      "bwd": "3",
+      "maxspeed": "50",
+      "turn_fwd": null,
+      "turn_bwd": "left|through|"
+    }
+  ],
+  "important_obere_riehenstr_segments": [
+    {
+      "way": 149866195,
+      "lanes": "2",
+      "fwd": null,
+      "bwd": null,
+      "maxspeed": "50",
+      "turn_fwd": null,
+      "turn_bwd": null
+    },
+    {
+      "way": 607951620,
+      "lanes": null,
+      "fwd": null,
+      "bwd": null,
+      "maxspeed": "50",
+      "turn_fwd": null,
+      "turn_bwd": null
+    },
+    {
+      "way": 1124727537,
+      "lanes": "3",
+      "fwd": "1",
+      "bwd": "2",
+      "maxspeed": "50",
+      "turn_fwd": null,
+      "turn_bwd": "left|through"
+    },
+    {
+      "way": 1124727538,
+      "lanes": null,
+      "fwd": null,
+      "bwd": null,
+      "maxspeed": "50",
+      "turn_fwd": null,
+      "turn_bwd": null
+    },
+    {
+      "way": 1290725373,
+      "lanes": "2",
+      "fwd": null,
+      "bwd": null,
+      "maxspeed": "50",
+      "turn_fwd": null,
+      "turn_bwd": null
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Nodes for real intersection Basler Str. × Obere Riehenstraße (Lörrach-Stetten).
+     Geometry derived from OpenStreetMap (Overpass query 2026-05-13).
+     OSM intersection cluster center: 47.5983°N, 7.6564°E
+     Local metric system: origin = LSA center, distances in meters.
+     4-arm cross: N/S = Basler Str (main, 50 km/h),
+                  E/W = Obere Riehenstr (cross, 50 km/h).
+-->
+<nodes>
+    <!-- Central traffic-light-controlled intersection -->
+    <node id="C" x="0.0" y="0.0" type="traffic_light"/>
+
+    <!-- Approach endpoints (200 m from center = ample queue buildup space).
+         200 m = ~14 s travel time at 50 km/h.
+    -->
+    <node id="N" x="0.0"    y="200.0"  type="priority"/>   <!-- Basler Str. Nord (Richtung Stadtmitte/Stetten Bahnhof) -->
+    <node id="S" x="0.0"    y="-200.0" type="priority"/>   <!-- Basler Str. Süd (Richtung Schweizer Grenze/Riehen) -->
+    <node id="E" x="200.0"  y="0.0"    type="priority"/>   <!-- Obere Riehenstr. Ost (Richtung Riehen) -->
+    <node id="W" x="-200.0" y="0.0"    type="priority"/>   <!-- Obere Riehenstr. West (Richtung Innenstadt) -->
+</nodes>

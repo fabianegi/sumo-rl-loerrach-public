@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edges for real intersection Basler Str. × Obere Riehenstraße.
+
+     Lane counts and speed limits derived from OpenStreetMap (Overpass 2026-05-13):
+       Basler Str (way 31585976, 36985290 etc.): 4 lanes total = 2 per direction,
+                                                  maxspeed=50 km/h, turn:lanes incl.
+                                                  left/through/right.
+       Obere Riehenstr (way 1124727537):         3 lanes near intersection
+                                                  (1 fwd + 2 bwd "left|through"),
+                                                  maxspeed=50 km/h.
+
+     SUMO modeling choice: 2 lanes per direction on all 4 approaches (uniform).
+     Turn restrictions handled via .con.xml + signal logic.
+-->
+<edges>
+    <!-- Basler Straße (N-S corridor, 2 lanes per direction, 50 km/h = 13.89 m/s) -->
+    <edge id="N2C" from="N" to="C" priority="3" numLanes="2" speed="13.89"/>
+    <edge id="C2N" from="C" to="N" priority="3" numLanes="2" speed="13.89"/>
+    <edge id="S2C" from="S" to="C" priority="3" numLanes="2" speed="13.89"/>
+    <edge id="C2S" from="C" to="S" priority="3" numLanes="2" speed="13.89"/>
+
+    <!-- Obere Riehenstraße (E-W corridor, 2 lanes per direction, 50 km/h) -->
+    <edge id="E2C" from="E" to="C" priority="2" numLanes="2" speed="13.89"/>
+    <edge id="C2E" from="C" to="E" priority="2" numLanes="2" speed="13.89"/>
+    <edge id="W2C" from="W" to="C" priority="2" numLanes="2" speed="13.89"/>
+    <edge id="C2W" from="C" to="W" priority="2" numLanes="2" speed="13.89"/>
+</edges>

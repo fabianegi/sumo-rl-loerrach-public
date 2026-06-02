@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- SUMO configuration for the REAL OSM-imported network around
+     Basler Str. x Obere Riehenstr., Loerrach-Stetten.
+     Geometry: netconvert (Overpass 2026-05-20, bbox
+     47.5965-47.600 N / 7.654-7.659 E). Single TLS kept: OSM ID 1628110071.
+     Demand: randomTrips.py at ~680 veh/h (matched to BASt peak hour). -->
+<configuration>
+    <input>
+        <net-file value="loerrach_osm.net.xml"/>
+        <route-files value="loerrach_osm_medium.rou.xml"/>
+    </input>
+    <time><begin value="0"/><end value="3600"/></time>
+    <processing><time-to-teleport value="-1"/></processing>
+    <report><no-step-log value="true"/><no-warnings value="true"/></report>
+</configuration>

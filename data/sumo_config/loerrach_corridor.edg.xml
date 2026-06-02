@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Corridor edges: Basler Str. 2 lanes (priority 3), cross streets 1 lane (priority 2)
+     All 50 km/h = 13.89 m/s
+-->
+<edges>
+    <!-- === Main axis: Basler Straße (N-S, 2 lanes) === -->
+
+    <!-- N_end ↔ J_N (200m approach) -->
+    <edge id="N_Jn"  from="N_end" to="J_N" numLanes="2" speed="13.89" priority="3"/>
+    <edge id="Jn_N"  from="J_N" to="N_end" numLanes="2" speed="13.89" priority="3"/>
+
+    <!-- J_N ↔ C (250m between intersections) -->
+    <edge id="Jn_C"  from="J_N" to="C"   numLanes="2" speed="13.89" priority="3"/>
+    <edge id="C_Jn"  from="C"   to="J_N" numLanes="2" speed="13.89" priority="3"/>
+
+    <!-- C ↔ J_S (250m between intersections) -->
+    <edge id="C_Js"  from="C"   to="J_S" numLanes="2" speed="13.89" priority="3"/>
+    <edge id="Js_C"  from="J_S" to="C"   numLanes="2" speed="13.89" priority="3"/>
+
+    <!-- J_S ↔ S_end (200m approach) -->
+    <edge id="Js_S"  from="J_S" to="S_end" numLanes="2" speed="13.89" priority="3"/>
+    <edge id="S_Js"  from="S_end" to="J_S" numLanes="2" speed="13.89" priority="3"/>
+
+    <!-- === Cross street at J_N: Tumringer Straße (1 lane) === -->
+    <edge id="Wn_Jn" from="Wn" to="J_N" numLanes="1" speed="13.89" priority="2"/>
+    <edge id="Jn_Wn" from="J_N" to="Wn" numLanes="1" speed="13.89" priority="2"/>
+    <edge id="En_Jn" from="En" to="J_N" numLanes="1" speed="13.89" priority="2"/>
+    <edge id="Jn_En" from="J_N" to="En" numLanes="1" speed="13.89" priority="2"/>
+
+    <!-- === Cross street at C: Querstraße (1 lane) === -->
+    <edge id="W_C"   from="W"  to="C"  numLanes="1" speed="13.89" priority="2"/>
+    <edge id="C_W"   from="C"  to="W"  numLanes="1" speed="13.89" priority="2"/>
+    <edge id="E_C"   from="E"  to="C"  numLanes="1" speed="13.89" priority="2"/>
+    <edge id="C_E"   from="C"  to="E"  numLanes="1" speed="13.89" priority="2"/>
+
+    <!-- === Cross street at J_S: Brühlstraße (1 lane) === -->
+    <edge id="Ws_Js" from="Ws" to="J_S" numLanes="1" speed="13.89" priority="2"/>
+    <edge id="Js_Ws" from="J_S" to="Ws" numLanes="1" speed="13.89" priority="2"/>
+    <edge id="Es_Js" from="Es" to="J_S" numLanes="1" speed="13.89" priority="2"/>
+    <edge id="Js_Es" from="J_S" to="Es" numLanes="1" speed="13.89" priority="2"/>
+</edges>

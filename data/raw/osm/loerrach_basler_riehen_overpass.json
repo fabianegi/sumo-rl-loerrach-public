@@ -1,0 +1,2016 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-05-13T12:38:00Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 19387496,
+  "lat": 47.6024756,
+  "lon": 7.6590510,
+  "tags": {
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 353452494,
+  "lat": 47.5948283,
+  "lon": 7.6553652,
+  "tags": {
+    "crossing_ref": "zebra",
+    "highway": "traffic_signals"
+  }
+},
+{
+  "type": "node",
+  "id": 10285291246,
+  "lat": 47.5982161,
+  "lon": 7.6561108,
+  "tags": {
+    "highway": "traffic_signals",
+    "traffic_signals": "signal",
+    "traffic_signals:direction": "forward"
+  }
+},
+{
+  "type": "node",
+  "id": 10285291247,
+  "lat": 47.5986396,
+  "lon": 7.6564409,
+  "tags": {
+    "highway": "traffic_signals",
+    "traffic_signals": "signal",
+    "traffic_signals:direction": "backward"
+  }
+},
+{
+  "type": "node",
+  "id": 10285291249,
+  "lat": 47.5985259,
+  "lon": 7.6566878,
+  "tags": {
+    "highway": "traffic_signals",
+    "traffic_signals": "signal",
+    "traffic_signals:direction": "backward"
+  }
+},
+{
+  "type": "node",
+  "id": 10285291250,
+  "lat": 47.5981193,
+  "lon": 7.6563611,
+  "tags": {
+    "highway": "traffic_signals",
+    "traffic_signals": "signal",
+    "traffic_signals:direction": "forward"
+  }
+},
+{
+  "type": "node",
+  "id": 10285291251,
+  "lat": 47.5983992,
+  "lon": 7.6564004,
+  "tags": {
+    "highway": "traffic_signals",
+    "traffic_signals": "signal",
+    "traffic_signals:direction": "forward"
+  }
+},
+{
+  "type": "node",
+  "id": 13152683045,
+  "lat": 47.5939397,
+  "lon": 7.6547204,
+  "tags": {
+    "highway": "traffic_signals",
+    "traffic_signals:direction": "forward"
+  }
+},
+{
+  "type": "node",
+  "id": 13152683046,
+  "lat": 47.5940078,
+  "lon": 7.6547724,
+  "tags": {
+    "highway": "traffic_signals",
+    "traffic_signals:direction": "backward"
+  }
+},
+{
+  "type": "way",
+  "id": 25728173,
+  "nodes": [
+    60483073,
+    4551714033,
+    60483082,
+    1403313559,
+    1027005433,
+    5734322296,
+    1027005442,
+    60483085
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "cycleway:both": "no",
+    "highway": "residential",
+    "maxspeed": "30",
+    "name": "Riehenstraße",
+    "oneway": "no",
+    "source:maxspeed": "DE:zone30",
+    "surface": "asphalt",
+    "width": "3"
+  }
+},
+{
+  "type": "way",
+  "id": 26808387,
+  "nodes": [
+    7221350601,
+    7221350605,
+    7221350597
+  ],
+  "tags": {
+    "highway": "secondary",
+    "lanes": "1",
+    "maxlength": "12",
+    "maxlength:conditional": "none @ destination",
+    "maxlength:psv": "no",
+    "maxspeed": "30",
+    "name": "Basler Straße",
+    "name:etymology:wikidata": "Q78",
+    "oneway": "yes",
+    "sidewalk": "right",
+    "source:maxspeed": "sign",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 31585976,
+  "nodes": [
+    19387444,
+    10112453456,
+    37072858,
+    428886301
+  ],
+  "tags": {
+    "cycleway:left": "no",
+    "cycleway:right": "share_busway",
+    "highway": "secondary",
+    "lanes": "4",
+    "lanes:backward": "2",
+    "lanes:forward": "2",
+    "lanes:psv:forward": "1",
+    "maxlength": "12",
+    "maxlength:conditional": "none @ destination",
+    "maxspeed": "50",
+    "name": "Basler Straße",
+    "name:etymology:wikidata": "Q78",
+    "psv:lanes:forward": "yes|designated",
+    "sidewalk": "both",
+    "source:maxspeed": "DE:urban",
+    "surface": "asphalt",
+    "turn:lanes:backward": "through|right"
+  }
+},
+{
+  "type": "way",
+  "id": 36985290,
+  "nodes": [
+    37072835,
+    10285291251,
+    19387534,
+    1628110071
+  ],
+  "tags": {
+    "bicycle:forward": "use_sidepath",
+    "cycleway:left": "share_busway",
+    "cycleway:right": "no",
+    "highway": "secondary",
+    "lanes": "4",
+    "lanes:backward": "2",
+    "lanes:forward": "2",
+    "lanes:psv:backward": "1",
+    "maxspeed": "50",
+    "name": "Basler Straße",
+    "name:etymology:wikidata": "Q78",
+    "psv:lanes:backward": "yes|designated",
+    "sidewalk:left": "yes",
+    "sidewalk:right": "separate",
+    "source:maxspeed": "DE:urban",
+    "surface": "asphalt",
+    "turn:lanes:backward": "through;right|",
+    "turn:lanes:forward": "through|right"
+  }
+},
+{
+  "type": "way",
+  "id": 40690950,
+  "nodes": [
+    6379335599,
+    1507879774,
+    6379335600,
+    1507879777
+  ],
+  "tags": {
+    "highway": "secondary",
+    "lanes": "3",
+    "lanes:backward": "2",
+    "lanes:forward": "1",
+    "maxspeed": "30",
+    "name": "Basler Straße",
+    "sidewalk": "both",
+    "source:maxspeed": "sign",
+    "surface": "asphalt",
+    "turn:lanes:backward": "left|through;right"
+  }
+},
+{
+  "type": "way",
+  "id": 137474088,
+  "nodes": [
+    365397919,
+    3869430634,
+    1027005429,
+    3869430639,
+    3869430643,
+    280331430,
+    3869431658
+  ],
+  "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "30",
+    "name": "Basler Straße",
+    "sidewalk": "both",
+    "source:maxspeed": "sign",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 149866195,
+  "nodes": [
+    10285291241,
+    10285291248,
+    10285291249,
+    1628110069,
+    7221350593,
+    37072864,
+    37072870,
+    1076236235,
+    37072873,
+    37072877,
+    1076236220,
+    37072882,
+    1076236226,
+    37072885,
+    1076236248,
+    37072888
+  ],
+  "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxheight": "default",
+    "maxspeed": "50",
+    "name": "Obere Riehenstraße",
+    "sidewalk": "separate",
+    "source:maxspeed": "DE:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 159231273,
+  "nodes": [
+    5262918626,
+    1713257938,
+    6379335598,
+    1713258009
+  ],
+  "tags": {
+    "highway": "secondary_link",
+    "lanes": "1",
+    "maxspeed": "50",
+    "name": "Basler Straße",
+    "oneway": "yes",
+    "sidewalk": "right",
+    "source:maxspeed": "DE:urban",
+    "surface": "asphalt",
+    "turn": "right"
+  }
+},
+{
+  "type": "way",
+  "id": 183169791,
+  "nodes": [
+    60483085,
+    5734322294,
+    5734322293,
+    60483088,
+    60483091,
+    60483094,
+    1404960369,
+    60483099,
+    60483101,
+    60483105,
+    60483108,
+    60483110,
+    60483039
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "cycleway:both": "no",
+    "highway": "residential",
+    "lit": "yes",
+    "maxspeed": "30",
+    "name": "Riehenstraße",
+    "oneway": "no",
+    "sidewalk": "no",
+    "source:maxspeed": "DE:zone30",
+    "surface": "asphalt",
+    "width": "3"
+  }
+},
+{
+  "type": "way",
+  "id": 200606082,
+  "nodes": [
+    1403313541,
+    1078588063,
+    8442793394,
+    280331428,
+    7221350609,
+    1078588289,
+    7221350608
+  ],
+  "tags": {
+    "cycleway:left": "share_busway",
+    "cycleway:right": "track",
+    "cycleway:right:bicycle": "designated",
+    "cycleway:right:segregated": "no",
+    "highway": "secondary",
+    "lanes": "4",
+    "lanes:backward": "3",
+    "lanes:forward": "1",
+    "lanes:psv:backward": "1",
+    "maxspeed": "50",
+    "name": "Basler Straße",
+    "psv:lanes:backward": "yes|yes|designated",
+    "sidewalk": "both",
+    "source:maxspeed": "DE:urban",
+    "surface": "asphalt",
+    "turn:lanes:backward": "left|through|"
+  }
+},
+{
+  "type": "way",
+  "id": 235985986,
+  "nodes": [
+    2449988338,
+    2440609578
+  ],
+  "tags": {
+    "covered": "yes",
+    "highway": "secondary",
+    "maxheight:signed": "no",
+    "maxlength": "12",
+    "maxlength:conditional": "none @ destination",
+    "maxspeed:backward": "30",
+    "maxspeed:forward": "50",
+    "name": "Basler Straße",
+    "name:etymology:wikidata": "Q78",
+    "sidewalk": "left",
+    "source:maxspeed:backward": "sign",
+    "source:maxspeed:forward": "DE:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 235985987,
+  "nodes": [
+    10112453470,
+    2449988330,
+    282864616
+  ],
+  "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "maxlength": "12",
+    "maxlength:conditional": "none @ destination",
+    "maxspeed:backward": "30",
+    "maxspeed:forward": "50",
+    "name": "Basler Straße",
+    "name:etymology:wikidata": "Q78",
+    "sidewalk": "both",
+    "source:maxspeed:backward": "sign",
+    "source:maxspeed:forward": "DE:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 380765476,
+  "nodes": [
+    6348636915,
+    6745591642,
+    6348636916,
+    6745591641,
+    6348636917,
+    6348636918,
+    6348636919,
+    3840750526,
+    6745591640,
+    3840750527
+  ],
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "check_date:shelter": "2025-01-06",
+    "lit": "yes",
+    "name": "Riehen Grenze",
+    "public_transport": "platform",
+    "railway": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes",
+    "tram": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 544437056,
+  "nodes": [
+    5262918626,
+    1045650140,
+    1054833219,
+    19387496
+  ],
+  "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "30",
+    "name": "Basler Straße",
+    "sidewalk:left": "yes",
+    "sidewalk:right": "separate",
+    "source:maxspeed": "sign",
+    "surface": "asphalt",
+    "turn:forward": "through"
+  }
+},
+{
+  "type": "way",
+  "id": 607951620,
+  "nodes": [
+    10285291245,
+    7850753669,
+    10753743109,
+    280546010
+  ],
+  "tags": {
+    "highway": "secondary",
+    "maxspeed": "50",
+    "name": "Obere Riehenstraße",
+    "sidewalk": "right",
+    "source:maxspeed": "DE:urban"
+  }
+},
+{
+  "type": "way",
+  "id": 681233177,
+  "nodes": [
+    1713257743,
+    1027005420,
+    5262918626
+  ],
+  "tags": {
+    "change:backward": "no",
+    "change:lanes:forward": "not_left|not_right",
+    "highway": "secondary",
+    "lanes": "3",
+    "lanes:backward": "1",
+    "lanes:forward": "2",
+    "maxspeed": "30",
+    "name": "Basler Straße",
+    "sidewalk": "both",
+    "source:maxspeed": "sign",
+    "surface": "asphalt",
+    "turn:lanes:forward": "through|right"
+  }
+},
+{
+  "type": "way",
+  "id": 681233178,
+  "nodes": [
+    1507879777,
+    1507879778,
+    10112941028,
+    2836177411
+  ],
+  "tags": {
+    "cycleway:both": "lane",
+    "cycleway:both:lane": "advisory",
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "30",
+    "name": "Basler Straße",
+    "sidewalk": "both",
+    "source:maxspeed": "sign",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 773647499,
+  "nodes": [
+    2449980576,
+    3724847323,
+    2449988338
+  ],
+  "tags": {
+    "highway": "secondary",
+    "lane_markings": "no",
+    "maxlength": "12",
+    "maxlength:conditional": "none @ destination",
+    "maxspeed:backward": "30",
+    "maxspeed:forward": "50",
+    "name": "Basler Straße",
+    "name:etymology:wikidata": "Q78",
+    "sidewalk": "left",
+    "source:maxspeed:backward": "sign",
+    "source:maxspeed:forward": "DE:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 773647501,
+  "nodes": [
+    7221350602,
+    7221350604,
+    7221350601
+  ],
+  "tags": {
+    "highway": "secondary",
+    "lanes": "1",
+    "maxlength": "12",
+    "maxlength:conditional": "none @ destination",
+    "maxlength:psv": "no",
+    "maxspeed": "50",
+    "name": "Basler Straße",
+    "name:etymology:wikidata": "Q78",
+    "oneway": "yes",
+    "sidewalk": "right",
+    "source:maxspeed": "DE:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 773647502,
+  "nodes": [
+    428886301,
+    7221350595,
+    1078588642,
+    19387435,
+    9230796770
+  ],
+  "tags": {
+    "cycleway:left": "share_busway",
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "highway": "secondary",
+    "lanes": "4",
+    "lanes:backward": "2",
+    "lanes:forward": "2",
+    "lanes:psv:backward": "1",
+    "maxlength": "12",
+    "maxlength:conditional": "none @ destination",
+    "maxspeed": "50",
+    "name": "Basler Straße",
+    "name:etymology:wikidata": "Q78",
+    "psv:lanes:backward": "yes|designated",
+    "sidewalk": "both",
+    "source:maxspeed": "DE:urban",
+    "surface": "asphalt",
+    "turn:lanes:forward": "left|through"
+  }
+},
+{
+  "type": "way",
+  "id": 773647503,
+  "nodes": [
+    10285291242,
+    1640977321,
+    2518929706,
+    280331429,
+    412208986,
+    7221350612,
+    7221350611,
+    365397919
+  ],
+  "tags": {
+    "cycleway:left": "share_busway",
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "highway": "secondary",
+    "lanes": "3",
+    "lanes:backward": "2",
+    "lanes:forward": "1",
+    "lanes:psv:backward": "1",
+    "maxspeed": "30",
+    "name": "Basler Straße",
+    "psv:lanes:backward": "yes|designated",
+    "sidewalk": "both",
+    "source:maxspeed": "sign",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 845046943,
+  "nodes": [
+    7883934999,
+    7883935000,
+    7883935001,
+    7883935002,
+    7883935003,
+    7883935004,
+    7883935009,
+    7883935017,
+    7883935006,
+    7883935008,
+    7883935011,
+    7883935012,
+    7883935010,
+    7883935007,
+    7883935016,
+    7883935005,
+    7883935015,
+    7883934999
+  ],
+  "tags": {
+    "area": "yes",
+    "bench": "yes",
+    "departures_board": "realtime",
+    "maxheight": "0.24",
+    "maxwidth": "2.5",
+    "name": "Riehen Grenze",
+    "public_transport": "platform",
+    "railway": "platform",
+    "ref": "2",
+    "shelter": "yes",
+    "surface": "asphalt",
+    "tactile_paving": "yes",
+    "tram": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 878361477,
+  "nodes": [
+    3869431658,
+    1496259348,
+    10268494139,
+    1713257743
+  ],
+  "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "30",
+    "name": "Basler Straße",
+    "sidewalk": "both",
+    "source:maxspeed": "sign",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 894647602,
+  "nodes": [
+    428886300,
+    3884448363,
+    19387444
+  ],
+  "tags": {
+    "highway": "secondary",
+    "lanes": "3",
+    "lanes:backward": "2",
+    "lanes:forward": "1",
+    "lanes:psv:backward": "1",
+    "maxlength": "12",
+    "maxlength:conditional": "none @ destination",
+    "maxspeed:backward": "30",
+    "maxspeed:forward": "50",
+    "name": "Basler Straße",
+    "name:etymology:wikidata": "Q78",
+    "sidewalk": "both",
+    "source:maxspeed:backward": "sign",
+    "source:maxspeed:forward": "DE:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1036628983,
+  "nodes": [
+    19387496,
+    1027005408,
+    6379335599
+  ],
+  "tags": {
+    "change:forward": "no",
+    "change:lanes:backward": "not_left|not_right",
+    "highway": "secondary",
+    "lanes": "3",
+    "lanes:backward": "2",
+    "lanes:forward": "1",
+    "maxspeed": "30",
+    "name": "Basler Straße",
+    "sidewalk": "both",
+    "source:maxspeed": "sign",
+    "surface": "asphalt",
+    "turn:lanes:backward": "left|through;right"
+  }
+},
+{
+  "type": "way",
+  "id": 1108500971,
+  "nodes": [
+    10142523098,
+    10142523099,
+    10142523100,
+    10142523101,
+    10142523102,
+    10142523103,
+    10142523104,
+    10142523105,
+    10142523106,
+    10142523107,
+    10142523108,
+    10142523109,
+    10142523110,
+    10142523111,
+    10142523112,
+    10142523113,
+    10142523114,
+    10142523115,
+    10142523116
+  ],
+  "tags": {
+    "name": "Doppelspur Riehen - Lörrach Stetten",
+    "railway": "proposed"
+  }
+},
+{
+  "type": "way",
+  "id": 1124727529,
+  "nodes": [
+    9230796770,
+    10286149395,
+    10285291250,
+    37072835
+  ],
+  "tags": {
+    "cycleway:left": "share_busway",
+    "cycleway:right": "track",
+    "cycleway:right:bicycle": "designated",
+    "cycleway:right:segregated": "no",
+    "highway": "secondary",
+    "lanes": "4",
+    "lanes:backward": "2",
+    "lanes:forward": "2",
+    "lanes:psv:backward": "1",
+    "maxheight:signed": "no",
+    "maxlength": "12",
+    "maxlength:conditional": "none @ destination",
+    "maxspeed": "50",
+    "name": "Basler Straße",
+    "name:etymology:wikidata": "Q78",
+    "psv:lanes:backward": "yes|designated",
+    "sidewalk": "both",
+    "source:maxspeed": "DE:urban",
+    "surface": "asphalt",
+    "turn:lanes:forward": "left|through"
+  }
+},
+{
+  "type": "way",
+  "id": 1124727533,
+  "nodes": [
+    1628110071,
+    10285291247,
+    8442793407,
+    1403313541
+  ],
+  "tags": {
+    "bicycle:forward": "use_sidepath",
+    "cycleway:left": "share_busway",
+    "cycleway:right": "no",
+    "highway": "secondary",
+    "lanes": "4",
+    "lanes:backward": "3",
+    "lanes:forward": "1",
+    "lanes:psv:backward": "1",
+    "maxspeed": "50",
+    "name": "Basler Straße",
+    "name:etymology:wikidata": "Q78",
+    "psv:lanes:backward": "yes|yes|designated",
+    "sidewalk:left": "yes",
+    "sidewalk:right": "separate",
+    "source:maxspeed": "DE:urban",
+    "surface": "asphalt",
+    "turn:lanes:backward": "left|through|"
+  }
+},
+{
+  "type": "way",
+  "id": 1124727534,
+  "nodes": [
+    7221350608,
+    1640977305,
+    10285291242
+  ],
+  "tags": {
+    "cycleway:left": "share_busway",
+    "cycleway:right": "track",
+    "cycleway:right:bicycle": "designated",
+    "cycleway:right:segregated": "no",
+    "highway": "secondary",
+    "lanes": "3",
+    "lanes:backward": "2",
+    "lanes:forward": "1",
+    "lanes:psv:backward": "1",
+    "maxspeed": "50",
+    "name": "Basler Straße",
+    "psv:lanes:backward": "yes|designated",
+    "sidewalk": "both",
+    "source:maxspeed": "DE:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1124727537,
+  "nodes": [
+    37072888,
+    37072892,
+    1027005431
+  ],
+  "tags": {
+    "bicycle:forward": "use_sidepath",
+    "highway": "secondary",
+    "lanes": "3",
+    "lanes:backward": "2",
+    "lanes:forward": "1",
+    "maxspeed": "50",
+    "name": "Obere Riehenstraße",
+    "sidewalk": "separate",
+    "source:maxspeed": "DE:urban",
+    "surface": "asphalt",
+    "turn:lanes:backward": "left|through"
+  }
+},
+{
+  "type": "way",
+  "id": 1124727538,
+  "nodes": [
+    1027005431,
+    37072898,
+    10285291245
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "highway": "secondary",
+    "lane_markings": "no",
+    "maxspeed": "50",
+    "name": "Obere Riehenstraße",
+    "sidewalk": "right",
+    "sidewalk:right:surface": "paving_stones",
+    "source:maxspeed": "DE:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1124788371,
+  "nodes": [
+    282864616,
+    428886300
+  ],
+  "tags": {
+    "highway": "secondary",
+    "lanes": "3",
+    "lanes:backward": "2",
+    "lanes:forward": "1",
+    "lanes:psv:backward": "1",
+    "maxlength": "12",
+    "maxlength:conditional": "none @ destination",
+    "maxspeed:backward": "30",
+    "maxspeed:forward": "50",
+    "name": "Basler Straße",
+    "name:etymology:wikidata": "Q78",
+    "source:maxspeed:backward": "sign",
+    "source:maxspeed:forward": "DE:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1124823568,
+  "nodes": [
+    7221350601,
+    2449980576
+  ],
+  "tags": {
+    "highway": "secondary",
+    "lane_markings": "no",
+    "maxlength": "12",
+    "maxlength:conditional": "none @ destination",
+    "maxspeed:backward": "30",
+    "maxspeed:forward": "50",
+    "name": "Basler Straße",
+    "name:etymology:wikidata": "Q78",
+    "sidewalk": "both",
+    "source:maxspeed:backward": "sign",
+    "source:maxspeed:forward": "DE:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1124823569,
+  "nodes": [
+    2440609578,
+    10112453470
+  ],
+  "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "maxheight:signed": "no",
+    "maxlength": "12",
+    "maxlength:conditional": "none @ destination",
+    "maxspeed:backward": "30",
+    "maxspeed:forward": "50",
+    "name": "Basler Straße",
+    "name:etymology:wikidata": "Q78",
+    "sidewalk": "left",
+    "source:maxspeed:backward": "sign",
+    "source:maxspeed:forward": "DE:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1124823571,
+  "nodes": [
+    1713258009,
+    1713258063,
+    1713258093
+  ],
+  "tags": {
+    "foot": "no",
+    "highway": "secondary_link",
+    "lanes": "1",
+    "maxspeed": "50",
+    "name": "Basler Straße",
+    "oneway": "yes",
+    "sidewalk": "no",
+    "source:maxspeed": "DE:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1153500661,
+  "nodes": [
+    60483070,
+    3869324396,
+    60483073
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "highway": "residential",
+    "maxspeed": "30",
+    "name": "Riehenstraße",
+    "oneway": "no",
+    "sidewalk": "both",
+    "source:maxspeed": "DE:zone30",
+    "surface": "asphalt",
+    "width": "3"
+  }
+},
+{
+  "type": "way",
+  "id": 1290725373,
+  "nodes": [
+    1628110071,
+    10285291241
+  ],
+  "tags": {
+    "highway": "secondary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxheight": "default",
+    "maxspeed": "50",
+    "name": "Obere Riehenstraße",
+    "sidewalk": "separate",
+    "source:maxspeed": "DE:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 10142523098,
+  "lat": 47.5876784,
+  "lon": 7.6546978
+},
+{
+  "type": "node",
+  "id": 10142523099,
+  "lat": 47.5881035,
+  "lon": 7.6548663
+},
+{
+  "type": "node",
+  "id": 10142523100,
+  "lat": 47.5885763,
+  "lon": 7.6550182
+},
+{
+  "type": "node",
+  "id": 2449980576,
+  "lat": 47.5954445,
+  "lon": 7.6556708
+},
+{
+  "type": "node",
+  "id": 3840750526,
+  "lat": 47.5945034,
+  "lon": 7.6556321
+},
+{
+  "type": "node",
+  "id": 3840750527,
+  "lat": 47.5945123,
+  "lon": 7.6552954
+},
+{
+  "type": "node",
+  "id": 6348636915,
+  "lat": 47.5946169,
+  "lon": 7.6558618
+},
+{
+  "type": "node",
+  "id": 6348636916,
+  "lat": 47.5945609,
+  "lon": 7.6558205
+},
+{
+  "type": "node",
+  "id": 6348636917,
+  "lat": 47.5945261,
+  "lon": 7.6557656
+},
+{
+  "type": "node",
+  "id": 6348636918,
+  "lat": 47.5945135,
+  "lon": 7.6557259
+},
+{
+  "type": "node",
+  "id": 6348636919,
+  "lat": 47.5945069,
+  "lon": 7.6556845
+},
+{
+  "type": "node",
+  "id": 6745591640,
+  "lat": 47.5945083,
+  "lon": 7.6553256
+},
+{
+  "type": "node",
+  "id": 6745591641,
+  "lat": 47.5945416,
+  "lon": 7.6557987
+},
+{
+  "type": "node",
+  "id": 6745591642,
+  "lat": 47.5945810,
+  "lon": 7.6558388
+},
+{
+  "type": "node",
+  "id": 7221350597,
+  "lat": 47.5952816,
+  "lon": 7.6555281
+},
+{
+  "type": "node",
+  "id": 7221350601,
+  "lat": 47.5953859,
+  "lon": 7.6556382
+},
+{
+  "type": "node",
+  "id": 7221350602,
+  "lat": 47.5952578,
+  "lon": 7.6556228
+},
+{
+  "type": "node",
+  "id": 7221350604,
+  "lat": 47.5953087,
+  "lon": 7.6556298
+},
+{
+  "type": "node",
+  "id": 7221350605,
+  "lat": 47.5953302,
+  "lon": 7.6555773
+},
+{
+  "type": "node",
+  "id": 7883934999,
+  "lat": 47.5944545,
+  "lon": 7.6556344
+},
+{
+  "type": "node",
+  "id": 7883935000,
+  "lat": 47.5944558,
+  "lon": 7.6553279
+},
+{
+  "type": "node",
+  "id": 7883935001,
+  "lat": 47.5944569,
+  "lon": 7.6552469
+},
+{
+  "type": "node",
+  "id": 7883935002,
+  "lat": 47.5944749,
+  "lon": 7.6552657
+},
+{
+  "type": "node",
+  "id": 7883935003,
+  "lat": 47.5944728,
+  "lon": 7.6553964
+},
+{
+  "type": "node",
+  "id": 7883935004,
+  "lat": 47.5944729,
+  "lon": 7.6556325
+},
+{
+  "type": "node",
+  "id": 7883935005,
+  "lat": 47.5944612,
+  "lon": 7.6557484
+},
+{
+  "type": "node",
+  "id": 7883935006,
+  "lat": 47.5944862,
+  "lon": 7.6557790
+},
+{
+  "type": "node",
+  "id": 7883935007,
+  "lat": 47.5944710,
+  "lon": 7.6557844
+},
+{
+  "type": "node",
+  "id": 7883935008,
+  "lat": 47.5944945,
+  "lon": 7.6557987
+},
+{
+  "type": "node",
+  "id": 7883935009,
+  "lat": 47.5944770,
+  "lon": 7.6557070
+},
+{
+  "type": "node",
+  "id": 7883935010,
+  "lat": 47.5944898,
+  "lon": 7.6558172
+},
+{
+  "type": "node",
+  "id": 7883935011,
+  "lat": 47.5945098,
+  "lon": 7.6558274
+},
+{
+  "type": "node",
+  "id": 7883935012,
+  "lat": 47.5945036,
+  "lon": 7.6558358
+},
+{
+  "type": "node",
+  "id": 7883935015,
+  "lat": 47.5944558,
+  "lon": 7.6556931
+},
+{
+  "type": "node",
+  "id": 7883935016,
+  "lat": 47.5944647,
+  "lon": 7.6557681
+},
+{
+  "type": "node",
+  "id": 7883935017,
+  "lat": 47.5944797,
+  "lon": 7.6557413
+},
+{
+  "type": "node",
+  "id": 10142523101,
+  "lat": 47.5890256,
+  "lon": 7.6551628
+},
+{
+  "type": "node",
+  "id": 10142523102,
+  "lat": 47.5896169,
+  "lon": 7.6553531
+},
+{
+  "type": "node",
+  "id": 10142523103,
+  "lat": 47.5900464,
+  "lon": 7.6554904
+},
+{
+  "type": "node",
+  "id": 10142523104,
+  "lat": 47.5904870,
+  "lon": 7.6556276
+},
+{
+  "type": "node",
+  "id": 10142523105,
+  "lat": 47.5908783,
+  "lon": 7.6557539
+},
+{
+  "type": "node",
+  "id": 10142523106,
+  "lat": 47.5911622,
+  "lon": 7.6558436
+},
+{
+  "type": "node",
+  "id": 10142523107,
+  "lat": 47.5915584,
+  "lon": 7.6559735
+},
+{
+  "type": "node",
+  "id": 10142523108,
+  "lat": 47.5920151,
+  "lon": 7.6561199
+},
+{
+  "type": "node",
+  "id": 10142523109,
+  "lat": 47.5925150,
+  "lon": 7.6562792
+},
+{
+  "type": "node",
+  "id": 10142523110,
+  "lat": 47.5929630,
+  "lon": 7.6564201
+},
+{
+  "type": "node",
+  "id": 10142523111,
+  "lat": 47.5934530,
+  "lon": 7.6565775
+},
+{
+  "type": "node",
+  "id": 10142523112,
+  "lat": 47.5939195,
+  "lon": 7.6567276
+},
+{
+  "type": "node",
+  "id": 10142523113,
+  "lat": 47.5944058,
+  "lon": 7.6568849
+},
+{
+  "type": "node",
+  "id": 10142523114,
+  "lat": 47.5949452,
+  "lon": 7.6570606
+},
+{
+  "type": "node",
+  "id": 10142523115,
+  "lat": 47.5955191,
+  "lon": 7.6572492
+},
+{
+  "type": "node",
+  "id": 19387435,
+  "lat": 47.5974909,
+  "lon": 7.6562783
+},
+{
+  "type": "node",
+  "id": 19387444,
+  "lat": 47.5963310,
+  "lon": 7.6560024
+},
+{
+  "type": "node",
+  "id": 19387534,
+  "lat": 47.5984486,
+  "lon": 7.6564077
+},
+{
+  "type": "node",
+  "id": 37072835,
+  "lat": 47.5982379,
+  "lon": 7.6563767
+},
+{
+  "type": "node",
+  "id": 37072858,
+  "lat": 47.5965615,
+  "lon": 7.6560740
+},
+{
+  "type": "node",
+  "id": 37072864,
+  "lat": 47.5985319,
+  "lon": 7.6570764
+},
+{
+  "type": "node",
+  "id": 37072870,
+  "lat": 47.5986293,
+  "lon": 7.6574104
+},
+{
+  "type": "node",
+  "id": 37072873,
+  "lat": 47.5986323,
+  "lon": 7.6577592
+},
+{
+  "type": "node",
+  "id": 37072877,
+  "lat": 47.5986121,
+  "lon": 7.6580905
+},
+{
+  "type": "node",
+  "id": 37072882,
+  "lat": 47.5986987,
+  "lon": 7.6584961
+},
+{
+  "type": "node",
+  "id": 37072885,
+  "lat": 47.5989655,
+  "lon": 7.6587445
+},
+{
+  "type": "node",
+  "id": 37072888,
+  "lat": 47.5991956,
+  "lon": 7.6587793
+},
+{
+  "type": "node",
+  "id": 37072892,
+  "lat": 47.5994274,
+  "lon": 7.6586965
+},
+{
+  "type": "node",
+  "id": 37072898,
+  "lat": 47.5997576,
+  "lon": 7.6587262
+},
+{
+  "type": "node",
+  "id": 60483039,
+  "lat": 47.5985841,
+  "lon": 7.6594264
+},
+{
+  "type": "node",
+  "id": 60483070,
+  "lat": 47.5955911,
+  "lon": 7.6584049
+},
+{
+  "type": "node",
+  "id": 60483073,
+  "lat": 47.5957109,
+  "lon": 7.6578823
+},
+{
+  "type": "node",
+  "id": 60483082,
+  "lat": 47.5967601,
+  "lon": 7.6582169
+},
+{
+  "type": "node",
+  "id": 60483085,
+  "lat": 47.5968588,
+  "lon": 7.6578134
+},
+{
+  "type": "node",
+  "id": 60483088,
+  "lat": 47.5975805,
+  "lon": 7.6580443
+},
+{
+  "type": "node",
+  "id": 60483091,
+  "lat": 47.5980307,
+  "lon": 7.6581967
+},
+{
+  "type": "node",
+  "id": 60483094,
+  "lat": 47.5983904,
+  "lon": 7.6583063
+},
+{
+  "type": "node",
+  "id": 60483099,
+  "lat": 47.5984646,
+  "lon": 7.6583815
+},
+{
+  "type": "node",
+  "id": 60483101,
+  "lat": 47.5985367,
+  "lon": 7.6585166
+},
+{
+  "type": "node",
+  "id": 60483105,
+  "lat": 47.5986436,
+  "lon": 7.6588187
+},
+{
+  "type": "node",
+  "id": 60483108,
+  "lat": 47.5986395,
+  "lon": 7.6590119
+},
+{
+  "type": "node",
+  "id": 60483110,
+  "lat": 47.5986293,
+  "lon": 7.6591356
+},
+{
+  "type": "node",
+  "id": 280331428,
+  "lat": 47.5989838,
+  "lon": 7.6565475
+},
+{
+  "type": "node",
+  "id": 280331429,
+  "lat": 47.6000239,
+  "lon": 7.6577096
+},
+{
+  "type": "node",
+  "id": 280331430,
+  "lat": 47.6015281,
+  "lon": 7.6588438
+},
+{
+  "type": "node",
+  "id": 280546010,
+  "lat": 47.6005987,
+  "lon": 7.6590189
+},
+{
+  "type": "node",
+  "id": 282864616,
+  "lat": 47.5961346,
+  "lon": 7.6559426
+},
+{
+  "type": "node",
+  "id": 365397919,
+  "lat": 47.6007066,
+  "lon": 7.6583864
+},
+{
+  "type": "node",
+  "id": 412208986,
+  "lat": 47.6001718,
+  "lon": 7.6579062
+},
+{
+  "type": "node",
+  "id": 428886300,
+  "lat": 47.5961693,
+  "lon": 7.6559517
+},
+{
+  "type": "node",
+  "id": 428886301,
+  "lat": 47.5967488,
+  "lon": 7.6561294
+},
+{
+  "type": "node",
+  "id": 1027005420,
+  "lat": 47.6019820,
+  "lon": 7.6589824
+},
+{
+  "type": "node",
+  "id": 1027005429,
+  "lat": 47.6011236,
+  "lon": 7.6586315
+},
+{
+  "type": "node",
+  "id": 1027005431,
+  "lat": 47.5996139,
+  "lon": 7.6586908
+},
+{
+  "type": "node",
+  "id": 1027005433,
+  "lat": 47.5967949,
+  "lon": 7.6581869
+},
+{
+  "type": "node",
+  "id": 1027005442,
+  "lat": 47.5968519,
+  "lon": 7.6578201
+},
+{
+  "type": "node",
+  "id": 1076236220,
+  "lat": 47.5986380,
+  "lon": 7.6582901
+},
+{
+  "type": "node",
+  "id": 1076236226,
+  "lat": 47.5988085,
+  "lon": 7.6586515
+},
+{
+  "type": "node",
+  "id": 1076236235,
+  "lat": 47.5986470,
+  "lon": 7.6575989
+},
+{
+  "type": "node",
+  "id": 1076236248,
+  "lat": 47.5990793,
+  "lon": 7.6587744
+},
+{
+  "type": "node",
+  "id": 1078588063,
+  "lat": 47.5988892,
+  "lon": 7.6565030
+},
+{
+  "type": "node",
+  "id": 1078588289,
+  "lat": 47.5991588,
+  "lon": 7.6566600
+},
+{
+  "type": "node",
+  "id": 1078588642,
+  "lat": 47.5972221,
+  "lon": 7.6562398
+},
+{
+  "type": "node",
+  "id": 1403313541,
+  "lat": 47.5987850,
+  "lon": 7.6564658
+},
+{
+  "type": "node",
+  "id": 1403313559,
+  "lat": 47.5967822,
+  "lon": 7.6582102
+},
+{
+  "type": "node",
+  "id": 1404960369,
+  "lat": 47.5984373,
+  "lon": 7.6583538
+},
+{
+  "type": "node",
+  "id": 1496259348,
+  "lat": 47.6017938,
+  "lon": 7.6589384
+},
+{
+  "type": "node",
+  "id": 1628110069,
+  "lat": 47.5985143,
+  "lon": 7.6568247
+},
+{
+  "type": "node",
+  "id": 1628110071,
+  "lat": 47.5985480,
+  "lon": 7.6564253
+},
+{
+  "type": "node",
+  "id": 1640977305,
+  "lat": 47.5993413,
+  "lon": 7.6568350
+},
+{
+  "type": "node",
+  "id": 1640977321,
+  "lat": 47.5995715,
+  "lon": 7.6571229
+},
+{
+  "type": "node",
+  "id": 1713257743,
+  "lat": 47.6018687,
+  "lon": 7.6589572
+},
+{
+  "type": "node",
+  "id": 2440609578,
+  "lat": 47.5957375,
+  "lon": 7.6558089
+},
+{
+  "type": "node",
+  "id": 2449988330,
+  "lat": 47.5958564,
+  "lon": 7.6558541
+},
+{
+  "type": "node",
+  "id": 2449988338,
+  "lat": 47.5955947,
+  "lon": 7.6557466
+},
+{
+  "type": "node",
+  "id": 2518929706,
+  "lat": 47.5997301,
+  "lon": 7.6573341
+},
+{
+  "type": "node",
+  "id": 3724847323,
+  "lat": 47.5955895,
+  "lon": 7.6557441
+},
+{
+  "type": "node",
+  "id": 3869324396,
+  "lat": 47.5956768,
+  "lon": 7.6579067
+},
+{
+  "type": "node",
+  "id": 3869430634,
+  "lat": 47.6007884,
+  "lon": 7.6584344
+},
+{
+  "type": "node",
+  "id": 3869430639,
+  "lat": 47.6013395,
+  "lon": 7.6587525
+},
+{
+  "type": "node",
+  "id": 3869430643,
+  "lat": 47.6014313,
+  "lon": 7.6588017
+},
+{
+  "type": "node",
+  "id": 3869431658,
+  "lat": 47.6016794,
+  "lon": 7.6589014
+},
+{
+  "type": "node",
+  "id": 3884448363,
+  "lat": 47.5962639,
+  "lon": 7.6559802
+},
+{
+  "type": "node",
+  "id": 4551714033,
+  "lat": 47.5959896,
+  "lon": 7.6579707
+},
+{
+  "type": "node",
+  "id": 5262918626,
+  "lat": 47.6020624,
+  "lon": 7.6590000
+},
+{
+  "type": "node",
+  "id": 5734322293,
+  "lat": 47.5968800,
+  "lon": 7.6578126
+},
+{
+  "type": "node",
+  "id": 5734322294,
+  "lat": 47.5968679,
+  "lon": 7.6578104
+},
+{
+  "type": "node",
+  "id": 5734322296,
+  "lat": 47.5968456,
+  "lon": 7.6578350
+},
+{
+  "type": "node",
+  "id": 7221350593,
+  "lat": 47.5985162,
+  "lon": 7.6569536
+},
+{
+  "type": "node",
+  "id": 7221350595,
+  "lat": 47.5969743,
+  "lon": 7.6561915
+},
+{
+  "type": "node",
+  "id": 7221350608,
+  "lat": 47.5992537,
+  "lon": 7.6567445
+},
+{
+  "type": "node",
+  "id": 7221350609,
+  "lat": 47.5990733,
+  "lon": 7.6565978
+},
+{
+  "type": "node",
+  "id": 7221350611,
+  "lat": 47.6004573,
+  "lon": 7.6582099
+},
+{
+  "type": "node",
+  "id": 7221350612,
+  "lat": 47.6003476,
+  "lon": 7.6581088
+},
+{
+  "type": "node",
+  "id": 7850753669,
+  "lat": 47.6005134,
+  "lon": 7.6589892
+},
+{
+  "type": "node",
+  "id": 8442793394,
+  "lat": 47.5989600,
+  "lon": 7.6565363
+},
+{
+  "type": "node",
+  "id": 8442793407,
+  "lat": 47.5987606,
+  "lon": 7.6564616
+},
+{
+  "type": "node",
+  "id": 9230796770,
+  "lat": 47.5979598,
+  "lon": 7.6563401
+},
+{
+  "type": "node",
+  "id": 10112453456,
+  "lat": 47.5964274,
+  "lon": 7.6560318
+},
+{
+  "type": "node",
+  "id": 10112453470,
+  "lat": 47.5958389,
+  "lon": 7.6558474
+},
+{
+  "type": "node",
+  "id": 10142523116,
+  "lat": 47.5958065,
+  "lon": 7.6573486
+},
+{
+  "type": "node",
+  "id": 10268494139,
+  "lat": 47.6018133,
+  "lon": 7.6589433
+},
+{
+  "type": "node",
+  "id": 10285291241,
+  "lat": 47.5985316,
+  "lon": 7.6566193
+},
+{
+  "type": "node",
+  "id": 10285291242,
+  "lat": 47.5994216,
+  "lon": 7.6569347
+},
+{
+  "type": "node",
+  "id": 10285291245,
+  "lat": 47.6000384,
+  "lon": 7.6588239
+},
+{
+  "type": "node",
+  "id": 10285291247,
+  "lat": 47.5986396,
+  "lon": 7.6564409
+},
+{
+  "type": "node",
+  "id": 10285291248,
+  "lat": 47.5985284,
+  "lon": 7.6566573
+},
+{
+  "type": "node",
+  "id": 10285291249,
+  "lat": 47.5985259,
+  "lon": 7.6566878
+},
+{
+  "type": "node",
+  "id": 10285291250,
+  "lat": 47.5981193,
+  "lon": 7.6563611
+},
+{
+  "type": "node",
+  "id": 10285291251,
+  "lat": 47.5983992,
+  "lon": 7.6564004
+},
+{
+  "type": "node",
+  "id": 10286149395,
+  "lat": 47.5979768,
+  "lon": 7.6563423
+},
+{
+  "type": "node",
+  "id": 10753743109,
+  "lat": 47.6005453,
+  "lon": 7.6590003
+},
+{
+  "type": "node",
+  "id": 19387496,
+  "lat": 47.6024756,
+  "lon": 7.6590510
+},
+{
+  "type": "node",
+  "id": 1027005408,
+  "lat": 47.6026837,
+  "lon": 7.6590472
+},
+{
+  "type": "node",
+  "id": 1045650140,
+  "lat": 47.6022295,
+  "lon": 7.6590352
+},
+{
+  "type": "node",
+  "id": 1054833219,
+  "lat": 47.6022966,
+  "lon": 7.6590448
+},
+{
+  "type": "node",
+  "id": 1507879774,
+  "lat": 47.6031047,
+  "lon": 7.6590310
+},
+{
+  "type": "node",
+  "id": 1507879777,
+  "lat": 47.6034883,
+  "lon": 7.6590829
+},
+{
+  "type": "node",
+  "id": 1507879778,
+  "lat": 47.6045636,
+  "lon": 7.6592847
+},
+{
+  "type": "node",
+  "id": 1713257938,
+  "lat": 47.6021683,
+  "lon": 7.6591312
+},
+{
+  "type": "node",
+  "id": 1713258009,
+  "lat": 47.6022694,
+  "lon": 7.6592115
+},
+{
+  "type": "node",
+  "id": 1713258063,
+  "lat": 47.6023060,
+  "lon": 7.6592454
+},
+{
+  "type": "node",
+  "id": 1713258093,
+  "lat": 47.6023594,
+  "lon": 7.6593375
+},
+{
+  "type": "node",
+  "id": 2836177411,
+  "lat": 47.6061628,
+  "lon": 7.6595730
+},
+{
+  "type": "node",
+  "id": 6379335598,
+  "lat": 47.6022133,
+  "lon": 7.6591675
+},
+{
+  "type": "node",
+  "id": 6379335599,
+  "lat": 47.6028995,
+  "lon": 7.6590347
+},
+{
+  "type": "node",
+  "id": 6379335600,
+  "lat": 47.6032341,
+  "lon": 7.6590422
+},
+{
+  "type": "node",
+  "id": 10112941028,
+  "lat": 47.6051850,
+  "lon": 7.6593967
+}
+
+  ]
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Nodes for Basler Str. / Lörrach Mitte intersection
+     Coordinate system: local metric (meters from intersection center)
+     N-S: Basler Straße (ehem. B317)
+     E-W: Querstraße (Tumringer Str. / Bahnhofstr. approximation)
+-->
+<nodes>
+    <!-- Central traffic-light-controlled intersection -->
+    <node id="C" x="0.0" y="0.0" type="traffic_light"/>
+
+    <!-- Arm endpoints (200m from center - enough for queue buildup) -->
+    <node id="N" x="0.0"    y="200.0"  type="priority"/>  <!-- Basler Str. Nord (Richtung Stetten) -->
+    <node id="S" x="0.0"    y="-200.0" type="priority"/>  <!-- Basler Str. Süd (Richtung CH-Grenze) -->
+    <node id="E" x="200.0"  y="0.0"    type="priority"/>  <!-- Querstraße Ost (Richtung Bahnhof) -->
+    <node id="W" x="-200.0" y="0.0"    type="priority"/>  <!-- Querstraße West (Richtung Innenstadt) -->
+</nodes>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Basic demand for Basler Str. / Lörrach Mitte intersection
+     Medium scenario: ~8,000 Kfz/Tag total (based on DTV 2024 Lörrach-Stetten)
+     Scaled for 1h simulation: ~330 Kfz/h (off-peak), ~770 Kfz/h (rush hour)
+     Using rush-hour profile (17:00-18:00) for training: ~770 veh/h total
+
+     Basler Str. (N-S): ~60% of traffic
+     Querstraße (E-W):  ~40% of traffic
+     Turning ratios:    60% straight, 20% left, 20% right (estimated)
+-->
+<routes>
+    <!-- Vehicle type: standard passenger car -->
+    <vType id="car" vClass="passenger" length="5.0" minGap="2.5"
+           maxSpeed="13.89" accel="2.6" decel="4.5" sigma="0.5"/>
+
+    <!-- ===== Routes (all 12 OD pairs) ===== -->
+    <!-- N-S axis (Basler Straße) -->
+    <route id="N_S" edges="N_C C_S"/>    <!-- Nord → Süd (geradeaus) -->
+    <route id="N_E" edges="N_C C_E"/>    <!-- Nord → Ost (rechts ab) -->
+    <route id="N_W" edges="N_C C_W"/>    <!-- Nord → West (links ab) -->
+
+    <route id="S_N" edges="S_C C_N"/>    <!-- Süd → Nord (geradeaus) -->
+    <route id="S_W" edges="S_C C_W"/>    <!-- Süd → West (rechts ab) -->
+    <route id="S_E" edges="S_C C_E"/>    <!-- Süd → Ost (links ab) -->
+
+    <!-- E-W axis (Querstraße) -->
+    <route id="E_W" edges="E_C C_W"/>    <!-- Ost → West (geradeaus) -->
+    <route id="E_N" edges="E_C C_N"/>    <!-- Ost → Nord (rechts ab) -->
+    <route id="E_S" edges="E_C C_S"/>    <!-- Ost → Süd (links ab) -->
+
+    <route id="W_E" edges="W_C C_E"/>    <!-- West → Ost (geradeaus) -->
+    <route id="W_S" edges="W_C C_S"/>    <!-- West → Süd (rechts ab) -->
+    <route id="W_N" edges="W_C C_N"/>    <!-- West → Nord (links ab) -->
+
+    <!-- ===== Flows (medium scenario, rush-hour ~770 veh/h) ===== -->
+    <!-- Basler Str. Nord (incoming ~230 veh/h, 60% of N-S share) -->
+    <flow id="f_N_S" route="N_S" type="car" begin="0" end="3600" vehsPerHour="138" departLane="best" departSpeed="max"/>
+    <flow id="f_N_E" route="N_E" type="car" begin="0" end="3600" vehsPerHour="46"  departLane="best" departSpeed="max"/>
+    <flow id="f_N_W" route="N_W" type="car" begin="0" end="3600" vehsPerHour="46"  departLane="best" departSpeed="max"/>
+
+    <!-- Basler Str. Süd (incoming ~230 veh/h) -->
+    <flow id="f_S_N" route="S_N" type="car" begin="0" end="3600" vehsPerHour="138" departLane="best" departSpeed="max"/>
+    <flow id="f_S_W" route="S_W" type="car" begin="0" end="3600" vehsPerHour="46"  departLane="best" departSpeed="max"/>
+    <flow id="f_S_E" route="S_E" type="car" begin="0" end="3600" vehsPerHour="46"  departLane="best" departSpeed="max"/>
+
+    <!-- Querstraße Ost (incoming ~155 veh/h, 40% of E-W share) -->
+    <flow id="f_E_W" route="E_W" type="car" begin="0" end="3600" vehsPerHour="93"  departLane="best" departSpeed="max"/>
+    <flow id="f_E_N" route="E_N" type="car" begin="0" end="3600" vehsPerHour="31"  departLane="best" departSpeed="max"/>
+    <flow id="f_E_S" route="E_S" type="car" begin="0" end="3600" vehsPerHour="31"  departLane="best" departSpeed="max"/>
+
+    <!-- Querstraße West (incoming ~155 veh/h) -->
+    <flow id="f_W_E" route="W_E" type="car" begin="0" end="3600" vehsPerHour="93"  departLane="best" departSpeed="max"/>
+    <flow id="f_W_S" route="W_S" type="car" begin="0" end="3600" vehsPerHour="31"  departLane="best" departSpeed="max"/>
+    <flow id="f_W_N" route="W_N" type="car" begin="0" end="3600" vehsPerHour="31"  departLane="best" departSpeed="max"/>
+</routes>

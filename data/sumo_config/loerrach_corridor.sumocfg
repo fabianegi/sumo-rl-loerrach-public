@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- SUMO configuration for 3-intersection corridor along Basler Straße -->
+<configuration>
+    <input>
+        <net-file value="loerrach_corridor.net.xml"/>
+        <route-files value="loerrach_corridor_medium.rou.xml"/>
+        <additional-files value="loerrach.add.xml"/>
+    </input>
+
+    <time>
+        <begin value="0"/>
+        <end value="3600"/>
+    </time>
+
+    <processing>
+        <time-to-teleport value="-1"/>
+    </processing>
+
+    <report>
+        <no-step-log value="true"/>
+        <no-warnings value="true"/>
+    </report>
+</configuration>
