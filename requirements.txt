@@ -1,0 +1,33 @@
+# === SUMO via pip (no separate system install / no manual SUMO_HOME) ===
+# eclipse-sumo ships the compiled SUMO binaries + the traci/sumolib tools for
+# Windows / macOS / Linux. run.py resolves SUMO_HOME from `import sumo` at startup.
+eclipse-sumo==1.26.0
+sumolib==1.26.0               # standalone network-parsing utilities
+libsumo==1.21.0               # OPTIONAL (faster headless via LIBSUMO_AS_TRACI=1);
+                              # comment out if no wheel exists for your platform/Python.
+
+# === RL Core (pinned for reproducibility) ===
+sumo-rl==1.4.5
+stable-baselines3[extra]==2.3.2
+gymnasium==0.29.1              # CRITICAL: sumo-rl 1.4.5 NOT compatible with gymnasium>=1.0
+torch>=2.1.0,<3.0.0
+
+# === Data & Visualization ===
+numpy>=1.26.0,<2.0.0           # numpy 2.x has breaking changes
+pandas>=2.1.0
+matplotlib>=3.8.0
+seaborn>=0.13.0
+scipy>=1.11.0                  # Mann-Whitney U, statistical tests
+
+# === Logging & Monitoring ===
+tensorboard>=2.14.0            # SB3 training logging
+tqdm>=4.66.0
+
+# === Utilities ===
+python-dotenv>=1.0.0
+rich>=13.0.0                   # Beautiful terminal output
+
+# === Optional (uncomment if needed) ===
+# plotly>=5.18.0               # Interactive plots
+# optuna>=3.5.0                # Hyperparameter optimization
+# mlflow>=2.10.0               # Experiment tracking

@@ -1,0 +1,84 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+
+# Tooling caches
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Agent tooling (local only, never commit)
+AGENTS.md
+
+# Environment
+.env
+.env.local
+
+# SUMO outputs (regeneratable, NOT input files)
+data/sumo_config/*output.xml
+data/sumo_config/*_trips.xml
+data/sumo_config/*.rou.alt.xml
+data/sumo_config/osm_bbox.osc
+edge_output.xml
+lane_output.xml
+# IMPORTANT: loerrach.net.xml, .rou.xml, .sumocfg, .add.xml ARE tracked (inputs)
+
+# Model checkpoints (large binary files)
+models/checkpoints/*.zip
+models/checkpoints/*.pkl
+!models/checkpoints/.gitkeep
+
+# Results (regeneratable)
+results/plots/*.png
+results/plots/*.pdf
+results/csv/*.csv
+!results/plots/.gitkeep
+!results/csv/.gitkeep
+!results/evaluation/.gitkeep
+# Audit evidence chain: the result CSVs under results/csv/ ARE versioned so the
+# 31-check audit (scripts/audit_results.py) runs from a fresh clone (reproducibility).
+!results/csv/*.csv
+
+# Generated audit report (regeneratable via scripts/generate_report.py)
+results/VERIFICATION_REPORT.md
+
+# Raw data (download separately)
+data/raw/*.csv
+data/raw/*.zip
+data/raw/*.pdf
+!data/raw/.gitkeep
+
+# Logs
+*.log
+logs/*
+!logs/.gitkeep
+
+# TensorBoard
+runs/*
+!runs/.gitkeep

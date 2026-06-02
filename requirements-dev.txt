@@ -1,0 +1,12 @@
+# Dev-only tools (not needed for grading)
+-r requirements.txt
+
+# Code Quality
+ruff>=0.4.0
+pytest>=8.0.0
+pytest-cov>=4.0.0
+
+# Jupyter (optional local experimentation)
+jupyter>=1.0.0
+jupyterlab>=4.0.0
+ipywidgets>=8.0.0
