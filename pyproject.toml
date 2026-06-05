@@ -9,7 +9,7 @@ description = "RL-based traffic light optimization for Loerrach, Germany"
 authors = [{name = "Fabian Egenberger"}]
 requires-python = ">=3.11,<3.12"
 readme = "README.md"
-license = {text = "MIT"}
+license = {text = "PolyForm-Noncommercial-1.0.0"}
 
 [tool.setuptools.packages.find]
 where = ["."]
