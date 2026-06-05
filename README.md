@@ -155,6 +155,18 @@ abgeschlossene Fahrzeuge), weshalb der Durchsatz als Leitindikator dient. Vollst
 
 ## Lizenz
 
-PolyForm Noncommercial License 1.0.0, siehe [`LICENSE`](LICENSE). Nutzung für private, schulische
-und sonstige nicht-kommerzielle Zwecke ist erlaubt. Für eine kommerzielle Nutzung bitte den Autor
-über <https://github.com/fabianegi> kontaktieren.
+Eigener Code und eigene Dokumentation dieses Repos stehen unter der PolyForm Noncommercial
+License 1.0.0, siehe [`LICENSE`](LICENSE). Nutzung für private, schulische, Forschungs- und
+sonstige nicht-kommerzielle Zwecke ist erlaubt; kommerzielle Nutzung nicht. Für eine kommerzielle
+Lizenz bitte den Autor über <https://github.com/fabianegi> kontaktieren. Das ist eine
+source-available-Lizenz, keine Open-Source-Lizenz im Sinne der OSI (sie schließt kommerzielle
+Nutzung aus).
+
+Mitgelieferte Fremddaten behalten ihre eigene Lizenz und sind von der PolyForm-Lizenz nicht erfasst:
+
+- Straßennetz und Geometrie (`data/raw/osm/`, daraus abgeleitet `data/sumo_config/loerrach_osm*`):
+  © OpenStreetMap-Mitwirkende, lizenziert unter der Open Database License (ODbL).
+- BASt-Zähldaten (`data/raw/bast/`): Bundesanstalt für Straßenwesen, Datenlizenz Deutschland
+  Namensnennung 2.0 (dl-de/by-2-0).
+- SUMO, sumo-rl, stable-baselines3 und weitere Bibliotheken sind Abhängigkeiten unter ihren
+  jeweiligen Lizenzen und nicht Teil dieses Repos.
