@@ -68,7 +68,10 @@ Unter Unix spiegelt ein optionales `Makefile` diese Befehle (`make check`, `make
     beim synthetischen 4-Arm-Netz); Entscheidung alle 5 s, `min_green = 10 s`, `yellow_time = 3 s`.
   - Reward: `diff-waiting-time` (Standard) oder `pressure`, wählbar über `--reward`.
 - DQN ist das Hauptverfahren, PPO der Vergleich (beide über stable-baselines3, gleiche Env- und
-  Evaluationspipeline).
+  Evaluationspipeline). Die vollständigen Hyperparameter beider Verfahren (Lernrate, `n_steps`,
+  `batch_size`, `clip_range`, `gamma` u. a.) stehen in
+  [`docs/documentation/06_training.md`](docs/documentation/06_training.md) (Tabellen 3 und 4) und
+  sind aus `src/config/settings.py` abgeleitet.
 - Netz und Nachfrage: echter OSM-Import der Kreuzung; die Nachfrage (`randomTrips`) ist auf die
   BASt-Spitzenstunde kalibriert (rund 680 Kfz/h, Szenario medium).
 - Baseline: die aus OSM importierte Festzeitschaltung (ungetuntes 90-s-Standardprogramm),
