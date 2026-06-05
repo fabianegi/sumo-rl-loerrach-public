@@ -138,7 +138,7 @@ def train_dqn(
     # Save final model
     model_path = CONFIG.paths.models_dir / f"{model_name}.zip"
     model_path.parent.mkdir(parents=True, exist_ok=True)
-    model.save(str(model_path.with_suffix("")))
+    model.save(str(model_path))
     logger.info("Final model saved: %s", model_path)
 
     env.close()
